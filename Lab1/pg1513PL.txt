@@ -1,0 +1,5633 @@
+﻿Projekt Gutenberg eBook Romea i Julii, przez Williama Szekspira
+
+Ten eBook jest przeznaczony do użytku każdego w Stanach Zjednoczonych i
+większość innych części świata bez żadnych kosztów i prawie bez ograniczeń
+cokolwiek. Możesz go kopiować, rozdawać lub ponownie wykorzystywać zgodnie z warunkami
+Licencji Projektu Gutenberg dołączonej do tego eBooka lub online pod adresem
+www.gutenberg.org. Jeśli nie znajdujesz się w Stanach Zjednoczonych, ty
+będzie musiał wcześniej sprawdzić przepisy kraju, w którym się znajdujesz
+korzystając z tego e-booka.
+
+Tytuł: Romeo i Julia
+
+Autor: William Shakespeare
+
+Data wydania: listopad 1998 [eBook nr 1513]
+[Ostatnia aktualizacja: 11 maja 2022 r.]
+
+Język angielski
+
+
+Produkcja: PG Shakespeare Team, zespół około dwudziestu wolontariuszy Projektu Gutenberg.
+
+*** POCZĄTEK PROJEKTU GUTENBERG EBOOK ROMEO I JULIA ***
+
+
+
+
+TRAGEDIA ROMEO I JULIA
+
+
+
+przez Williama Szekspira
+
+
+Zawartość
+
+PROLOG.
+
+AKT I
+Scena I. Miejsce publiczne.
+Scena II. Ulica.
+Scena III. Pokój w Domu Kapuletów.
+Scena IV. Ulica.
+Scena V. Sala w domu Kapuletów.
+
+
+AKT II
+CHÓR.
+Scena I. Otwarty plac przylegający do Ogrodu Kapuletów.
+Scena II. Ogród Kapuletów.
+Scena III. Cela brata Lawrence'a.
+Scena IV. Ulica.
+Scena V. Ogród Kapuletów.
+Scena VI. Cela brata Lawrence'a.
+
+
+AKT III
+Scena I. Miejsce publiczne.
+Scena II. Pokój w domu Kapuletów.
+Scena III. Cela brata Lawrence'a.
+Scena IV. Pokój w domu Kapuletów.
+Scena V. Otwarta Galeria do Komnaty Julii z widokiem na Ogród.
+
+
+AKT IV
+Scena I. Cela brata Wawrzyńca.
+Scena II. Sala w Domu Kapuletów.
+Scena III. Komnata Julii.
+Scena IV. Sala w Domu Kapuletów.
+Scena V. Komnata Julii; Julia na łóżku.
+
+
+AKT V
+Scena I. Mantua. Ulica.
+Scena II. Cela brata Lawrence'a.
+Scena III. Cmentarz; w nim Pomnik należący do Kapuletów.
+
+
+
+
+ Dramatis Personæ
+
+ESCALUS, książę Werony.
+MERCUTIO, krewny Księcia i przyjaciel Romea.
+PARIS, młody szlachcic, krewny księcia.
+Strona do Paryża.
+
+MONTAGUE, głowa rodziny Veronese w konflikcie z Kapuletami.
+LADY MONTAGUE, żona Montague.
+ROMEO, syn Montague.
+BENVOLIO, siostrzeniec Montague i przyjaciel Romea.
+ABRAM, sługa Montague'a.
+BALTAZAR, sługa Romea.
+
+KAPULET, głowa rodziny Veronesów w konflikcie z Montekimi.
+LADY CAPULET, żona Capuleta.
+JULIA, córka Kapuleta.
+TYBALT, siostrzeniec Lady Capulet.
+KUZYN KAPULETA, staruszek.
+PIELĘGNIARKA do Julii.
+PIOTR, sługa Pielęgniarki Julii.
+SAMPSON, sługa Kapuleta.
+GRZEGORZ, sługa Kapuleta.
+Słudzy.
+
+FRIAR LAWRENCE, franciszkanin.
+BRACIA JANA z tego samego Zakonu.
+Aptekarz.
+CHÓR.
+Trzech muzyków.
+Oficer.
+Obywatele Werony; kilku mężczyzn i kobiet, krewnych obu domów;
+Maskerzy, Strażnicy, Strażnicy i Pomocnicy.
+
+SCENA. Przez większą część spektaklu w Weronie; raz, w
+Akt piąty, w Mantui.
+
+
+PROLOG
+
+ Wejdź do chóru.
+
+CHÓR.
+Dwa gospodarstwa domowe, oba podobne w godności,
+W pięknej Weronie, gdzie złożyliśmy naszą scenę,
+Od starożytnego zerwania urazy do nowego buntu,
+Gdzie cywilna krew czyni nieczyste ręce cywilów.
+Z przodu śmiertelne lędźwie tych dwóch wrogów
+Para kochanków ze skrzyżowanymi gwiazdami odbiera sobie życie;
+Którego nieszczęścia żałosne obala
+Swoją śmiercią pogrzebią kłótnie swoich rodziców.
+Straszne przejście ich miłości naznaczonej śmiercią,
+I kontynuacja wściekłości ich rodziców,
+Których, oprócz końca ich dzieci, nic nie mogło usunąć,
+Jest teraz dwugodzinny ruch na naszej scenie;
+Które, jeśli słuchasz cierpliwych uszu,
+Czego tu zabraknie, nasz trud będzie starał się naprawić.
+
+ [_Wyjście._]
+
+
+
+AKT I
+
+SCENA I. Miejsce publiczne.
+
+ Wchodzą Sampson i Gregory uzbrojeni w miecze i puklerze.
+
+SAMPSON.
+Gregory, słowo daję, nie będziemy nosić węgli.
+
+GRZEGORZ.
+Nie, bo wtedy powinniśmy być górnikami.
+
+SAMPSON.
+To znaczy, jeśli będziemy w cholerę, zremisujemy.
+
+GRZEGORZ.
+Tak, póki żyjesz, wyciągnij szyję z kołnierza.
+
+SAMPSON.
+Uderzam szybko, będąc wzruszonym.
+
+GRZEGORZ.
+Ale nie śpieszysz się do uderzenia.
+
+SAMPSON.
+Wzrusza mnie pies z domu Montague.
+
+GRZEGORZ.
+Poruszać się to mieszać; a być mężnym to stać: dlatego, jeśli ty
+poruszony, uciekasz.
+
+SAMPSON.
+Pies z tego domu poruszy mnie do stania.
+Zdobędę ścianę każdego mężczyzny lub pokojówki Montague.
+
+GRZEGORZ.
+To ci pokazuje słabego niewolnika, bo najsłabszy idzie pod mur.
+
+SAMPSON.
+To prawda, i dlatego kobiety, jako słabsze naczynia, zawsze są do tego zmuszane
+mur: dlatego zepchnę ludzi Montague'a z muru i
+pchnął służebnice do ściany.
+
+GRZEGORZ.
+Kłótnia toczy się między naszymi panami a nami, ich ludźmi.
+
+SAMPSON.
+„To wszystko jedno, okażę się tyranem: kiedy walczyłem z
+mężczyzn, będę grzeczny z dziewczętami, odetnę im głowy.
+
+GRZEGORZ.
+Głowy pokojówek?
+
+SAMPSON.
+Tak, głowy dziewcząt lub ich dziewic; weź to w jakim sensie
+chcesz.
+
+GRZEGORZ.
+Muszą to odbierać w sensie, że to czują.
+
+SAMPSON.
+Mnie poczują, dopóki będę w stanie stać: a wiadomo, że jestem
+ładny kawałek mięsa.
+
+GRZEGORZ.
+„Dobrze, że nie jesteś rybą; gdybyś to zrobił, byłbyś biednym Janem.
+Narysuj swoje narzędzie; oto pochodzi z domu Montagues.
+
+ Wchodzą Abram i Baltazar.
+
+SAMPSON.
+Moja naga broń jest wyciągnięta: kłótnia, poprę cię.
+
+GRZEGORZ.
+Jak? Odwrócić się i uciec?
+
+SAMPSON.
+Nie bój się mnie.
+
+GRZEGORZ.
+Nie, wyjdź za mąż; boję się ciebie!
+
+SAMPSON.
+Weźmy prawo naszych stron; niech zaczną.
+
+GRZEGORZ.
+Zmarszczę brwi, gdy będę przechodzić obok, i pozwolę im wziąć to tak, jak chcą.
+
+SAMPSON.
+Nie, jak oni się odważą. Ugryzę ich w kciuk, co jest dla nich hańbą
+im, jeśli to zniosą.
+
+ABRAM.
+Gryziesz nas kciukiem, sir?
+
+SAMPSON.
+Gryzę się w kciuk, proszę pana.
+
+ABRAM.
+Gryziesz nas kciukiem, sir?
+
+SAMPSON.
+Czy prawo jest po naszej stronie, jeśli powiem tak?
+
+GRZEGORZ.
+Nie.
+
+SAMPSON.
+Nie, proszę pana, nie gryzę kciuka na pana; ale gryzę się w kciuk, proszę pana.
+
+GRZEGORZ.
+Kłócicie się, panie?
+
+ABRAM.
+Kłótnia, proszę pana? Nie proszę pana.
+
+SAMPSON.
+Ale jeśli tak, proszę pana, jestem za panem. Służę tak dobremu człowiekowi jak ty.
+
+ABRAM.
+Nie lepiej.
+
+SAMPSON.
+Cóż, proszę pana.
+
+ Wejdź do Benvolia.
+
+GRZEGORZ.
+Powiedz lepiej; oto nadchodzi jeden z krewnych mojego pana.
+
+SAMPSON.
+Tak, lepiej, proszę pana.
+
+ABRAM.
+Kłamiesz.
+
+SAMPSON.
+Rysujcie, jeśli jesteście mężczyznami. Gregory, pamiętaj o swoim praniu.
+
+ [_Oni walczą._]
+
+BENWOLIO.
+Część, głupcy! podnieście miecze, nie wiecie, co czynicie.
+
+ [_Uderza ich mieczami._]
+
+ Wchodzi Tybalt.
+
+TYBALT.
+Co, ciągnie cię pośród tych bezdusznych łań?
+Nawróć się, Benvolio, spójrz na swoją śmierć.
+
+BENWOLIO.
+Ja tylko zachowuję pokój, schowaj swój miecz,
+Albo postaraj się rozdzielić tych ludzi ze mną.
+
+TYBALT.
+Co, narysowane, i mówić o pokoju? Nienawidzę tego słowa
+Jak nienawidzę piekła, wszystkich Montague i ciebie:
+Miej się na baczności, tchórzu.
+
+ [_Oni walczą._]
+
+ Wprowadź trzech lub czterech obywateli z pałkami.
+
+PIERWSZY OBYWATEL.
+Kluby, rachunki i partyzanci! Strajk! Pokonaj ich!
+Precz z Kapuletami! Precz z Montague'ami!
+
+ Wchodzi Capulet w swojej sukni i Lady Capulet.
+
+KAPULET.
+Co to za hałas? Daj mi mój długi miecz, ho!
+
+PANI KAPULET.
+Kula, kula! Dlaczego wzywasz cię po miecz?
+
+KAPULET.
+Mój miecz, mówię! Przyszedł stary Montague,
+I wymachuje swoim ostrzem wbrew mnie.
+
+ Wchodzi Montague i jego Lady Montague.
+
+MONTAŻ.
+Ty nikczemny Kapulecie! Nie trzymaj mnie, pozwól mi odejść.
+
+PANI MONTAŻ.
+Nie będziesz ruszał jedną nogą, aby szukać wroga.
+
+ Wchodzi książę Escalus z towarzyszami.
+
+KSIĄŻĘ.
+Zbuntowani poddani, wrogowie pokoju,
+Profanatorzy tej poplamionej stali sąsiada, —
+Czy nie usłyszą? Co, ho! Wy ludzie, wy bestie,
+Które ugaszą ogień twojej zgubnej wściekłości
+Z purpurowymi fontannami wypływającymi z twoich żył,
+Pod groźbą tortur, z tych zakrwawionych rąk
+Rzućcie broń na ziemię
+I wysłuchaj wyroku twego poruszonego księcia.
+Trzy bójki cywilne, zrodzone z wietrznego słowa,
+Na ciebie, stary Kapulecie i Montague,
+Trzykrotnie zakłóciliśmy ciszę naszych ulic,
+I stworzył starożytnych obywateli Werony
+Rzucane przez ich grób godnymi ozdobami,
+Dzierżyć starych partyzantów, w rękach jak stare,
+Canker'd z pokojem, by rozdzielić twoją canker'd nienawiść.
+Jeśli kiedykolwiek znowu zakłócisz nasze ulice,
+Wasze życie zapłaci za utratę pokoju.
+Na ten czas cała reszta odchodzi:
+Ty, Kapulecie, pójdziesz ze mną,
+I Montague, przyjdź dziś po południu,
+Aby poznać naszą dalszą przyjemność w tym przypadku,
+Do starego Wolnego Miasta, naszego wspólnego sądu.
+Jeszcze raz, pod groźbą śmierci, wszyscy ludzie odchodzą.
+
+ [_Wychodzi książę i pomocnicy; Capulet, pani Capulet, Tybalt,
+ Obywatele i słudzy._]
+
+MONTAŻ.
+Kto wywołał nowy konflikt w tej starożytnej kłótni?
+Mów, siostrzeńcze, czy byłeś tam, kiedy to się zaczęło?
+
+BENWOLIO.
+Oto byli słudzy twojego przeciwnika
+I twoja, bliska walka, zanim się zbliżę.
+Narysowałem, by je rozdzielić, w tej chwili nadeszło
+Ognisty Tybalt, z przygotowanym mieczem,
+Który, jak oddech rzucał wyzwanie moim uszom,
+Zakręcił się wokół głowy i uciął wiatry,
+Kogo nic nie boli, syknął z pogardą.
+Podczas gdy wymienialiśmy się pchnięciami i ciosami
+Przychodził coraz więcej i walczył po części,
+Aż przyszedł książę, który rozstał się z każdą częścią.
+
+PANI MONTAŻ.
+O, gdzie jest Romeo, widziałeś go dzisiaj?
+Cieszę się, że nie było go w tej walce.
+
+BENWOLIO.
+Pani, na godzinę przed zachodem słońca
+Wyjrzałem przez złote okno wschodu,
+Niespokojny umysł pchnął mnie na spacer za granicę,
+Gdzie pod gajem jaworowym
+To na zachód zakorzenia się od tej strony miasta,
+Tak wczesnym chodzeniem zobaczyłem twojego syna.
+Ku niemu uczyniłem, ale on mnie strzegł,
+I wkradł się do skrytki w lesie.
+Ja, mierząc jego uczucia moimi własnymi,
+Którego wtedy najbardziej szukano tam, gdzie większości nie można było znaleźć,
+Będąc o jednego za dużo przez moje znużone ja,
+Gonił mój humor, nie goniąc jego,
+I chętnie unikał tych, którzy chętnie ode mnie uciekali.
+
+MONTAŻ.
+Wiele razy rano go tam widziano,
+Ze łzami powiększającymi świeżą poranną rosę,
+Dodając do chmur więcej chmur swoimi głębokimi westchnieniami;
+Ale wszystko tak szybko, jak wiwatujące słońce
+Powinien na najdalszym wschodzie zacząć rysować
+Zacienione zasłony z łóżka Aurory,
+Z dala od światła kradnie do domu mój ciężki syn,
+I prywatnie w swojej komnacie, w zagrodach,
+Zamyka okna, blokuje światło dzienne
+I robi sobie sztuczną noc.
+Ten humor musi okazać się czarny i złowieszczy,
+Chyba że dobra rada może usunąć przyczynę.
+
+BENWOLIO.
+Mój szlachetny wujku, czy znasz przyczynę?
+
+MONTAŻ.
+Ani tego nie wiem, ani nie mogę się od niego dowiedzieć.
+
+BENWOLIO.
+Czy w jakikolwiek sposób go sprowadziłeś?
+
+MONTAŻ.
+Zarówno ja, jak i wielu innych przyjaciół;
+Ale on, doradca własnych uczuć,
+Jest dla siebie — nie powiem, na ile prawdziwy —
+Ale dla siebie tak tajemnego i tak bliskiego,
+Tak daleko od sondowania i odkrycia,
+Podobnie jak pączek ugryziony przez zazdrosnego robaka
+Zanim będzie mógł rozłożyć swoje słodkie liście w powietrzu,
+Lub poświęcić swoje piękno słońcu.
+Czy moglibyśmy tylko dowiedzieć się, skąd wyrastają jego smutki,
+Chętnie udzielilibyśmy lekarstwa, jak wiemy.
+
+ Wejdź Romeo.
+
+BENWOLIO.
+Patrz, dokąd on przychodzi. Więc proszę, odsuń się;
+Poznam jego skargę albo zostanę znacznie odrzucony.
+
+MONTAŻ.
+Chciałbym, żebyś był tak szczęśliwy z pobytu
+Aby usłyszeć prawdziwy shrift. Chodź, pani, odejdźmy,
+
+ [_Wychodzą Montague i Lady Montague._]
+
+BENWOLIO.
+Dzień dobry kuzynie.
+
+ROMEO.
+Czy ten dzień jest taki młody?
+
+BENWOLIO.
+Ale nowe wybiło dziewięć.
+
+ROMEO.
+Tak, smutne godziny wydają się długie.
+Czy to mój ojciec wyjechał stąd tak szybko?
+
+BENWOLIO.
+To było. Jaki smutek wydłuża godziny Romea?
+
+ROMEO.
+Nie mieć tego, co posiadanie sprawia, że ​​są krótkie.
+
+BENWOLIO.
+Zakochany?
+
+ROMEO.
+Na zewnątrz.
+
+BENWOLIO.
+Z miłości?
+
+ROMEO.
+Z jej łaski, gdzie jestem zakochany.
+
+BENWOLIO.
+Niestety, ta miłość tak delikatna w jego mniemaniu,
+Powinien być taki tyran i szorstki w dowodach.
+
+ROMEO.
+Niestety, ta miłość, której widok wciąż jest stłumiony,
+Powinien bez oczu widzieć ścieżki do swojej woli!
+Gdzie zjemy? o ja! Jaka tu była walka?
+Ale nie mów mi, bo wszystko słyszałem.
+Oto wiele wspólnego z nienawiścią, ale więcej z miłością:
+Dlaczego więc, o kłótliwa miłości! O kochająca nienawiść!
+O cokolwiek, z niczego najpierw stwórz!
+O ciężka lekkość! poważna próżność!
+Zniekształcony chaos dobrze wyglądających form!
+Pióro z ołowiu, jasny dym, zimny ogień, chore zdrowie!
+Wciąż przebudzony sen, to nie to!
+Tę miłość czuję, że nie czuję w tym miłości.
+Czy się nie śmiejesz?
+
+BENWOLIO.
+Nie, coz, raczej płaczę.
+
+ROMEO.
+Dobre serce, w czym?
+
+BENWOLIO.
+W ucisku twego dobrego serca.
+
+ROMEO.
+Dlaczego takie jest przestępstwo miłości.
+Moje własne żale leżą ciężkie w mojej piersi,
+Którą będziesz propagować, aby trwała
+Z większą ilością twoich. Ta miłość, którą okazałeś
+Doth dodać więcej żalu do zbyt wiele mojego własnego.
+Miłość jest dymem zrobionym z oparów westchnień;
+Bycie oczyszczonym, ogień iskrzący się w oczach kochanków;
+Będąc rozdrażnionym, morze żywione łzami kochanków:
+Co to jest jeszcze? Szaleństwo najbardziej dyskretne,
+Dławiąca żółć i konserwująca słodycz.
+Żegnaj, mój kolego.
+
+ [_Pójście._]
+
+BENWOLIO.
+Miękki! pójdę ze sobą:
+A jeśli mnie tak zostawisz, wyrządzisz mi krzywdę.
+
+ROMEO.
+Akord! zgubiłem się; Mnie tu nie ma.
+To nie jest Romeo, on jest gdzie indziej.
+
+BENWOLIO.
+Powiedz mi w smutku, kogo kochasz?
+
+ROMEO.
+Co, mam jęczeć i ci powiedzieć?
+
+BENWOLIO.
+Jęk! Dlaczego nie; ale niestety powiedz mi kto.
+
+ROMEO.
+Każ choremu w smutku uczynić jego wolę,
+Źle namówiono kogoś, kto jest tak chory.
+W smutku, kuzynie, kocham kobietę.
+
+BENWOLIO.
+Celowałem tak blisko, kiedy przypuszczałem, że kochasz.
+
+ROMEO.
+Właściwy dobry strzelec, a ona jest uczciwa, kocham.
+
+BENWOLIO.
+Właściwy uczciwy znak, uczciwy coz, jest najszybciej trafiony.
+
+ROMEO.
+Cóż, w tym trafieniu chybiasz: ona nie zostanie trafiona
+Ze strzałą Kupidyna ma dowcip Diana;
+I w silny dowód czystości dobrze uzbrojony,
+Ze słabego dziecięcego ukłonu miłości, żyje bez uroku.
+Nie wytrzyma oblężenia miłosnych warunków
+Ani czekać na spotkanie atakujących oczu,
+Ani otwierać jej kolan na święte uwodzące złoto:
+O, ona jest bogata w piękno, tylko biedna
+Że kiedy ona umiera, wraz z pięknem umiera jej sklep.
+
+BENWOLIO.
+Więc przysięgła, że ​​nadal będzie żyła w czystości?
+
+ROMEO.
+Ona ma iw tym oszczędzaniu czyni ogromne straty;
+Piękno spragnione jej surowością,
+Odcina piękno całemu potomstwu.
+Jest zbyt piękna, zbyt mądra; mądrze zbyt sprawiedliwie,
+Zasłużyć na błogość, doprowadzając mnie do rozpaczy.
+Wyrzekła się miłości, i to przyrzeczeniem
+Czy żyję martwy, że żyję, aby powiedzieć to teraz.
+
+BENWOLIO.
+Daj się rządzić przeze mnie, zapomnij o niej.
+
+ROMEO.
+O, naucz mnie, jak mam zapomnieć myśleć.
+
+BENWOLIO.
+Dając wolność twoim oczom;
+Zbadaj inne piękności.
+
+ROMEO.
+To jest droga
+Aby nazwać ją, znakomitą, kwestionowaną bardziej.
+Te wesołe maski, które całują jasne brwi dam,
+Bycie czarnym przywodzi nam na myśl, że ukrywają jarmark;
+Ten, kto został porażony ślepotą, nie może zapomnieć
+Stracił cenny skarb wzroku.
+Pokaż mi kochankę, która mija uczciwie,
+Do czego służy jej uroda, jeśli nie jako nuta
+Gdzie mogę przeczytać, kto zdał ten mijający jarmark?
+Żegnaj, nie możesz mnie nauczyć zapominać.
+
+BENWOLIO.
+Zapłacę za tę doktrynę albo umrę w długach.
+
+ [_Wyjście._]
+
+SCENA II. Ulica.
+
+ Wchodzą Capulet, Parys i Sługa.
+
+KAPULET.
+Ale Montague jest związany tak samo jak ja,
+Podobnie w karze; i nie jest to trudne, jak sądzę,
+Dla mężczyzn tak starych jak my, aby zachowali pokój.
+
+PARYŻ.
+Z honorowego rachunku jesteście oboje,
+Szkoda, że ​​tak długo żyłeś w sprzeczności.
+Ale teraz, mój panie, co powiesz na mój garnitur?
+
+KAPULET.
+Ale mówiąc o tym, co powiedziałem wcześniej.
+Moje dziecko jest jeszcze obcym na świecie,
+Nie widziała zmiany od czternastu lat;
+Niech jeszcze dwa lata zwiędną w ich dumie
+Zanim pomyślimy, że dojrzała na pannę młodą.
+
+PARYŻ.
+Młodsze od niej są szczęśliwymi matkami.
+
+KAPULET.
+I zbyt szybko marr'd są te tak wcześnie wykonane.
+Ziemia pochłonęła wszystkie moje nadzieje, ale ona,
+Ona jest pełną nadziei panią mojej ziemi:
+Ale zabiegaj o nią, delikatny Parysie, zdobądź jej serce,
+Moja wola jej zgody jest tylko częścią;
+I zgadza się, w ramach swojego wyboru
+Leży moja zgoda i uczciwy głos.
+Tej nocy urządzam starą, zwyczajową ucztę,
+Gdzie zaprosiłem niejednego gościa,
+Takich jak kocham, a ty wśród sklepu,
+Jeszcze jeden, bardzo mile widziany, powiększa mój numer.
+Spójrz na mój biedny dom tej nocy
+Gwiazdy stąpające po ziemi, które rozświetlają ciemne niebo:
+Taki komfort, jaki odczuwają pożądliwi młodzieńcy
+Kiedy dobrze ubrany April na pięcie
+O kulejących zimowych bieżnikach, nawet taka rozkosz
+Wśród świeżych żeńskich pąków będziesz tej nocy
+Odziedzicz w moim domu. Usłyszcie wszyscy, wszyscy zobaczcie,
+I jak ona najbardziej, której zasługa będzie największa:
+Który, na widok wielu, mój, będąc jednym,
+Może stać w liczbie, choć w rachunkach żaden.
+Chodź, chodź ze mną. Idź, sirrah, powłócz się
+Przez piękną Weronę; znaleźć te osoby
+Których imiona tam są zapisane, [_daje kartkę_] i mówi do nich:
+Mój dom i witam na ich przyjemnym pobycie.
+
+ [_Wychodzi Capulet i Paryż._]
+
+SŁUGA.
+Znajdź ich, których imiona są tutaj zapisane! Jest napisane, że
+szewc powinien zajmować się swoim podwórkiem, a krawiec swoim kopytami
+rybak z ołówkiem i malarz z sieciami; ale jestem posłany do
+znaleźć te osoby, których nazwiska są tutaj zapisane, i nigdy nie mogę znaleźć jakich
+nazwiska osoby piszącej, która tu napisała. Muszę uczonym. W dobrym
+czas!
+
+ Wchodzą Benwolio i Romeo.
+
+BENWOLIO.
+Tut, człowieku, jeden ogień wypala palenie innego,
+Jeden ból jest zmniejszony przez udrękę innego;
+Obróć się w zawrót głowy i bądź zdrów, obracając się do tyłu;
+Jeden rozpaczliwy smutek leczy cierpieniem drugiego:
+Weź sobie jakąś nową infekcję do oka,
+A trucizna starości zginie.
+
+ROMEO.
+Twój liść babki lancetowatej jest do tego doskonały.
+
+BENWOLIO.
+Za co proszę?
+
+ROMEO.
+Za twoją złamaną goleń.
+
+BENWOLIO.
+Dlaczego, Romeo, oszalałeś?
+
+ROMEO.
+Nie szalony, ale związany bardziej niż szaleniec to:
+Zamknięty w więzieniu, przetrzymywany bez jedzenia,
+Biczowany, dręczony i… Boże, dobry człowieku.
+
+SŁUGA.
+Daj Boże. Proszę pana, czy pan umie czytać?
+
+ROMEO.
+Tak, moje własne szczęście w mojej nędzy.
+
+SŁUGA.
+Być może nauczyłeś się tego bez książki.
+Ale modlę się, czy możesz przeczytać wszystko, co widzisz?
+
+ROMEO.
+Tak, jeśli znam litery i język.
+
+SŁUGA.
+Mówicie uczciwie, odpoczywajcie wesoło!
+
+ROMEO.
+Zostań, kolego; Potrafię czytać.
+
+ [_Czyta list._]
+
+_Signior Martino z żoną i córkami;
+Hrabstwo Anselmo i jego piękne siostry;
+Wdowa po Utruvio;
+Signior Placentio i jego urocze siostrzenice;
+Mercutio i jego brat Walenty;
+Mój wuj Capulet, jego żona i córki;
+Moja piękna siostrzenica Rozalina i Liwia;
+Signior Valentio i jego kuzyn Tybalt;
+Lucio i żywiołowa Helena. _
+
+
+Uczciwe zgromadzenie. [_Oddaje papier_] Dokąd mają przyjść?
+
+SŁUGA.
+W górę.
+
+ROMEO.
+Gdzie na kolację?
+
+SŁUGA.
+Do naszego domu.
+
+ROMEO.
+Czyj dom?
+
+SŁUGA.
+Mojego mistrza.
+
+ROMEO.
+Właściwie powinienem był cię o to wcześniej zapytać.
+
+SŁUGA.
+Teraz powiem ci bez pytania. Moim panem jest wielki bogaty Kapulet,
+a jeśli nie jesteś z domu Montagues, modlę się, przyjdź i zmiażdż
+kielich wina. Odpoczywaj wesoło.
+
+ [_Wyjście._]
+
+BENWOLIO.
+Na tym samym starożytnym święcie Kapuletów
+Wieczerzę uczciwej Rozaliny, którą tak kochasz;
+Ze wszystkimi podziwianymi pięknościami Werony.
+Idź tam i nietkniętym okiem,
+Porównaj jej twarz z niektórymi, które pokażę,
+I sprawię, że pomyślisz, że twój łabędź to wrona.
+
+ROMEO.
+Kiedy pobożna religia mojego oka
+Utrzymuje takie kłamstwo, a potem zamienia łzy w ogień;
+A ci, którzy często tonęli, nigdy nie mogli umrzeć,
+Przejrzyści heretycy, spalcie się za kłamców.
+Bardziej sprawiedliwy niż moja miłość? Wszechwidzące słońce
+Ne'er nie widział jej partnera od początku świata.
+
+BENWOLIO.
+Tut, widziałeś ją uczciwie, nikogo innego nie było obok,
+Sama pois'd z siebie w każdym oku:
+Ale w tej kryształowej wadze niech się zważy
+Miłość twojej damy przeciwko innej pokojówce
+Że pokażę ci blask na tej uczcie,
+I nie będzie się dobrze prezentować, co teraz pokazuje najlepiej.
+
+ROMEO.
+Pójdę, nie ma takiego widoku do pokazania,
+Ale radować się własną wspaniałością.
+
+ [_Wyjście._]
+
+SCENA III. Pokój w Domu Kapuletów.
+
+ Wchodzą Lady Capulet i Pielęgniarka.
+
+PANI KAPULET.
+Siostro, gdzie jest moja córka? Zawołaj ją do mnie.
+
+PIELĘGNIARKA.
+Teraz, na moje dziewictwo, w wieku dwunastu lat,
+Kazałem jej przyjść. Co, baranku! Co za biedronka!
+Broń Boże! Gdzie jest ta dziewczyna? Co, Julio!
+
+ Wprowadź Julię.
+
+JULIA.
+Jak teraz, kto dzwoni?
+
+PIELĘGNIARKA.
+Twoja matka.
+
+JULIA.
+Pani, jestem tutaj. Jaka jest twoja wola?
+
+PANI KAPULET.
+o to chodzi. Siostro, daj urlop na chwilę,
+Musimy porozmawiać w tajemnicy. Siostro, wróć ponownie,
+Pamiętałem o mnie, wysłuchaj naszej rady.
+Wiesz, że moja córka jest w ładnym wieku.
+
+PIELĘGNIARKA.
+Faith, mogę określić jej wiek z dokładnością do godziny.
+
+PANI KAPULET.
+Ona nie ma czternastu lat.
+
+PIELĘGNIARKA.
+Położę czternaście moich zębów,
+A jednak, niech to będzie mówione do mojego nastolatka, mam tylko cztery,
+Ona nie ma czternastu lat. Ile to teraz trwa
+Do przypływu Lammas?
+
+PANI KAPULET.
+Dwa tygodnie i dni nieparzyste.
+
+PIELĘGNIARKA.
+Parzyste lub nieparzyste ze wszystkich dni w roku,
+Przyjdź w wigilię Lammas w nocy, czy będzie miała czternaście lat.
+Zuzanna i ona — świeć Boże nad wszystkimi duszami chrześcijańskimi! —
+Były w wieku. Cóż, Susan jest z Bogiem;
+Była dla mnie za dobra. Ale jak powiedziałem,
+W noc wigilijną Lammas będzie miała czternaście lat;
+To ona wyjdzie za mąż; dobrze to pamiętam.
+Od trzęsienia ziemi minęło już jedenaście lat;
+I była odstawiona od piersi - nigdy tego nie zapomnę -,
+Ze wszystkich dni w roku, w tym dniu:
+Gdyż położyłem wtedy piołun na moim wykopie,
+Siedząc w słońcu pod ścianą gołębnika;
+Mój pan i ty byliście wtedy w Mantui:
+Nie, mam mózg. Ale jak powiedziałem,
+Kiedy poczuł smak piołunu na sutku
+Mojego kopania i czułem gorycz, ładny głupcze,
+Aby zobaczyć, jak to jest drażliwe i pokłócić się z wykopanym!
+Wstrząśnij, powiedział gołębnik: „nie było potrzeby, wierz,
+Aby kazać mi się trudzić.
+I od tego czasu minęło jedenaście lat;
+Wtedy mogła stać sama; nie, przez th'rood
+Mogła biegać i dreptać dookoła;
+Nawet dzień wcześniej złamała brew,
+A potem mój mąż: Bóg z jego duszą!
+A był wesołym człowiekiem, — wziął dziecko:
+„Tak”, powiedział, „czy upadasz na twarz?
+Upadniesz do tyłu, gdy będziesz miał więcej rozumu;
+Nie chcesz, Jule? i, na moje wakacje,
+Ładny nieszczęśnik wyszedł z płaczem i powiedział „Tak”.
+Aby zobaczyć teraz, jak dojdzie do żartu.
+Gwarantuję i powinienem żyć tysiąc lat,
+Nigdy nie powinienem o tym zapomnieć. — Nie chcesz, Jule? powiedział on;
+I, ładny głupcze, zachwiał się i powiedział „Tak”.
+
+PANI KAPULET.
+Wystarczy tego; Proszę cię, zachowaj spokój.
+
+PIELĘGNIARKA.
+Tak, pani, ale nie mogę wybrać, tylko się śmiać,
+Pomyśleć, że powinno wyjść z płaczem i powiedzieć „tak”;
+A jednak gwarantuję, że miał na sobie czoło
+Guz wielki jak kamień młodego kogucika;
+Niebezpieczne pukanie i gorzko zapłakał.
+„Tak”, powiedział mój mąż, „upadniesz na twarz?
+Upadniesz w tył, gdy dorośniesz;
+Nie chcesz, Jule? to skąpiło, i powiedziało 'Ay'.
+
+JULIA.
+I ty też, proszę cię, siostro, mówię.
+
+PIELĘGNIARKA.
+Spoko, zrobiłem. Niech cię Bóg obdarzy swoją łaską
+Byłeś najładniejszym dzieckiem, jakie kiedykolwiek karmiłem:
+I może dożyję, by zobaczyć cię raz poślubioną, mam swoje życzenie.
+
+PANI KAPULET.
+Małżeństwo, to małżeństwo jest tematem przewodnim
+przyszedłem porozmawiać. Powiedz mi, córko Julio,
+Jakie jest twoje usposobienie do małżeństwa?
+
+JULIA.
+To zaszczyt, o którym nie marzę.
+
+PIELĘGNIARKA.
+Zaszczyt! Gdybym nie była twoją jedyną pielęgniarką,
+Powiedziałbym, że wyssałeś mądrość z sutka.
+
+PANI KAPULET.
+Cóż, pomyśl teraz o małżeństwie: młodsza od ciebie,
+Tutaj w Weronie, szanowne panie,
+Są już matkami. Według mojego liczenia
+Przez te lata byłam twoją matką
+Że jesteś teraz służącą. Tak więc w skrócie;
+Dzielny Paryż szuka cię dla swojej miłości.
+
+PIELĘGNIARKA.
+Mężczyzna, młoda damo! Pani, taki człowiek
+Jak cały świat — dlaczego on jest człowiekiem z wosku.
+
+PANI KAPULET.
+Lato w Weronie nie ma takiego kwiatu.
+
+PIELĘGNIARKA.
+Nie, on jest kwiatem, w wierze bardzo kwiatem.
+
+PANI KAPULET.
+Co powiesz na to, czy możesz pokochać tego dżentelmena?
+Tej nocy zobaczysz go na naszej uczcie;
+Czytaj ponad objętość twarzy młodego Paryża,
+I znajdź rozkosz wypisaną tam piórem piękna.
+Zbadaj każdy małżeński rodowód,
+I zobaczcie, jak wzajemnie użyczacie treści;
+A to, co zaciemnione w tym pięknym tomie, leży,
+Znajdź napisane w marginesie jego oczu.
+Ta drogocenna księga miłości, ten niezwiązany kochanek,
+Aby go upiększyć, brakuje tylko okładki:
+Ryba żyje w morzu; i to wielka duma
+Na targi bez targów wewnątrz do ukrycia.
+Ta księga w oczach wielu dzieli chwałę,
+Co w złotych klamrach zamyka złotą historię;
+Więc będziesz dzielić wszystko, co posiada,
+Mając go, nie stając się kimś gorszym.
+
+PIELĘGNIARKA.
+Nie mniej, nie więcej. Kobiety rosną dzięki mężczyznom.
+
+PANI KAPULET.
+Mów krótko, czy podoba ci się miłość Paryża?
+
+JULIA.
+Będę wyglądać jak, jeśli wyglądasz jak ruch:
+Ale nie głębiej spojrzę memu oku
+Wtedy twoja zgoda daje siłę, by leciało.
+
+ Wejdź do Sługi.
+
+SŁUGA.
+Pani, goście przyszli, kolacja podana, dzwoniłaś, moja młoda damo
+prosił, pielęgniarka przeklęła w spiżarni i wszystko w ostateczności.
+Muszę więc czekać, błagam, podążaj prosto.
+
+PANI KAPULET.
+Podążamy za tobą.
+
+ [_Wyjdź ze służby._]
+
+Juliet, hrabstwo zostaje.
+
+PIELĘGNIARKA.
+Idź, dziewczyno, szukaj szczęśliwych nocy do szczęśliwych dni.
+
+ [_Wyjście._]
+
+SCENA IV. Ulica.
+
+ Wchodzą Romeo, Mercutio, Benvolio z pięcioma lub sześcioma Maskującymi;
+ Nosiciele pochodni i inni.
+
+ROMEO.
+Co, ta mowa ma być wygłoszona dla naszej wymówki?
+A może będziemy kontynuować bez przeprosin?
+
+BENWOLIO.
+Data jest poza taką rozwlekłością:
+Nie będziemy mieć Kupidyna oszukanego szalikiem,
+Niosąc malowany tatarski łuk z listew,
+Straszył panie jak hodowca wron;
+Ani bez prologu bez książki, słabo wypowiedziane
+Po suflecie, na nasze wejście:
+Ale niech nas mierzą, czym chcą,
+Zmierzymy je miarką i odejdziemy.
+
+ROMEO.
+Daj mi pochodnię, nie jestem do tego wędrowania;
+Będąc tylko ciężkim, poniosę światło.
+
+MERCUTIO.
+Nie, łagodny Romeo, musimy kazać ci zatańczyć.
+
+ROMEO.
+Nie ja, uwierz mi, ty masz buty do tańca,
+Ze zwinnymi podeszwami mam duszę z ołowiu
+Więc przybija mnie do ziemi, nie mogę się ruszyć.
+
+MERCUTIO.
+Jesteś kochankiem, pożycz skrzydła Kupidyna,
+I wznieś się z nimi ponad wspólną granicę.
+
+ROMEO.
+Jestem zbyt obolały przebity jego trzonkiem
+Aby szybować z jego lekkich piór, i tak związany,
+Nie mogę zamknąć tonu powyżej tępego nieszczęścia.
+Pod ciężarem miłości tonę.
+
+MERCUTIO.
+I zatopić się w nim, jeśli obciążysz miłość;
+Zbyt wielki ucisk dla delikatnej rzeczy.
+
+ROMEO.
+Czy miłość to delikatna rzecz? Jest zbyt szorstka,
+Zbyt niegrzeczny, zbyt hałaśliwy; i kłuje jak cierń.
+
+MERCUTIO.
+Jeśli miłość jest dla ciebie szorstka, bądź szorstka dla miłości;
+Kłuj miłość za kłucie, a pokonasz miłość.
+Daj mi etui, w którym mogę umieścić mój wizerunek: [_Zakładanie maski._]
+Wizjer za wizjer. Co mnie obchodzi
+Jakie ciekawe oko cytuje deformacje?
+Oto brwi żuka, które zarumienią się dla mnie.
+
+BENWOLIO.
+Przyjdź, zapukaj i wejdź; i nie wcześniej
+Ale każdy człowiek porywa go na nogi.
+
+ROMEO.
+Pochodnia dla mnie: niech rozpustnicy, światło serca,
+Łaskotaj bezsensowne pędy piętami;
+Bo jestem przysłowiowy z frazą dziadka,
+Będę świecznikiem i patrzę,
+Gra nigdy nie była tak uczciwa, a ja mam dość.
+
+MERCUTIO.
+Tut, dun to mysz, własne słowo konstabla:
+Jeśli jesteś brudem, wyciągniemy cię z bagna
+Lub zachowaj swoją cześć miłości, w której tkwisz
+Po uszy. Chodź, palimy światło dzienne, ho.
+
+ROMEO.
+Nie, to nie tak.
+
+MERCUTIO.
+Mam na myśli pana, z opóźnieniem
+Na próżno marnujemy nasze światła, zapalamy je za dnia.
+Weź nasze dobre intencje, bo zasiada nasz sąd
+Pięć razy w tym czasie raz na pięć rozumów.
+
+ROMEO.
+I mamy dobre intencje, idąc do tej maski;
+Ale nie ma sensu iść.
+
+MERCUTIO.
+Dlaczego, ktoś zapyta?
+
+ROMEO.
+Śnił mi się sen tej nocy.
+
+MERCUTIO.
+I ja też.
+
+ROMEO.
+A jaki był twój?
+
+MERCUTIO.
+Że marzyciele często kłamią.
+
+ROMEO.
+W łóżku śpią, podczas gdy oni naprawdę śnią.
+
+MERCUTIO.
+O, więc widzę, że królowa Mab była z tobą.
+Jest położną wróżek i przychodzi
+W kształcie nie większym niż agat
+Na palcu wskazującym radnego,
+Rysowane z zespołem małych atomów
+Nad nosami mężczyzn, gdy śpią:
+Jej szprychy wozu zrobione z długich nóg błystki;
+Pokrycie skrzydeł pasikoników;
+Jej ślady najmniejszej pajęczej sieci;
+Kołnierze z wodnistych promieni bimbru;
+Jej bicz z kości świerszcza; rzęsa z filmu;
+Jej woźnica, mały komar o szarej sierści,
+Nie w połowie tak duży jak okrągły mały robak
+Prick'd z leniwego palca pokojówki:
+Jej rydwan to pusty orzech laskowy,
+Zrobione przez wiewiórkę stolarską lub stare larwy,
+Przekroczono limit czasu dla trenerów powozów wróżek.
+I w tym stanie galopuje noc w noc
+Przez mózgi kochanków, a potem śnią o miłości;
+Kolana innych dworzan, co marzą o prostych ukłonach;
+Palców prawników, którzy wprost marzą o opłatach;
+Nad ustami pań, które wprost o pocałunkach marzą,
+Który często zły Mab z pęcherzami plag,
+Ponieważ ich oddechy skażone słodyczami to:
+Czasami galopuje nad nosem dworzanina,
+A potem śni mu się, że powącha garnitur;
+I czasami przychodzi ona z ogonem dziesięciny świni,
+Łaskotanie nosa proboszcza, gdy leży we śnie,
+Potem śni mu się inne dobrodziejstwo:
+Czasami przejeżdża przez szyję żołnierza,
+A potem marzy o podrzynaniu obcych gardeł,
+Wyłomów, ambuscados, hiszpańskich ostrzy,
+Zdrowia głębokiego na pięć sążni; a potem anon
+Bębny w jego uchu, przy których zaczyna się i budzi;
+I będąc tak przestraszonym, przysięga modlitwę lub dwie,
+I znowu śpi. To jest właśnie Mab
+Co w nocy układa końskie grzywy;
+I piecze loki elfów w obrzydliwych zdzirowatych włosach,
+Które, raz rozplątane, wróżą wiele nieszczęścia:
+To wiedźma, kiedy dziewczęta leżą na plecach,
+To ich naciska i uczy ich najpierw znosić,
+Czyniąc z nich kobiety o dobrym powodzeniu:
+To jest ona,-
+
+ROMEO.
+Pokój, pokój, Mercutio, pokój,
+Mówisz o niczym.
+
+MERCUTIO.
+To prawda, mówię o snach,
+Które są dziećmi bezczynnego mózgu,
+Zrodzony tylko z próżnej fantazji,
+Który jest substancją tak rzadką jak powietrze,
+I bardziej niestały niż wiatr, który zaloty
+Nawet teraz zamarznięte łono północy,
+I będąc wściekłym, odlatuje stamtąd,
+Odwrócił się w stronę ociekającego rosą południa.
+
+BENWOLIO.
+Ten wiatr, o którym mówisz, zdmuchuje nas z nas samych:
+Kolacja się skończyła i przyjdziemy za późno.
+
+ROMEO.
+Boję się za wcześnie: bo mój umysł się myli
+Pewne konsekwencje wciąż wiszą w gwiazdach,
+Gorzko rozpocznie swoją straszną randkę
+Z hulankami tej nocy; i wygasa termin
+Wzgardzonego życia, zamkniętego w mojej piersi
+Przez jakąś nikczemną utratę przedwczesnej śmierci.
+Ale ten, kto ma stery moim kursem
+Kieruj moim garniturem. Dalej, pożądliwi panowie!
+
+BENWOLIO.
+Uderzenie, bęben.
+
+ [_Wyjście._]
+
+SCENA V. Sala w domu Kapuletów.
+
+ Muzycy czekają. Wejdź Sługi.
+
+PIERWSZY SŁUGA.
+Gdzie jest Potpan, że pomaga nie zabierać?
+Zmienił koparkę do rowów! On zeskrobuje koparkę do rowów!
+
+DRUGI SŁUGA.
+Kiedy dobre maniery będą leżeć w rękach jednego lub dwóch mężczyzn, a oni
+nieumyty też, to paskudna rzecz.
+
+PIERWSZY SŁUGA.
+Precz ze stołkami, zdejmij szafę sądową, spójrz na
+talerz. Dobrze, zachowaj mi kawałek marchwi; i jak mnie kochasz,
+niech portier wpuści Susan Grindstone i Nel. Antoniego i Potpana!
+
+DRUGI SŁUGA.
+Tak, chłopcze, gotowe.
+
+PIERWSZY SŁUGA.
+Jesteś poszukiwany i wzywany, proszony i poszukiwany w
+wielka komora.
+
+DRUGI SŁUGA.
+Nie możemy być tu i tam. Wesoło, chłopcy. Bądź energiczny przez chwilę i
+dłuższa wątroba bierze wszystko.
+
+ [_Wyjście._]
+
+ Wejdź do Capulet i c. z Gośćmi i Panami do Maseczek.
+
+KAPULET.
+Witam Panów, Panie które mają palce u stóp
+Nieplagu'd z odciskami będzie miał walkę z tobą.
+Ach, moje kochanki, która z was wszystkich
+Czy teraz odmówi tańca? Ona, która robi smakołyki,
+Przysięgam, że ma odciski. Czy jestem teraz blisko ciebie?
+Witamy panowie! Widziałem dzień
+Że nosiłem przyłbicę i mogłem to stwierdzić
+Szepcząca opowieść do ucha pięknej damy,
+Takie, jak by się podobało; odszedł, odszedł, odszedł,
+Zapraszamy, panowie! Chodźcie, muzycy, grajcie.
+Hala, hala, dajcie pokój! I walczcie, dziewczyny.
+
+ [_Muzyka gra, a oni tańczą._]
+
+Więcej światła, łajdaki; i odwróć stoły,
+I ugasić ogień, pokój jest zbyt gorący.
+Ach sirrah, ten nieoczekiwany sport przychodzi dobrze.
+Nie siedź, nie siedź, dobry kuzynie Kapulecie,
+Bo ty i ja mamy już za sobą dni tańca;
+Jak dawno nie było odkąd ty i ja ostatni raz
+Byłeś w maseczce?
+
+KUCHENKA KAPULETA.
+By'r Lady, trzydzieści lat.
+
+KAPULET.
+Co, człowieku, to nie tak dużo, to nie tak dużo:
+To od zaślubin Lucentio,
+Przyjdź Pięćdziesiątnica tak szybko, jak to możliwe,
+Jakieś dwadzieścia pięć lat; a potem zamaskowaliśmy się.
+
+KUCHENKA KAPULETA.
+To więcej, to więcej, jego syn jest starszy, proszę pana;
+Jego syn ma trzydzieści lat.
+
+KAPULET.
+Powiesz mi to?
+Jego syn był tylko podopiecznym dwa lata temu.
+
+ROMEO.
+Co to za dama, co wzbogaca rękę
+Tamtego rycerza?
+
+SŁUGA.
+Nie wiem, proszę pana.
+
+ROMEO.
+O, ona uczy pochodnie jasno płonąć!
+Wydaje się, że wisi na policzku nocy
+Jako bogaty klejnot w uchu Etiopczyka;
+Piękno zbyt bogate do użytku, ziemia zbyt droga!
+Przedstawia śnieżną gołębicę gromadzącą się z wronami
+Jak pokazuje tamta dama ze swoich towarzyszy.
+Miara wykonana, będę pilnował jej miejsca postoju,
+I dotykając jej, pobłogosław moją niegrzeczną rękę.
+Czy moje serce kochało do tej pory? Przysięgnij, patrz!
+Bo nigdy nie widziałem prawdziwego piękna aż do tej nocy.
+
+TYBALT.
+To, sądząc po jego głosie, powinno być Montague.
+Przynieś mi rapier, chłopcze. Co, ośmiela się niewolnik
+Chodź tu, okryty antyczną twarzą,
+Uciekać i pogardzać naszą powagą?
+Teraz przez los i honor mego rodu,
+Zabicie go nie uważam za grzech.
+
+KAPULET.
+Dlaczego jak teraz, krewny!
+Dlaczego tak cię szturmować?
+
+TYBALT.
+Wuju, to jest Montague, nasz wróg;
+Złoczyńca, który tu jest, przyszedł na przekór,
+Aby pogardzać naszą powagą tej nocy.
+
+KAPULET.
+Młody Romeo, prawda?
+
+TYBALT.
+To on, ten złoczyńca Romeo.
+
+KAPULET.
+Zadowolić cię, łagodny koleś, zostaw go w spokoju,
+A znosi go jak korpulentnego dżentelmena;
+I prawdę mówiąc, Verona się nim chwali
+Być cnotliwym i dobrze rządzonym młodzieńcem.
+Nie zrobiłbym tego dla bogactwa całego miasta
+Tu, w moim domu, znieważ go.
+Dlatego bądź cierpliwy, nie zwracaj na niego uwagi,
+To jest moja wola; które, jeśli szanujesz,
+Pokaż uczciwą obecność i odłóż te marszczenia brwi,
+Nieprzyjemny pozór uczty.
+
+TYBALT.
+Pasuje, gdy taki złoczyńca jest gościem:
+Nie zniosę go.
+
+KAPULET.
+Będzie wytrwały.
+Co, dobry chłopcze! Mówię, że pójdzie do;
+Czy ja tu jestem panem, czy ty? Iść do.
+Nie zniesiesz go! Bóg naprawi moją duszę,
+Wzniecisz bunt wśród moich gości!
+Ustawisz koguta na obręcz, będziesz mężczyzną!
+
+TYBALT.
+Dlaczego, wujku, to wstyd.
+
+KAPULET.
+Idź do, idź do!
+Jesteś zuchwałym chłopcem. Czyż tak nie jest?
+Ta sztuczka może cię zranić, wiem co.
+Musisz mi się sprzeciwić! Wyjdź za mąż, już czas.
+Dobrze powiedziane, moje serca! — Jesteś księciem; iść:
+Bądź cicho, albo — Więcej światła, więcej światła! — Na wstyd!
+Uciszę cię. Co, radośnie, moje serca.
+
+TYBALT.
+Cierpliwość z konieczności z umyślnym cholernym spotkaniem
+Sprawia, że ​​moje ciało drży w ich odmiennym powitaniu.
+Wycofam się: ale to wtargnięcie będzie,
+Teraz wydaje się słodki, zamienia się w gorzką żółć.
+
+ [_Wyjście._]
+
+ROMEO.
+[_Do Julii_] Jeśli sprofanuję moją niegodna ręką
+To święte sanktuarium, delikatny grzech jest tym,
+Moje usta, dwoje rumieniących się pielgrzymów, stoją gotowe
+Aby wygładzić ten szorstki dotyk czułym pocałunkiem.
+
+JULIA.
+Dobry pielgrzymie, za bardzo krzywdzisz rękę,
+Jakie maniery oddanie widać w tym;
+Bo święci mają ręce, których dotykają dłonie pielgrzymów,
+A dłoń w dłoń to pocałunek świętych palmistów.
+
+ROMEO.
+Czyż nie mają świętych ust i świętych palmerów?
+
+JULIA.
+Tak, pielgrzymie, usta, których muszą używać w modlitwie.
+
+ROMEO.
+O, więc, drogi święty, niech usta robią to, co robią ręce:
+Modlą się, spraw, aby wiara nie zamieniła się w rozpacz.
+
+JULIA.
+Święci nie ruszają się, choć udzielcie łaski za modlitwę.
+
+ROMEO.
+Więc nie ruszaj się, kiedy przyjmuję efekt mojej modlitwy.
+Tak więc z moich ust, przez twoje, mój grzech jest oczyszczony.
+[_Całowanie jej._]
+
+JULIA.
+Więc niech moje usta będą winne grzechu, który przyjęły.
+
+ROMEO.
+Grzech z moich ust? O wykroczenie słodko nakłaniane!
+Oddaj mi mój grzech ponownie.
+
+JULIA.
+Całujesz się przy książce.
+
+PIELĘGNIARKA.
+Madame, twoja matka pragnie z tobą porozmawiać.
+
+ROMEO.
+Jaka jest jej matka?
+
+PIELĘGNIARKA.
+Ożenić się, kawaler,
+Jej matka jest panią domu,
+I dobrą damą, mądrą i cnotliwą.
+Pielęgnowałem jej córkę, z którą rozmawiałeś.
+Mówię wam, ten, który może ją uchwycić
+Będzie miał szczeliny.
+
+ROMEO.
+Czy ona jest Kapuletem?
+O drogie konto! Moje życie jest długiem mojego wroga.
+
+BENWOLIO.
+Odejdź, odejdź; sport jest najlepszy.
+
+ROMEO.
+Tak, obawiam się; tym większy jest mój niepokój.
+
+KAPULET.
+Nie, panowie, przygotujcie się, by nie odejść,
+Przed nami błahy, głupi bankiet.
+Czy tak jest? Dlaczego więc, dziękuję wam wszystkim;
+Dziękuję wam, uczciwi panowie; dobranoc.
+Więcej pochodni tutaj! No to chodźmy do łóżka.
+Ach, sirrah, na mój gust, robi się późno,
+odpocznę.
+
+ [_Wychodzą wszyscy oprócz Julii i Pielęgniarki_]
+
+JULIA.
+Chodź tu, pielęgniarko. Co to jest dżentelmen?
+
+PIELĘGNIARKA.
+Syn i spadkobierca starego Tiberio.
+
+JULIA.
+Co on teraz wychodzi na dwór?
+
+PIELĘGNIARKA.
+Wyjdź za mąż, myślę, że to młody Petruchio.
+
+JULIA.
+Kim jest ten, kto tu podąża, co by nie tańczył?
+
+PIELĘGNIARKA.
+Ja nie wiem.
+
+JULIA.
+Idź zapytaj go o imię. Jeśli będzie żonaty,
+Mój grób jest jak łóżko weselne.
+
+PIELĘGNIARKA.
+Nazywa się Romeo i Montague,
+Jedyny syn waszego wielkiego wroga.
+
+JULIA.
+Moja jedyna miłość zrodziła się z mojej jedynej nienawiści!
+Za wcześnie widziany jako nieznany, a znany za późno!
+Cudowne narodziny miłości to dla mnie,
+Że muszę kochać znienawidzonego wroga.
+
+PIELĘGNIARKA.
+Co to jest? Co to jest?
+
+JULIA.
+Rym, którego uczę się nawet teraz
+Z jednym, z którym tańczyłem.
+
+ [_Jedno dzwoni w ciągu, 'Juliet'._]
+
+PIELĘGNIARKA.
+Anon, anon!
+Chodź, odejdźmy, obcy wszyscy odeszli.
+
+ [_Wyjście._]
+
+
+
+AKT II
+
+ Wejdź do chóru.
+
+CHÓR.
+Teraz stare pragnienie leży na łożu śmierci,
+A młode uczucie otwiera się, by być jego spadkobiercą;
+To targi, dla których miłość jęczała i umarłaby,
+Z czułą Julią dopasowaną, to teraz nie fair.
+Teraz Romeo jest kochany i znowu kocha,
+Podobnie urzeczeni urokiem spojrzeń;
+Ale swojemu wrogowi przypuszczał, że musi narzekać,
+I kradnie słodką przynętę miłości z przerażających haczyków:
+Będąc wrogiem, może nie mieć dostępu
+Oddychać takimi ślubami, jakie przysięgają kochankowie;
+A ona tak samo zakochana, jej znaczy o wiele mniej
+Wszędzie spotkać swoją nową ukochaną.
+Ale pasja daje im moc, czas oznacza spotkanie,
+Hartowanie kończyn ekstremalnie słodkim.
+
+ [_Wyjście._]
+
+SCENA I. Otwarty plac przylegający do Ogrodu Kapuletów.
+
+ Wejdź Romeo.
+
+ROMEO.
+Czy mogę iść naprzód, kiedy moje serce jest tutaj?
+Zawróć, tępa ziemio, i znajdź swoje centrum.
+
+ [_Wspina się po ścianie i zeskakuje w dół._]
+
+ Wchodzą Benvolio i Mercutio.
+
+BENWOLIO.
+Romeo! Mój kuzyn Romeo! Romeo!
+
+MERCUTIO.
+on jest mądry,
+I na moje życie skradł go do domu do łóżka.
+
+BENWOLIO.
+Pobiegł w tę stronę i przeskoczył tę ścianę sadu:
+Zadzwoń, dobry Mercutio.
+
+MERCUTIO.
+Nie, ja też wyczaruję.
+Romeo! Humory! Szaleniec! Pasja! Kochanek!
+Ukaż się na podobieństwo westchnienia,
+Powiedz tylko jeden rym, a będę usatysfakcjonowany;
+Płacz, ale „Ach ja!” Wymów tylko Miłość i gołąb;
+Powiedz mojej plotkarce Wenus jedno uczciwe słowo,
+Jedno przezwisko dla jej niewidomego syna i spadkobiercy,
+Młody Abraham Kupidyn, ten, który strzelał tak dobrze
+Kiedy król Cophetua kochał żebraczkę.
+Nie słyszy, nie porusza się, nie rusza się;
+Małpa nie żyje, a ja muszę ją wyczarować.
+Wzywam cię jasnymi oczami Rozaliny,
+Przez jej wysokie czoło i szkarłatną wargę,
+Przez jej piękną stopę, prostą nogę i drżące udo,
+I posiadłości, które leżą obok,
+Abyś nam się ukazał na Twoje podobieństwo.
+
+BENWOLIO.
+A jeśli cię posłucha, rozgniewasz go.
+
+MERCUTIO.
+To nie może go rozgniewać. — Rozgniewałbym go
+Aby wzbudzić ducha w kręgu swojej kochanki,
+Jakiejś dziwnej natury, pozwalając jej tak stać
+Aż ją położyła i wyczarowała;
+To były jakieś złośliwości. Moja inwokacja
+Jest sprawiedliwy i uczciwy, i w imieniu swojej kochanki,
+Zaklinam tylko, by go wskrzesić.
+
+BENWOLIO.
+Chodź, ukrył się wśród tych drzew
+Być połączonym z humorystyczną nocą.
+Ślepa jest jego miłość i najlepiej pasuje do ciemności.
+
+MERCUTIO.
+Jeśli miłość jest ślepa, miłość nie może trafić w cel.
+Teraz będzie siedział pod drzewem nieszpułkowym,
+I chciałbym, żeby jego kochanka była takim owocem
+Jak dziewczęta nazywają nieszpułki, kiedy śmieją się samotnie.
+O Romeo, żeby była, o żeby była
+Otwarta dupa, a ty poperin gruszka!
+Romeo, dobranoc. Idę do mojego łóżka w ciężarówce.
+To łóżko polowe jest za zimne, żebym mógł spać.
+Chodź, pójdziemy?
+
+BENWOLIO.
+Więc idź; bo to na próżno
+Szukać go tutaj to znaczy nie być znalezionym.
+
+ [_Wyjście._]
+
+SCENA II. Ogród Kapuletów.
+
+ Wejdź Romeo.
+
+ROMEO.
+Żartuje z blizn, które nigdy nie miały rany.
+
+ Juliet pojawia się powyżej w oknie.
+
+Ale miękkie, jakie światło wpada przez to okno?
+To wschód, a Julia to słońce!
+Powstań piękne słońce i zabij zazdrosny księżyc,
+Kto już jest chory i blady z żalu,
+Że ty jej służąca jesteś o wiele piękniejsza niż ona.
+Nie bądź jej służącą, ponieważ jest zazdrosna;
+Jej westalska liberia jest chora i zielona,
+I tylko głupcy go noszą; odrzuć to.
+To moja pani, o to moja miłość!
+O, żeby wiedziała, że ​​jest!
+Mówi, ale nic nie mówi. Co z tego?
+Jej oczy dyskursy, odpowiem na to.
+Jestem zbyt śmiały, to nie do mnie mówi.
+Dwie najpiękniejsze gwiazdy na całym niebie,
+Mając coś do załatwienia, błagaj jej oczy
+Migotać w ich sferach, dopóki nie wrócą.
+Co jeśli jej oczy były tam, były w jej głowie?
+Blask jej policzka zawstydziłby te gwiazdy,
+Jak światło dnia lampa; jej oczy w niebie
+Czy przez przewiewny obszar potoczy się tak jasno
+By ptaki śpiewały i myślały, że to nie noc.
+Zobacz, jak opiera policzek na dłoni.
+O, gdybym był rękawiczką na tej dłoni,
+Żebym mógł dotknąć tego policzka.
+
+JULIA.
+Tak ja.
+
+ROMEO.
+Ona mówi.
+O przemów ponownie jasny aniele, bo jesteś
+Jak chwalebna tej nocy, będąc nad moją głową,
+Jak skrzydlaty posłaniec nieba
+Do zbielałych zdumionych oczu
+O śmiertelnikach, którzy cofają się, by na niego spojrzeć
+Kiedy okrakiem jedzie po leniwie kłębiących się chmurach
+I żegluje na łonie powietrza.
+
+JULIA.
+O Romeo, Romeo, dlaczego jesteś Romeo?
+Wyrzeknij się ojca swego i wyrzeknij się swego imienia.
+A jeśli nie chcesz, przysięgnij moją miłość,
+I nie będę już dłużej Kapuletem.
+
+ROMEO.
+[_Na stronie_] Czy usłyszę więcej, czy mam mówić w tym momencie?
+
+JULIA.
+To tylko twoje imię jest moim wrogiem;
+Jesteś sobą, choć nie Montague.
+Co to jest Montague? To nie jest ani ręka, ani noga,
+Ani ramienia, ani twarzy, ani żadnej innej części
+Należący do mężczyzny. O, bądź jakimś innym imieniem.
+Co jest w imieniu? To, co nazywamy różą
+Pod jakąkolwiek inną nazwą pachniałby równie słodko;
+Tak zrobiłby Romeo, gdyby nie Romeo wezwany,
+Zachowaj tę drogą doskonałość, którą zawdzięcza
+Bez tego tytułu. Romeo, zmiłuj się nad swoim imieniem,
+I dla twego imienia, które nie jest częścią ciebie,
+Weź całą siebie.
+
+ROMEO.
+Wierzę ci na słowo.
+Nazywaj mnie miłością, a zostanę nowy ochrzczony;
+Odtąd nigdy nie będę Romeo.
+
+JULIA.
+Co z ciebie za człowiek, tak osłonięty nocą
+Tak potknąłeś się o moją radę?
+
+ROMEO.
+Po imieniu
+Nie wiem, jak ci powiedzieć, kim jestem:
+Moje imię, drogi święty, jest dla mnie nienawistne,
+Ponieważ jest dla ciebie wrogiem.
+Gdybym to napisał, podarłbym to słowo.
+
+JULIA.
+Moje uszy nie wypiły jeszcze stu słów
+Z wypowiedzi twego języka, a jednak znam dźwięk.
+Czy nie jesteś Romeo i Montague?
+
+ROMEO.
+Ani, piękna panno, jeśli którejś nie lubisz.
+
+JULIA.
+Jak się tu dostałeś, powiedz mi, i po co?
+Ściany sadu są wysokie i trudne do pokonania,
+I miejsce śmierci, biorąc pod uwagę, kim jesteś,
+Jeśli któryś z moich krewnych cię tu znajdzie.
+
+ROMEO.
+Lekkimi skrzydłami miłości przeleciałem nad tymi murami,
+Bo kamienne granice nie mogą powstrzymać miłości,
+A co miłość może zrobić, to ośmiela się próbować miłości:
+Dlatego twoi krewni nie są dla mnie przeszkodą.
+
+JULIA.
+Jeśli cię zobaczą, zabiją cię.
+
+ROMEO.
+Niestety, w twoim oku kryje się więcej niebezpieczeństw
+Niż dwadzieścia ich mieczy. Spójrz, ale słodki,
+I jestem odporny na ich wrogość.
+
+JULIA.
+Nie zrobiłbym tego dla świata, w którym cię tu widzieli.
+
+ROMEO.
+Mam nocną pelerynę, by ukryć mnie przed ich oczami,
+A jeśli mnie kochasz, niech mnie tu znajdą.
+Moje życie byłoby lepiej zakończone przez ich nienawiść
+Niż śmierć odroczona, brak twej miłości.
+
+JULIA.
+W czyim kierunku znalazłeś to miejsce?
+
+ROMEO.
+Przez miłość, to pierwsze skłoniło mnie do zapytania;
+Pożyczył mi rady, a ja użyczyłem mu oczu.
+nie jestem pilotem; jeszcze byłeś tak daleko
+Jak ten rozległy brzeg obmyty najdalszym morzem,
+Powinienem szukać takich towarów.
+
+JULIA.
+Ty wiesz, że maska ​​nocy jest na mojej twarzy,
+Inaczej dziewiczy rumieniec pokryłby mój policzek
+Za to, o czym dziś wieczorem słyszałeś, jak mówię.
+Chciałbym rozwodzić się nad formą, chętnie, chętnie zaprzeczę
+Co powiedziałem; ale pożegnanie komplement.
+Czy ty mnie kochasz? Wiem, że powiesz Ay,
+I wierzę ci na słowo. Jednak jeśli przysięgasz,
+Możesz okazać się fałszywy. Na krzywoprzysięstwa kochanków,
+Mówią, że Jowisz się śmieje. O miły Romeo,
+Jeśli kochasz, wymawiaj to wiernie.
+Lub jeśli myślisz, że jestem zbyt szybko zdobyty,
+Zmarszczę brwi i będę perwersyjny, i powiem ci nie,
+Więc będziesz zabiegać. Ale poza tym nie dla świata.
+Zaprawdę, piękny Montague, zanadto mi się podoba;
+I dlatego możesz myśleć, że moje „lekkie zachowanie:
+Ale zaufaj mi, dżentelmenie, udowodnię więcej prawdy
+Niż ci, którzy mają więcej przebiegłości, by być dziwakami.
+Powinienem był być bardziej dziwny, muszę przyznać,
+Ale że podsłuchałeś, zanim byłem „ware,
+Moja prawdziwa miłość; więc wybacz mi,
+I nie przypisuj tego ulegania lekkiej miłości,
+Które ciemna noc tak odkryła.
+
+ROMEO.
+Pani, na ten błogosławiony księżyc ślubuję,
+Który srebrem przechyla wszystkie te wierzchołki drzew owocowych, —
+
+JULIA.
+O nie przysięgaj na księżyc, niestały księżyc,
+Te miesięczne zmiany w jej zakreślonej kuli,
+Aby twoja miłość nie okazała się równie zmienna.
+
+ROMEO.
+Na co mam przysiąc?
+
+JULIA.
+Wcale nie przysięgaj.
+Lub jeśli chcesz, przysięgnij na łaskawą siebie,
+Który jest bogiem mojego bałwochwalstwa,
+A ja ci uwierzę.
+
+ROMEO.
+Jeśli moje serce jest drogie miłości, —
+
+JULIA.
+Cóż, nie przysięgaj. Chociaż raduję się Tobą,
+Nie mam dziś radości z tego kontraktu;
+To zbyt pochopne, zbyt nierozsądne, zbyt nagłe,
+Zbyt jak błyskawica, która przestaje istnieć
+Zanim można powiedzieć, że rozjaśnia się. Słodko, dobranoc.
+Ten pączek miłości, wraz z dojrzewającym oddechem lata,
+Może okazać się pięknym kwiatem, gdy spotkamy się następnym razem.
+Dobranoc dobranoc. Jako słodki odpoczynek i odpoczynek
+Przyjdź do twego serca jak do serca mego.
+
+ROMEO.
+Och, czy zostawisz mnie tak niezadowolonego?
+
+JULIA.
+Jaką satysfakcję możesz mieć dziś wieczorem?
+
+ROMEO.
+Zamiana wiernej przysięgi twojej miłości na moją.
+
+JULIA.
+Dałem ci moje, zanim o to poprosiłeś;
+A jednak chciałbym to dać ponownie.
+
+ROMEO.
+Czy wycofałbyś to? W jakim celu kochanie?
+
+JULIA.
+Ale żeby być szczerym i dać ci to jeszcze raz.
+A jednak pragnę tylko tego, co mam;
+Moja hojność jest bezgraniczna jak morze,
+Moja miłość tak głęboka; im więcej ci daję,
+Im więcej mam, bo jedno i drugie jest nieskończone.
+Słyszę wewnątrz jakiś hałas. Kochana, adieu.
+[_Wezwania pielęgniarki w ciągu._]
+Anon, dobra pielęgniarko! — Słodki Montague, bądź szczery.
+Zostań tylko trochę, przyjdę ponownie.
+
+ [_Wyjście._]
+
+ROMEO.
+O błogosławiona, błogosławiona noc. boję się,
+Będąc w nocy, wszystko to jest tylko snem,
+Zbyt pochlebne słodkie, aby było treściwe.
+
+ Wpisz Julię powyżej.
+
+JULIA.
+Trzy słowa, drogi Romeo, i dobranoc.
+Jeśli twoja skłonność do miłości jest godna szacunku,
+Twoje celowe małżeństwo, wyślij mi wiadomość jutro,
+Przez jednego, którego sprowadzę do ciebie,
+Gdzie i o której godzinie odprawisz obrzęd,
+I wszystkie moje fortuny złożę u twoich stóp
+I podążaj za tobą, mój panie, po całym świecie.
+
+PIELĘGNIARKA.
+[_Wewnątrz._] Pani.
+
+JULIA.
+Przychodzę, anon. — Ale jeśli nie masz dobrych intencji,
+błagam cię, —
+
+PIELĘGNIARKA.
+[_Wewnątrz._] Pani.
+
+JULIA.
+Z czasem przychodzę —
+Aby zaprzestać walki i pozostawić mnie w moim smutku.
+Jutro wyślę.
+
+ROMEO.
+Więc rozwijaj moją duszę, —
+
+JULIA.
+Po tysiąckroć dobranoc.
+
+ [_Wyjście._]
+
+ROMEO.
+Tysiąc razy gorzej pragnąć twego światła.
+Miłość idzie ku miłości jak uczniowie ze swoich książek,
+Ale miłość od miłości, do szkoły z ciężkim spojrzeniem.
+
+ [_Powoli przechodzimy na emeryturę._]
+
+ Ponownie wejdź do Juliet, powyżej.
+
+JULIA.
+Hist! Romeo, hist! O jak głos sokolnika
+By znów zwabić tę delikatną z frędzlami.
+Niewola jest ochrypła i może nie mówić głośno,
+Inaczej rozdarłbym jaskinię, w której leży Echo,
+I spraw, by jej zwiewny język był bardziej ochrypły niż mój
+Z powtórzeniem imienia mojego Romea.
+
+ROMEO.
+To moja dusza wzywa mego imienia.
+Jak srebrno-słodki dźwięk języków kochanków nocą,
+Jak najdelikatniejsza muzyka dla uszu.
+
+JULIA.
+Romeo.
+
+ROMEO.
+Mój nyas?
+
+JULIA.
+O której jutro
+Mam ci wysłać?
+
+ROMEO.
+Do godziny dziewiątej.
+
+JULIA.
+Nie zawiodę. Do tego czasu minęło dwadzieścia lat.
+Zapomniałem, dlaczego cię odwołałem.
+
+ROMEO.
+Pozwól mi tu stać, aż sobie o tym przypomnisz.
+
+JULIA.
+Zapomnę, że wciąż tam stoisz,
+Pamiętając, jak kocham twoje towarzystwo.
+
+ROMEO.
+I nadal zostanę, abyś wciąż zapomniał,
+Zapominając o każdym innym domu oprócz tego.
+
+JULIA.
+Już prawie ranek; Chciałbym, żebyś odszedł,
+A jednak nie dalej niż rozpustny ptak,
+To pozwala mu trochę wyskoczyć z jej dłoni,
+Jak biedny więzień w swoich pokręconych gyves,
+I jedwabną nicią wyrywa ją z powrotem,
+Tak kochająco zazdrosny o swoją wolność.
+
+ROMEO.
+Chciałbym być twoim ptakiem.
+
+JULIA.
+Słodko, ja też:
+Jednak powinienem cię zabić z wielką troską.
+Dobranoc dobranoc. Rozstanie to taki słodki smutek
+Że powiem dobranoc, aż do jutra.
+
+ [_Wyjście._]
+
+ROMEO.
+Sen spocznie na twoich oczach, pokój w twojej piersi.
+Czy byłbym snem i pokojem, tak słodkim do odpoczynku.
+Szarooki poranek uśmiecha się do zmarszczonej nocy,
+Szachownica wschodnich chmur smugami światła;
+A ciemność nakrapiana jak u pijaka
+Ze ścieżki czwartego dnia, stworzonej przez koła Tytana
+Stąd udam się do celi mego upiornego Pana,
+Jego pomoc w pragnieniu i mój drogi ha ha powiedzieć.
+
+ [_Wyjście._]
+
+SCENA III. Cela brata Lawrence'a.
+
+ Wchodzi brat Lawrence z koszem.
+
+BRACIA LAWRENCE.
+Teraz, zanim słońce przesunie swe płonące oko,
+Dzień do wiwatowania, a nocna wilgotna rosa do wyschnięcia,
+Muszę napełnić tę naszą klatkę z wikliny
+Ze złowrogimi chwastami i drogocennymi kwiatami.
+Ziemia, która jest matką natury, jest jej grobowcem;
+Jaki jest jej grób pogrzebowy, to jest jej łono:
+A z jej łona dzieci różnego rodzaju
+Ssamy jej naturalne piersi.
+Wiele za wiele cnót doskonałych,
+Żaden, ale dla niektórych, a jednak każdy inny.
+O, mickle jest potężną łaską, która kłamie
+W roślinach, ziołach, kamieniach i ich prawdziwych właściwościach.
+Bo nic tak podłego, co żyje na ziemi
+Ale ziemi daje jakieś szczególne dobro;
+Ani nic tak dobrego, ale napiętego z tego dozwolonego użytku,
+Bunty od prawdziwych narodzin, potykające się o nadużycia.
+Sama cnota zamienia się w występek, gdy jest niewłaściwie stosowana,
+A występek czasem jest przez działanie godny.
+
+ Wejdź Romeo.
+
+Wewnątrz dziecięcej skórki tego słabego kwiatu
+Trucizna ma siedzibę i moc lekarstwa:
+Do tego, będąc wąchanym, z tą częścią wiwatuje każda część;
+Będąc smakowanym, zabija wszystkie zmysły sercem.
+Dwóch takich przeciwnych sobie królów nadal ich obozuje
+W człowieku tak samo jak w ziołach — wdzięk i nieokrzesana wola;
+A tam, gdzie przeważa gorsze,
+Wkrótce śmierć rakowa zjada tę roślinę.
+
+ROMEO.
+Dzień dobry, ojcze.
+
+BRACIA LAWRENCE.
+benedyktyno!
+Jaki dawny język tak słodko pozdrawia mnie?
+Młody synu, argumentuje to głowa z nosówką
+Tak szybko, by pożegnać się z jutrzejszym łożem.
+Opieka trzyma zegarek w oku każdego starca,
+A tam, gdzie śpią loże opiekuńcze, nigdy nie będzie leżeć;
+Ale gdzie nieposiniaczony młodzieniec z niewypchanym mózgiem
+Kładzie swoje członki, tam króluje złoty sen.
+Dlatego twą wczesność zapewniam
+Jesteś podniecony jakąś dystemperaturą;
+A jeśli nie, to tutaj dobrze trafiłem,
+Nasz Romeo nie był dziś w łóżku.
+
+ROMEO.
+To ostatnie jest prawdą; słodsza reszta była moja.
+
+BRACIA LAWRENCE.
+Boże przebacz grzech. Byłeś z Rozaline?
+
+ROMEO.
+Z Rosaline, moim upiornym ojcem? Nie.
+Zapomniałem tego imienia, a to imię jest biada.
+
+BRACIA LAWRENCE.
+To mój dobry syn. Ale gdzie byłeś wtedy?
+
+ROMEO.
+Powiem ci, zanim znowu mnie o to zapytasz.
+Ucztowałem z moim wrogiem,
+Gdzie nagle mnie zranił
+To przeze mnie ranny. Oba nasze środki
+W twojej pomocy i świętej fizyce leży.
+Nie żywię nienawiści, błogosławiony człowieku; dla lo,
+Moje wstawiennictwo podobnie wzmacnia mojego wroga.
+
+BRACIA LAWRENCE.
+Bądź prostolinijny, dobry synu, i prosty w swojej drodze;
+Zagadkowe wyznanie znajduje jednak zagadkową oszczędność.
+
+ROMEO.
+Więc wyraźnie wiedz, że droga miłość mojego serca jest ustalona
+O pięknej córce bogatego Kapuleta.
+Jak mój na jej, tak jej jest osadzony na moim;
+I wszystko połączone, z wyjątkiem tego, co musisz połączyć
+Przez święte małżeństwo. Kiedy, gdzie i jak
+Spotkaliśmy się, zabiegaliśmy i złożyliśmy przysięgę,
+Powiem ci, gdy będziemy przechodzić; ale modlę się o to,
+Abyś zgodziła się nas dziś poślubić.
+
+BRACIA LAWRENCE.
+Święty Franciszku! Jaka tu zmiana!
+Czy Rosaline, którą tak kochałeś,
+Tak szybko opuszczony? Miłość młodych mężczyzn kłamie
+Nie tak naprawdę w ich sercach, ale w ich oczach.
+Jesu Maria, co za solanka
+Umył twoje ziemiste policzki dla Rozaliny!
+Ile słonej wody wyrzuca się do śmieci,
+Doprawić miłość, która nie smakuje.
+Słońce jeszcze nie rozjaśniło twoich westchnień z nieba,
+Twoje dawne jęki dźwięczą jeszcze w moich starożytnych uszach.
+Oto plama siedzi na twoim policzku
+Starej łzy, która jeszcze nie została zmyta.
+Gdybyś był sobą, a te twoje nieszczęścia,
+Ty i wszystkie te nieszczęścia były dla Rozaliny,
+Czy zmieniłeś się? Wymów więc to zdanie,
+Kobiety mogą upaść, gdy w mężczyznach nie ma siły.
+
+ROMEO.
+Często mnie ganisz za to, że kochałem Rosaline.
+
+BRACIA LAWRENCE.
+Za zamiłowanie, nie za kochanie, moja uczennico.
+
+ROMEO.
+I źle, że zakopuję miłość.
+
+BRACIA LAWRENCE.
+Nie w grobie
+Aby położyć jeden, inny mieć.
+
+ROMEO.
+Proszę cię, nie karć mnie, ją kocham teraz
+Czy pozwala łaska za łaskę i miłość za miłość.
+Drugi tak nie zrobił.
+
+BRACIA LAWRENCE.
+Och, dobrze wiedziała
+Twa miłość czytała na pamięć, której nie można było przeliterować.
+Ale chodź młody chwiejny, chodź ze mną,
+Pod jednym względem będę twoim asystentem;
+Bo ten sojusz może tak szczęśliwie okazać,
+Obrócić urazę domowników w czystą miłość.
+
+ROMEO.
+O, pozwól nam stąd; Staję w nagłym pośpiechu.
+
+BRACIA LAWRENCE.
+Mądrze i powoli; potykają się, co biegną szybko.
+
+ [_Wyjście._]
+
+SCENA IV. Ulica.
+
+ Wchodzą Benvolio i Mercutio.
+
+MERCUTIO.
+Gdzie do diabła powinien być ten Romeo? Nie przyszedł dziś do domu?
+
+BENWOLIO.
+Nie do ojca; Rozmawiałem z jego człowiekiem.
+
+MERCUTIO.
+Przecież ta sama blada, nieczuła dziewucha, ta Rozalina, tak go dręczy
+że z pewnością oszaleje.
+
+BENWOLIO.
+Tybalt, krewny starego Kapuleta, wysłał list do swego ojca
+dom.
+
+MERCUTIO.
+Wyzwanie na moje życie.
+
+BENWOLIO.
+Romeo odpowie.
+
+MERCUTIO.
+Każdy człowiek, który umie pisać, może odpowiedzieć na list.
+
+BENWOLIO.
+Nie, odpowie mistrzowi listu, jak śmie, będąc ośmielonym.
+
+MERCUTIO.
+Niestety, biedny Romeo, on już nie żyje, zadźgany czarną białą dziewką
+oko; wpadać do ucha miłosną piosenką, samą szpilką w jego sercu
+rozszczep z tyłkiem niewidomego łucznika. I czy jest człowiekiem, którego można spotkać
+Tybalt?
+
+BENWOLIO.
+Dlaczego, czym jest Tybalt?
+
+MERCUTIO.
+Więcej niż Książę kotów. O, on jest odważnym kapitanem
+gratulacje. Walczy, gdy śpiewasz chuja, trzyma czas, dystans,
+i proporcji. Odkłada swój mini odpoczynek, raz, dwa i trzeci
+twoje łono: sam rzeźnik jedwabnego guzika, pojedynkujący się, pojedynkujący się;
+dżentelmen z pierwszego domu, z pierwszej i drugiej przyczyny. Ach,
+nieśmiertelne passado, punto reverso, siano.
+
+BENWOLIO.
+co?
+
+MERCUTIO.
+Ospa takiego antycznego seplenienia, wpływającego na fantazje; te nowe tunery
+akcentu. Na Jesu, bardzo dobre ostrze, bardzo wysoki mężczyzna, bardzo dobry
+kurwa. Czy to nie jest żałosna rzecz, dziadku, że powinniśmy
+być w ten sposób dotknięty tymi dziwnymi muchami, tymi handlarzami modą,
+wybaczcie mi, którzy tak bardzo trzymają się nowej formy, że nie mogą
+usiądź wygodnie na starej ławce? O ich kości, ich kości!
+
+ Wejdź Romeo.
+
+BENWOLIO.
+Nadchodzi Romeo, nadchodzi Romeo!
+
+MERCUTIO.
+Bez swojej ikry, jak suszony śledź. O ciele, ciele, jak się masz
+złowione! Teraz jest dla liczb, do których napływał Petrarka. Laura, do
+jego pani była tylko dziewką kuchenną — ożenić się, miała lepszą miłość
+berhyme jej: Dido a dowdy; Kleopatra Cyganka; Hildings Helen i Hero
+i nierządnice; To może być szare oko lub coś w tym stylu, ale nie do celu. Signor
+Romeo, cześć! Jest francuskie pozdrowienie dla twojej francuskiej pomyłki. ty
+dał nam podróbkę uczciwie zeszłej nocy.
+
+ROMEO.
+Dzień dobry wam obojgu. Jaką podróbkę ci dałem?
+
+MERCUTIO.
+Poślizg proszę pana, poślizg; nie możesz zajść w ciążę?
+
+ROMEO.
+Wybacz, dobry Mercutio, moja sprawa była świetna, aw takim przypadku jak
+mój człowiek może nadwyrężyć uprzejmość.
+
+MERCUTIO.
+Można powiedzieć, że taki przypadek jak twój zmusza mężczyznę do ukłonu
+w szynkach.
+
+ROMEO.
+To znaczy, dygnąć.
+
+MERCUTIO.
+Najłaskawiej trafiłeś.
+
+ROMEO.
+Najbardziej uprzejma ekspozycja.
+
+MERCUTIO.
+Nie, jestem bardzo różowa dzięki uprzejmości.
+
+ROMEO.
+Różowy dla kwiatka.
+
+MERCUTIO.
+Prawidłowy.
+
+ROMEO.
+Dlaczego więc moja pompa jest dobrze rozkwitnięta.
+
+MERCUTIO.
+Jasne dowcipie, chodź za mną teraz tym żartem, aż zużyjesz pompę,
+że gdy zużyje się jedną podeszwę, żart może pozostać po
+noszenie, wyłącznie w liczbie pojedynczej.
+
+ROMEO.
+O samotna żartownisiu, jedyna w swoim rodzaju dla pojedynczości!
+
+MERCUTIO.
+Wejdź między nas, dobry Benvolio; mój rozum słabnie.
+
+ROMEO.
+Zwrotnice i ostrogi, zwoje i ostrogi; albo zapłaczę zapałkę.
+
+MERCUTIO.
+Nie, jeśli twój rozum biegnie jak szalony, to ja skończę. Bo masz
+więcej dzikiej gęsi w jednym z twoich rozumów, niż jestem pewien, że mam w swoim
+cała piątka. Czy byłem z tobą na gęsi?
+
+ROMEO.
+Nigdy nie byłeś ze mną za nic, kiedy nie było cię tam dla
+gęś.
+
+MERCUTIO.
+Ugryzę cię za ucho za ten żart.
+
+ROMEO.
+Nie, dobra gęś, nie gryź.
+
+MERCUTIO.
+Twój dowcip to bardzo gorzka słodycz, to bardzo ostry sos.
+
+ROMEO.
+I czy nie jest to dobrze podane dla słodkiej gęsi?
+
+MERCUTIO.
+O, oto żart cheveril, który rozciąga się od cala wąskiego do
+łokieć szeroki.
+
+ROMEO.
+Rozciągam to za to słowo szerokie, które dodaje się do gęsi, dowodzi
+daleko i szeroko, szeroka gęś.
+
+MERCUTIO.
+Dlaczego, czy to nie jest lepsze teraz niż wzdychanie z miłości? Teraz jesteś
+towarzyski, teraz jesteś Romeo; nie jesteś tym, czym jesteś, przez sztukę jako
+również z natury. Bo ta porywająca miłość jest jak wielka naturalność,
+który biegnie zwisając w górę iw dół, aby ukryć swoją bombkę w dziurze.
+
+BENWOLIO.
+Zatrzymaj się tam, zatrzymaj się tam.
+
+MERCUTIO.
+Pragniesz, abym zatrzymał się w mojej opowieści o włosach.
+
+BENWOLIO.
+W przeciwnym razie uczyniłbyś swoją opowieść wielką.
+
+MERCUTIO.
+O, jesteś zwiedziony; Skróciłbym to, bo przyszedłem do
+całą głębię mojej opowieści i rzeczywiście miał zająć argument nr
+dłużej.
+
+ Wchodzą Pielęgniarka i Peter.
+
+ROMEO.
+Oto dobry sprzęt!
+Żagiel, żagiel!
+
+MERCUTIO.
+Dwa dwa; koszulę i fartuch.
+
+PIELĘGNIARKA.
+Piotr!
+
+PIOTR.
+Zaraz.
+
+PIELĘGNIARKA.
+Mój fan Piotr.
+
+MERCUTIO.
+Dobry Piotrze, aby ukryć twarz; bo jej fan ma jaśniejszą twarz.
+
+PIELĘGNIARKA.
+Boże, dzień dobry panowie.
+
+MERCUTIO.
+Boże, ty dobra, piękna damo.
+
+PIELĘGNIARKA.
+Czy to jest dobre?
+
+MERCUTIO.
+To nie mniej, mówię wam; bo sprośna ręka na tarczy jest teraz na
+poranek południa.
+
+PIELĘGNIARKA.
+Na ciebie! Co z ciebie za mężczyzna?
+
+ROMEO.
+Jedna, szlachcianka, którą Bóg stworzył dla siebie, aby ją zmarnować.
+
+PIELĘGNIARKA.
+Na moje słowo, to dobrze powiedziane; dla siebie, aby zniszczyć, cytując? Panowie,
+czy ktoś z was może mi powiedzieć, gdzie mogę znaleźć młodego Romea?
+
+ROMEO.
+Mogę ci powiedzieć: ale młody Romeo będzie starszy, kiedy go znajdziesz
+niż był, kiedy go szukałeś. Jestem najmłodszy o tym imieniu, bo
+wina gorszego.
+
+PIELĘGNIARKA.
+Dobrze mówisz.
+
+MERCUTIO.
+Tak, czy najgorsze jest dobrze? Bardzo dobrze przyjęty, wierzę; mądrze, mądrze.
+
+PIELĘGNIARKA.
+Jeśli nim jesteś, proszę pana, pragnę trochę zaufania do ciebie.
+
+BENWOLIO.
+Zaprosi go na jakąś kolację.
+
+MERCUTIO.
+Kurwa, szmata, szmata! Więc ho!
+
+ROMEO.
+Co znalazłeś?
+
+MERCUTIO.
+Nie zając, proszę pana; chyba że zając, proszę pana, w pasztecie wielkopostnym, to już coś
+stęchłe i oszklone, zanim zostanie wydane.
+[_Śpiewa._]
+    Stary siwy zając,
+    I stary siwy zając,
+  Jest bardzo dobre mięso w Wielkim Poście;
+    Ale zając, który jest siwy
+    To za dużo jak na wynik
+  Kiedy sinieje, zanim zostanie wydane.
+Romeo, przyjdziesz do ojca? Pójdziemy tam na kolację.
+
+ROMEO.
+Będę Cię śledzić.
+
+MERCUTIO.
+Żegnaj, starożytna damo; żegnaj, pani, pani, pani.
+
+ [_Wychodzą Mercutio i Benvolio._]
+
+PIELĘGNIARKA.
+Proszę pana, co to był za zuchwały kupiec, który był tak pełen jego
+powroźnictwo?
+
+ROMEO.
+Dżentelmen, siostro, który uwielbia słuchać, jak mówi, i będzie mówił
+więcej w ciągu minuty, niż wytrzyma w ciągu miesiąca.
+
+PIELĘGNIARKA.
+A jeśli powiesz coś przeciwko mnie, obalę go, a oni będą bardziej pożądliwi
+niż on, i dwadzieścia takich waletów. A jeśli nie mogę, to je znajdę
+to powinno. Szkorcowaty łajdak! Nie jestem żadną z jego flirciarskich skrzeli; nie jestem żadnym
+jego skains-towarzysze. — I ty też musisz stać z boku i tolerować każdego łajdaka
+wykorzystaj mnie dla jego przyjemności!
+
+PIOTR.
+Nie widziałem, żeby ktoś wykorzystywał cię dla własnej przyjemności; gdybym miał, moja broń powinna
+szybko wyszły. Gwarantuję ci, ośmielam się rysować tak szybko, jak inny
+człowieku, jeśli w dobrej kłótni widzę okazję, a prawo jest po mojej stronie.
+
+PIELĘGNIARKA.
+Teraz, przed Bogiem, jestem tak rozdrażniony, że każda część mnie drży. Szkorbut
+kanalia. Proszę cię, panie, o słowo: i jak ci powiedziałem, moja młoda dama kazała mi
+zapytać cię; co kazała mi powiedzieć, zachowam dla siebie. Ale najpierw
+pozwólcie, że wam powiem, jeśli poprowadzicie ją do raju głupców, jak oni
+powiedzmy, że było to bardzo obrzydliwe zachowanie, jak mówią; dla
+dama jest młoda. A zatem, jeśli powinieneś radzić sobie podwójnie
+jej, zaprawdę, niezdrową rzeczą było ofiarować ją jakiejkolwiek szlachetnie urodzonej damie, i
+bardzo słaby układ.
+
+ROMEO. Siostro, poleć mnie swojej pani i pani. Protestuję do
+ciebie,-
+
+PIELĘGNIARKA.
+Dobre serce i wierzę, że tyle jej powiem. Panie, Panie, ona będzie
+bądź radosną kobietą.
+
+ROMEO.
+Co jej powiesz, siostro? Nie zaznaczasz mnie.
+
+PIELĘGNIARKA.
+Powiem jej, sir, że protestujecie, co, jak rozumiem, jest
+oferta dżentelmena.
+
+ROMEO.
+Licytuj jej pomysł
+Niektóre środki, aby dojść do porozumienia tego popołudnia,
+I tam będzie w celi brata Lawrence'a
+Bądź shriv'd i żonaty. Oto za twoje cierpienia.
+
+PIELĘGNIARKA.
+Nie, naprawdę, proszę pana; ani grosza.
+
+ROMEO.
+Iść do; Mówię, że będziesz.
+
+PIELĘGNIARKA.
+Dziś po południu, proszę pana? Cóż, ona tam będzie.
+
+ROMEO.
+I zostań, dobra siostro, za murami opactwa.
+W ciągu tej godziny mój człowiek będzie z tobą,
+I przynieś ci sznury zrobione jak postawione schody,
+Który ku szczytowi mej radości
+To musi być mój konwój w tajemniczą noc.
+Żegnaj, bądź ufny, a ja porzucę twoje cierpienia;
+Pożegnanie; poleć mnie swojej pani.
+
+PIELĘGNIARKA.
+A teraz niech cię Bóg w niebie błogosławi. Słuchaj, proszę pana.
+
+ROMEO.
+Co ty na to, moja droga siostro?
+
+PIELĘGNIARKA.
+Czy twój mężczyzna jest tajemniczy? Czy nigdy nie słyszałeś,
+Dwóch może doradzać, odsuwając jednego?
+
+ROMEO.
+Gwarantuję ci, że mój mężczyzna jest wierny jak stal.
+
+PIELĘGNIARKA.
+Cóż, proszę pana, moja kochanka jest najsłodszą damą. Panie, Panie! Kiedy był
+mała gadanina, — O, w mieście jest szlachcic, niejaki Parys, ten
+wolałby położyć nóż na pokładzie; ale ona, dobra dusza, musiała zobaczyć
+ropucha, bardzo ropucha, jak go widzisz. Czasami ją denerwuję i mówię jej to
+Paris jest właściwym mężczyzną, ale gwarantuję ci, że kiedy tak powiem, ona
+wygląda tak blado, jak każda siła przebicia w versalowym świecie. Czy nie rozmaryn i
+Romeo zaczyna się od litery?
+
+ROMEO.
+Tak, pielęgniarko; co z tego? Oba z literą R.
+
+PIELĘGNIARKA.
+Ach, prześmiewca! Tak ma na imię pies. R oznacza — nie, wiem, że się zaczyna
+z jakimś innym listem, a ona ma najpiękniejsze zdanie z tego,
+o Tobie i Rosemary, dobrze by ci to zrobiło.
+
+ROMEO.
+Poleć mnie swojej pani.
+
+PIELĘGNIARKA.
+Tak, tysiąc razy. Piotr!
+
+ [_Wyjdź z Romeo._]
+
+PIOTR.
+Zaraz.
+
+PIELĘGNIARKA.
+Przed i szybko.
+
+ [_Wyjście._]
+
+SCENA V. Ogród Kapuletów.
+
+ Wprowadź Julię.
+
+JULIA.
+Zegar wybił dziewiątą, kiedy wysłałem Pielęgniarkę,
+Obiecała wrócić za pół godziny.
+Może nie może się z nim spotkać. To nie tak.
+O, ona jest ślepa. Zwiastunem miłości powinny być myśli,
+Który dziesięć razy szybciej szybuje niż promienie słońca,
+Odpędzając cienie nad opadającymi wzgórzami:
+Dlatego zwinne gołębie przyciągają miłość,
+I dlatego ma szybkie wiatrem skrzydła Kupidyna.
+Teraz słońce jest na najwyższym wzgórzu
+O dzisiejszej podróży i od dziewiątej do dwunastej
+Minęły trzy długie godziny, a ona jeszcze nie nadeszła.
+Gdyby miała uczucia i ciepłą młodzieńczą krew,
+Byłaby w ruchu szybka jak piłka;
+Moje słowa przyciągną ją do mojej słodkiej miłości,
+A jego do mnie.
+Ale starzy ludzie, wielu udaje, że nie żyją;
+Nieporęczny, powolny, ciężki i blady jak ołów.
+
+ Wchodzą Pielęgniarka i Peter.
+
+O Boże, ona nadchodzi. O kochana Siostro, jakie wieści?
+Czy spotkałeś się z nim? Odeślij swego człowieka.
+
+PIELĘGNIARKA.
+Peter, zostań przy bramie.
+
+ [_Wyjdź Piotr._]
+
+JULIA.
+A teraz, dobra, słodka niańko, — o Panie, dlaczego wyglądasz na smutnego?
+Choćby nowiny były smutne, przekaż je wesoło;
+Jeśli dobrze, zawstydzisz muzykę słodkich nowin
+Grając mi to z tak kwaśną miną.
+
+PIELĘGNIARKA.
+Jestem znużony, daj mi chwilę urlopu;
+Fie, jak mnie kości bolą! Co za wypad miałem!
+
+JULIA.
+Chciałbym, żebyś miał moje kości, a ja twoje wieści:
+Nie, przyjdź, proszę, mów; dobrze, dobra siostro, mów.
+
+PIELĘGNIARKA.
+Jezu, jaki pośpiech? Nie możesz zostać na chwilę? Czy nie widzisz, że jestem
+bez tchu?
+
+JULIA.
+Jakże jesteś zdyszany, skoro masz oddech
+Powiedzieć mi, że brak ci tchu?
+Wymówka, którą robisz w tej zwłoce
+Jest dłuższa niż opowieść, którą usprawiedliwiasz.
+Czy twoja wiadomość jest dobra czy zła? Odpowiedź na to;
+Powiedz albo, a ja zostanę przy tej okoliczności.
+Pozwól mi być usatysfakcjonowanym, czy to dobrze, czy źle?
+
+PIELĘGNIARKA.
+Cóż, dokonałeś prostego wyboru; nie wiesz, jak wybrać mężczyznę.
+Romeo? Nie, nie on. Chociaż jego twarz jest lepsza niż jakikolwiek mężczyzna, to jednak jego
+noga przewyższa wszystkich mężczyzn, ale jeśli chodzi o rękę, stopę i ciało
+nie należy o nich mówić, ale nie można ich porównywać. On nie jest
+kwiat uprzejmości, ale gwarantuję, że będzie łagodny jak baranek. Idź do siebie
+sposoby, dziewucho, służ Bogu. Co, jadłeś obiad w domu?
+
+JULIA.
+Nie? Nie. Ale to wszystko wiedziałem już wcześniej.
+Co on mówi o naszym małżeństwie? Co z tego?
+
+PIELĘGNIARKA.
+Panie, jak boli mnie głowa! Co ja mam za głowę!
+Bije, jakby rozpadło się na dwadzieścia kawałków.
+Moje plecy z drugiej strony, — O moje plecy, moje plecy!
+Podziękuj swojemu sercu za wysłanie mnie
+By złapać moją śmierć podskakując w górę iw dół.
+
+JULIA.
+Wierzę, przykro mi, że nie czujesz się dobrze.
+Słodka, słodka, słodka Siostro, powiedz mi, co mówi moja miłość?
+
+PIELĘGNIARKA.
+Twoja miłość mówi jak uczciwy dżentelmen,
+I uprzejmy, miły i przystojny,
+I gwarantuję cnotliwe: — Gdzie jest twoja matka?
+
+JULIA.
+Gdzie jest moja matka? Przecież ona jest w środku.
+Gdzie ona powinna być? Jak dziwnie odpowiadasz.
+„Twoja miłość mówi, jak uczciwy dżentelmen,
+'Gdzie jest twoja matka?'
+
+PIELĘGNIARKA.
+O Pani Boża droga,
+Czy jesteś taki gorący? Poślub, podejdź, ja tracę.
+Czy to okład na moje bolące kości?
+Odtąd twórz wiadomości samodzielnie.
+
+JULIA.
+Oto taka cewka. Chodź, co mówi Romeo?
+
+PIELĘGNIARKA.
+Czy masz dzisiaj pozwolenie, żeby iść się posrać?
+
+JULIA.
+Mam.
+
+PIELĘGNIARKA.
+Więc zawieź cię stąd do celi brata Wawrzyńca;
+Zostaje mąż, aby uczynić cię żoną.
+Teraz bezsensowna krew zalewa twoje policzki,
+Będą w szkarłacie prosto na każdą wiadomość.
+Cześć do kościoła. Muszę w inny sposób,
+Przynieść drabinę, po której kochasz
+Musi wspiąć się na ptasie gniazdo wkrótce, gdy będzie ciemno.
+Jestem poborem i trudzę się w twojej rozkoszy;
+Ale wkrótce w nocy poniesiesz ten ciężar.
+Iść. ja na obiad; cześć do celi.
+
+JULIA.
+Cześć wielkiemu szczęściu! Uczciwa pielęgniarko, żegnaj.
+
+ [_Wyjście._]
+
+SCENA VI. Cela brata Lawrence'a.
+
+ Wchodzą bracia Lawrence i Romeo.
+
+BRACIA LAWRENCE.
+Więc uśmiechnij się do niebios z powodu tego świętego czynu
+By po godzinach smutek nas nie karcił.
+
+ROMEO.
+Amen, amen, ale nadchodzi smutek,
+Nie może zrównoważyć wymiany radości
+Ta jedna krótka minuta daje mi ją w zasięgu wzroku.
+Czy tylko zamknij nasze ręce świętymi słowami,
+Wtedy pożerająca miłość śmierć zrobi to, na co się odważy,
+Wystarczy, że mogę nazywać ją moją.
+
+BRACIA LAWRENCE.
+Te gwałtowne rozkosze mają gwałtowne końce,
+I w ich triumfie umrzyj; jak ogień i proszek,
+Które podczas pocałunku konsumują. Najsłodszy miód
+Jest odrażający w swojej własnej smakowitości,
+A w smaku miesza apetyt.
+Dlatego kochaj umiarkowanie: miłość długotrwała;
+Zbyt szybko przybywa tak samo późno, jak zbyt wolno.
+
+ Wprowadź Julię.
+
+Oto nadchodzi pani. O, więc lekka noga
+Nigdy nie zniszczy wiecznego krzemienia.
+Kochanek może dosiadać pajęczyn
+Która stoi na biegu jałowym w bezsensownym letnim powietrzu
+A jednak nie upaść; więc światło jest marnością.
+
+JULIA.
+Dobry nawet dla mojego upiornego spowiednika.
+
+BRACIA LAWRENCE.
+Romeo podziękuje ci, córko, za nas oboje.
+
+JULIA.
+Tyle dla niego, poza tym jego podziękowania są zbyt duże.
+
+ROMEO.
+Ach, Julia, jeśli miara twojej radości
+Bądź taki jak mój, a twoja umiejętność będzie większa
+By to opisać, potem osłodź swoim oddechem
+To powietrze sąsiada i język bogatej muzyki
+Rozwiń wyimaginowane szczęście, które oboje
+Przyjmij albo przez to drogie spotkanie.
+
+JULIA.
+Pycha bogatsza w materię niż w słowa,
+Przechwala się swoją treścią, a nie ozdobą.
+Są tylko żebrakami, którzy potrafią oszacować swoją wartość;
+Ale moja prawdziwa miłość urosła do takiego nadmiaru,
+Nie mogę zsumować sumy połowy mojego majątku.
+
+BRACIA LAWRENCE.
+Chodź, chodź ze mną, a zrobimy krótką robotę,
+Bo przy twoich liściach nie zostaniesz sam
+Aż święty kościół połączy dwa w jednym.
+
+ [_Wyjście._]
+
+
+
+AKT III
+
+SCENA I. Miejsce publiczne.
+
+ Wchodzą Mercutio, Benvolio, Page i służący.
+
+BENWOLIO.
+Proszę cię, dobry Merkucjo, odejdźmy:
+Dzień jest gorący, Kapuleci za granicą,
+A jeśli się spotkamy, nie unikniemy bójki,
+Na razie w te upalne dni, szalona krew się miesza.
+
+MERCUTIO.
+Jesteś jak jeden z tych ludzi, którzy, kiedy wkraczają w granice
+tawernie, kładzie mi swój miecz na stole i mówi: „Nie daj mi Boże”.
+potrzebuję cię! i przez działanie drugiego kielicha przyciąga go do siebie
+szufladę, kiedy rzeczywiście nie ma takiej potrzeby.
+
+BENWOLIO.
+Czy jestem podobny do takiego faceta?
+
+MERCUTIO.
+Chodź, chodź, jesteś tak gorący jak walet w swoim nastroju, jak każdy we Włoszech; i jako
+wkrótce przeniósł się nastrojowy, a jak tylko nastrojowy, aby zostać przeniesionym.
+
+BENWOLIO.
+I co?
+
+MERCUTIO.
+Nie, gdyby było dwóch takich, wkrótce nie mielibyśmy żadnego, bo jeden by miał
+zabić drugiego. Ty? Dlaczego, będziesz się kłócić z człowiekiem, który ma
+włosa więcej lub włosa mniej na jego brodzie niż ty masz. Będziesz się kłócić
+z mężczyzną za rozłupywanie orzechów, nie mając innego powodu, jak tylko dlatego, że ty
+ma piwne oczy. Jakie oko, jeśli nie takie oko, wyśledziłoby taką kłótnię?
+Twoja głowa jest tak pełna kłótni, jak jajko jest pełne mięsa, a jednak twoja
+za kłótnie pobito głowę jak jajko. masz
+pokłócił się z człowiekiem o kaszel na ulicy, bo ma
+obudził twojego psa, który spał na słońcu. Czy nie upadłeś
+umówić się z krawcem, żeby założył swój nowy dublet przed Wielkanocą? z
+inny za zawiązanie nowych butów starym ściągaczem? A jednak chcesz
+poucz mnie od kłótni!
+
+BENWOLIO.
+A ja byłem tak skłonny do kłótni jak ty, każdy mężczyzna powinien zapłacić honorarium
+proste z mojego życia przez godzinę i kwadrans.
+
+MERCUTIO.
+Opłata prosta! O proste!
+
+ Wchodzi Tybalt i inni.
+
+BENWOLIO.
+Przy mojej głowie nadchodzą Kapuleci.
+
+MERCUTIO.
+Na moją piętę, nie obchodzi mnie to.
+
+TYBALT.
+Podążaj za mną blisko, bo będę z nimi rozmawiał.
+Panowie, good-den: słówko z jednym z was.
+
+MERCUTIO.
+I choć jedno słowo z jednym z nas? Połącz to z czymś; zrób to a
+słowo i cios.
+
+TYBALT.
+Uznasz, że jestem do tego wystarczająco zdolny, panie, i dasz mi
+okazja.
+
+MERCUTIO.
+Czy nie mógłbyś skorzystać z jakiejś okazji bez dawania?
+
+TYBALT.
+Mercutio, zadajesz się z Romeo.
+
+MERCUTIO.
+Małżonek? Co, robisz z nas minstreli? I robisz z nich minstreli
+nas, patrzcie, żeby słyszeć tylko niezgody. Oto mój skrzypek, oto
+która porwie cię do tańca. Zounds, małżonku!
+
+BENWOLIO.
+Rozmawiamy tutaj w publicznym miejscu mężczyzn.
+Albo wycofać się do jakiegoś prywatnego miejsca,
+I rozumuj chłodno o swoich skargach,
+Albo odejść; tutaj wszystkie oczy patrzą na nas.
+
+MERCUTIO.
+Oczy mężczyzn zostały stworzone do patrzenia i pozwól im patrzeć.
+Nie ustąpię dla niczyjej przyjemności, I.
+
+ Wejdź Romeo.
+
+TYBALT.
+Cóż, niech pokój będzie z wami, sir, nadchodzi mój człowiek.
+
+MERCUTIO.
+Ale mnie powieszą, sir, jeśli będzie nosił pańskie liberie.
+Wyjdź za mąż, idź wcześniej na pole, on będzie twoim naśladowcą;
+Wasz kult w tym sensie może nazywać go człowiekiem.
+
+TYBALT.
+Romeo, na miłość, którą cię żywię, możesz sobie pozwolić
+Nie ma lepszego określenia niż to: Jesteś złoczyńcą.
+
+ROMEO.
+Tybalt, powód, dla którego muszę cię kochać
+Wiele usprawiedliwia panującą wściekłość
+Na takie powitanie. Niczym nie jestem;
+Dlatego żegnaj; Widzę, że mnie nie znasz.
+
+TYBALT.
+Chłopcze, to nie usprawiedliwia obrażeń
+To, co mi zrobiłeś, przeto odwróć się i narysuj.
+
+ROMEO.
+Protestuję, że nigdy cię nie skrzywdziłem,
+Ale kochaj cię lepiej, niż możesz sobie wyobrazić
+Aż poznasz przyczynę mojej miłości.
+I tak dobry Capulet, którego imię składam
+Tak drogie jak moje własne, bądź zadowolony.
+
+MERCUTIO.
+O spokojna, haniebna, nikczemna uległość!
+[_Rysuje._] Alla stoccata niesie to ze sobą.
+Tybalt, szczurołapie, czy pójdziesz?
+
+TYBALT.
+Co byś chciał ze mną?
+
+MERCUTIO.
+Dobry królu kotów, tylko jedno z twoich dziewięciu żyć; że mam zamiar
+odważ się, a resztę, jak będziesz mnie używał, ubij na sucho
+z ośmiu. Czy wyrwiesz swój miecz z jego łupieża za uszy?
+Pospiesz się, aby moja nie wpadła do twoich uszu, zanim wyjdzie.
+
+TYBALT.
+[_Rysunek._] Jestem dla Ciebie.
+
+ROMEO.
+Łagodny Merkucjo, odłóż swój rapier.
+
+MERCUTIO.
+Proszę pana, pana passado.
+
+ [_Oni walczą._]
+
+ROMEO.
+Remis, Benvolio; zniszczyć ich broń.
+Panowie, dla wstydu, wstrzymajcie się od tej zniewagi,
+Tybalt, Mercutio, książę wyraźnie ma
+Zakazać tego bandytyzmu na ulicach Werony.
+Trzymaj się, Tybalcie! Dobry Merkucjo!
+
+ [_Wychodzi Tybalt ze swoimi partyzantami._]
+
+MERCUTIO.
+Jestem zraniony.
+Plaga obu waszych domów. Jestem szybki.
+Czy odszedł i nie ma nic?
+
+BENWOLIO.
+Co, jesteś ranny?
+
+MERCUTIO.
+Ay, ay, zadrapanie, zadrapanie. Wyjdź za mąż, wystarczy.
+Gdzie jest moja strona? Idź złoczyńco, sprowadź chirurga.
+
+ [_Strona wyjścia._]
+
+ROMEO.
+Odwagi, człowieku; ból nie może być duży.
+
+MERCUTIO.
+Nie, to nie jest tak głębokie jak studnia ani tak szerokie jak drzwi kościoła, ale jest
+wystarczy, „twill służyć. Zapytaj mnie jutro, a znajdziesz mnie
+poważny mężczyzna. Jestem pieprzony, gwarantuję, dla tego świata. Plaga obu
+wasze domy. Zoundy, pies, szczur, mysz, kot, żeby podrapać człowieka
+śmierć. Przechwałka, łobuz, złoczyńca, który walczy według księgi
+arytmetyka! — Dlaczego diabeł stanął między nami? Byłem zraniony pod twoimi
+ramię.
+
+ROMEO.
+Myślałem o wszystkim jak najlepiej.
+
+MERCUTIO.
+Pomóż mi dostać się do jakiegoś domu, Benvolio,
+Albo zemdleję. Plaga obu waszych domów.
+Zrobili ze mnie mięso robaków.
+Mam to i to solidnie. Wasze domy!
+
+ [_Wychodzą Mercutio i Benvolio._]
+
+ROMEO.
+Ten dżentelmen, bliski sojusznik księcia,
+Mój przyjaciel został śmiertelnie zraniony
+w moim imieniu; moja reputacja splamiona
+Z oszczerstwem Tybalta, — Tybalt, że godzina
+Był moim kuzynem. O słodka Julio,
+Twoje piękno uczyniło mnie zniewieściałym
+I w moim temperamencie zmiękła stal męstwa.
+
+ Ponownie wejdź do Benvolio.
+
+BENWOLIO.
+O Romeo, Romeo, dzielny Mercutio nie żyje,
+Ten dzielny duch aspirował chmury,
+Które zbyt przedwcześnie tu wzgardziły ziemią.
+
+ROMEO.
+Czarny los tego dnia zależy od wielu dni;
+To dopiero początek nieszczęścia, które inni muszą skończyć.
+
+ Wkrocz ponownie do Tybalta.
+
+BENWOLIO.
+Wściekły Tybalt znów powraca.
+
+ROMEO.
+Znowu w triumfie, a Merkucjo zabity?
+Daleko do nieba odpowiednia pobłażliwość,
+I ognistooka furia będzie teraz moim postępowaniem!
+A teraz, Tybalt, zabierz z powrotem „złoczyńcę”.
+Tak późno dałeś mi za duszę Merkucja
+Jest tylko trochę ponad naszymi głowami,
+Zostając dla ciebie, aby dotrzymać mu towarzystwa.
+Albo ty, albo ja, albo oboje, musimy iść z nim.
+
+TYBALT.
+Ty nieszczęsny chłopcze, któryś go tu związał,
+Będę z nim stąd.
+
+ROMEO.
+To o tym zadecyduje.
+
+ [_Oni walczą; Upadek Tybalta._]
+
+BENWOLIO.
+Romeo, odejdź, odejdź!
+Obywatele powstali, a Tybalt zabity.
+Nie stój zdumiony. Książę skazuje cię na śmierć
+Jeśli jesteś zajęty. Dlatego odejdź, odejdź!
+
+ROMEO.
+O, jestem głupcem fortuny!
+
+BENWOLIO.
+Dlaczego zostajesz?
+
+ [_Wyjdź z Romeo._]
+
+ Wprowadź obywateli.
+
+PIERWSZY OBYWATEL.
+Którędy biegł ten, który zabił Merkucja?
+Tybalt, ten morderca, w którą stronę uciekł?
+
+BENWOLIO.
+Tam leży ten Tybalt.
+
+PIERWSZY OBYWATEL.
+Wstawaj, proszę pana, chodź ze mną.
+Nakazuję ci w imieniu Księcia być posłusznym.
+
+ Wprowadź Prince, uczestniczył; Montague, Capulet, ich żony i inni.
+
+KSIĄŻĘ.
+Gdzie są nikczemni początkujący w tej walce?
+
+BENWOLIO.
+O szlachetny książę, mogę odkryć wszystko
+Pechowy przebieg tej fatalnej bójki.
+Tam leży człowiek, zabity przez młodego Romea,
+Który zabił twego krewnego, dzielny Merkucjo.
+
+PANI KAPULET.
+Tybalcie, mój kuzynie! O synu mego brata!
+O książę! O mężu! O, krew się przelała
+Mojego drogiego krewnego! Książę, jak jesteś prawdziwy,
+Za naszą krew, przelaną krew Montague.
+O kuzynie, kuzynie.
+
+KSIĄŻĘ.
+Benvolio, kto rozpoczął tę krwawą bójkę?
+
+BENWOLIO.
+Tybalt, tutaj zabity, którego zabiła ręka Romea;
+Romeo, który mówił mu uczciwie, każ mu się zastanowić
+Jak miła była ta kłótnia i nalegała
+Twoje wielkie niezadowolenie. Wszystko to wypowiedziane
+Z łagodnym oddechem, spokojnym spojrzeniem, pokornie ugiętymi kolanami
+Nie mógł zawrzeć rozejmu z niesforną śledzioną
+O Tybalcie, głuchy na pokój, ale się przechyla
+Z przebijającą stalą na śmiałej piersi Mercutio,
+Który, tak gorący, obraca śmiertelnie od punktu do punktu,
+I z pogardą wojenną, jedną ręką bije
+Zimna śmierć na bok, a wraz z innymi wysyła
+To powrót do Tybalta, którego zręczność
+Retortuje to. Romeo głośno płacze,
+„Trzymajcie się, przyjaciele! Przyjaciele, część! i szybszy niż jego język,
+Jego zwinne ramię bije ich śmiertelne punkty,
+I „między nimi sitowia; pod czyim ramieniem
+Zazdrosne pchnięcie Tybalta uderzyło w życie
+Tęgi Merkucjo, a potem uciekł Tybalt.
+Ale z czasem wraca do Romea,
+Kto dopiero niedawno bawił się zemstą,
+I nie idą jak błyskawica; dla, ere ja
+Mógł ich rozdzielić, gdy krzepki Tybalt został zabity;
+A kiedy spadał, Romeo odwrócił się i odleciał.
+To jest prawda albo niech Benvolio umrze.
+
+PANI KAPULET.
+Jest krewnym Montague.
+Przywiązanie czyni go fałszywym, mówi nieprawdę.
+Około dwudziestu z nich walczyło w tej czarnej walce,
+A cała ta dwudziestka mogła zabić tylko jedno życie.
+Błagam o sprawiedliwość, którą ty, książę, musisz oddać;
+Romeo zabił Tybalta, Romeo nie może żyć.
+
+KSIĄŻĘ.
+Romeo go zabił, zabił Merkucja.
+Kto teraz jest winien cenę swojej drogiej krwi?
+
+MONTAŻ.
+Nie Romeo, książę, on był przyjacielem Mercutio;
+Kończy się jego wina, ale czym kończy się prawo,
+Życie Tybalta.
+
+KSIĄŻĘ.
+I za to przewinienie
+Natychmiast go stąd wygnamy.
+Interesuje mnie przebieg waszej nienawiści,
+Moja krew za wasze brutalne bójki krwawi.
+Ale nałożę na ciebie tak wysoką grzywnę
+Abyście wszyscy odpokutowali za moją stratę.
+Będę głuchy na błagania i wymówki;
+Ani łzy, ani modlitwy nie wykupią nadużyć.
+Dlatego nie używaj żadnego. Niech Romeo stąd w pośpiechu,
+W przeciwnym razie, kiedy zostanie znaleziony, ta godzina będzie jego ostatnią.
+Nieście stąd to ciało i spełniajcie naszą wolę.
+Miłosierdzie, ale morderstwa, przebaczenie tym, którzy zabijają.
+
+ [_Wyjście._]
+
+SCENA II. Pokój w domu Kapuletów.
+
+ Wprowadź Julię.
+
+JULIA.
+Galopujcie szybko, rumaki o ognistych stopach,
+W kierunku kwatery Phoebusa. Taki woźnica
+Jak Phaeton rzuciłby cię batem na zachód
+I natychmiast sprowadź pochmurną noc.
+Rozsuń swoją zasłonę, nocy pełniącej miłość,
+Oczy tego uciekiniera mogą mrugać i Romeo
+Skocz w te ramiona, o których nie mówiono i nie widziano.
+Kochankowie mogą zobaczyć swoje miłosne rytuały
+Przez ich własne piękno: lub, jeśli miłość jest ślepa,
+Najlepiej pasuje do nocy. Przyjdź, noc cywilna,
+Ty trzeźwo ubrana matrono, cała w czerni,
+I naucz mnie, jak przegrać zwycięski mecz,
+Play'd dla pary nieskazitelnych panienek.
+Kaptur moją bezmózgową krwią, bijącą w policzki,
+Z twoim czarnym płaszczem, aż dziwna miłość stanie się odważna,
+Pomyśl, że prawdziwa miłość działała po prostu skromnie.
+Przyjdź, nocy, przyjdź Romeo; przyjdź, dzień w nocy;
+Albowiem spoczniesz na skrzydłach nocy
+Bielszy niż świeży śnieg na grzbiecie kruka.
+Przyjdź łagodna noc, przyjdź kochająca czarnobrewa noc,
+Daj mi mojego Romea, a kiedy umrę,
+Weź go i pokrój w małe gwiazdki,
+I sprawi, że oblicze nieba będzie tak piękne
+Aby cały świat był zakochany w nocy,
+I nie oddawaj czci jaskrawemu słońcu.
+O, kupiłem dwór miłości,
+Ale nie opętał go; i chociaż jestem sprzedany,
+Jeszcze się nie cieszyłem. Taki nudny jest ten dzień
+Jak noc przed jakimś świętem
+Do niecierpliwego dziecka, które ma nowe szaty
+I może ich nie nosić. O, nadchodzi moja Pielęgniarka,
+Ona przynosi nowiny i każdy język, który mówi
+Ale imię Romeo przemawia niebiańską elokwencją.
+
+ Wchodzi pielęgniarka ze sznurkami.
+
+A teraz, pielęgniarko, jakie wieści? Co tam masz?
+Sznury, które kazał ci przynieść Romeo?
+
+PIELĘGNIARKA.
+Aj, aj, sznurki.
+
+ [_Rzuca je._]
+
+JULIA.
+Ja, jakie wieści? Dlaczego załamujesz ręce?
+
+PIELĘGNIARKA.
+Ach, dzień dobry, nie żyje, nie żyje, nie żyje!
+Jesteśmy zgubieni, pani, jesteśmy zgubieni.
+Pewnego dnia odszedł, został zabity, nie żyje.
+
+JULIA.
+Czy niebo może być aż tak zazdrosne?
+
+PIELĘGNIARKA.
+Romeo może,
+Chociaż niebo nie może. Oj Romeo, Romeo.
+Kto by kiedykolwiek pomyślał? Romeo!
+
+JULIA.
+Co z ciebie za diabeł, że tak mnie dręczysz?
+Ta tortura powinna ryczeć w ponurym piekle.
+Czy Romeo się zabił? Powiedz tylko tak,
+I tę nagą samogłoskę zatruję bardziej
+Niż śmiercionośne oko kuroliszka.
+Nie jestem ja, jeśli takie ja istnieje;
+Albo te zamknięte oczy, które sprawiają, że odpowiadasz Ay.
+Jeśli zostanie zabity, powiedz tak; lub jeśli nie, nie
+Krótkie dźwięki decydują o moim powodzeniu lub nieszczęściu.
+
+PIELĘGNIARKA.
+Widziałem ranę, widziałem to na własne oczy,
+Boże chroń znak! — tutaj na jego męskiej piersi.
+Żałosny gorset, krwawy żałosny gorset;
+Blady, blady jak popiół, cały umazany krwią,
+Wszystko w zaciekłej krwi. Zemdlałam na ten widok.
+
+JULIA.
+O, pęknij, moje serce. Biedny bankrut, złam się natychmiast.
+Do więzienia, oczy; nigdy nie patrz na wolność.
+Podła ziemia do ziemi zrezygnować; koniec ruchu tutaj,
+A ty i Romeo naciskacie jedno ciężkie mar.
+
+PIELĘGNIARKA.
+O Tybalt, Tybalt, najlepszy przyjaciel jakiego miałem.
+O szlachetny Tybalcie, uczciwy panu!
+Abym kiedykolwiek żył, aby zobaczyć cię martwego.
+
+JULIA.
+Co to za burza, która wieje tak przeciwstawnie?
+Czy Romeo został zamordowany i czy Tybalt nie żyje?
+Mój najdroższy kuzyn i mój drogi panie?
+Wtedy straszna trąba zabrzmi na powszechną zagładę,
+Bo któż żyje, jeśli tych dwóch nie ma?
+
+PIELĘGNIARKA.
+Tybalt odszedł, a Romeo wygnany,
+Romeo, który go zabił, jest wygnany.
+
+JULIA.
+O Boże! Czy ręka Romea przelała krew Tybalta?
+
+PIELĘGNIARKA.
+Tak się stało; niestety, stało się.
+
+JULIA.
+O wężowe serce, ukryte w kwitnącej twarzy!
+Czy kiedykolwiek smok miał tak piękną jaskinię?
+Piękny tyran, diabelski anielski,
+Kruk o gołębim piórze, wilczy baranek!
+Pogardzana istota najbożniejszego widowiska!
+W przeciwieństwie do tego, czym słusznie się wydajesz,
+Przeklęty święty, honorowy złoczyńca!
+Naturo, co miałaś czynić w piekle
+Kiedy skłoniłeś ducha diabła
+W śmiertelnym raju tak słodkiego ciała?
+Czy kiedykolwiek była książka zawierająca tak ohydną materię
+Tak dość związany? O, to oszustwo powinno zamieszkać
+W tak wspaniałym pałacu.
+
+PIELĘGNIARKA.
+Nie ma zaufania,
+Brak wiary, brak uczciwości u ludzi. wszyscy krzywoprzysięzcy,
+Wszyscy zaprzysiężeni, wszyscy do niczego, wszyscy oszczercy.
+Ach, gdzie jest mój człowiek? Daj mi trochę aqua vitae.
+Te smutki, te nieszczęścia, te smutki postarzają mnie.
+Wstyd przyszedł do Romea.
+
+JULIA.
+Pęcherz byłby twoim językiem
+Na takie życzenie! Nie urodził się, by się wstydzić.
+Na jego czole wstyd wstydzi się usiąść;
+Bo to tron, na którym honor może być ukoronowany
+Jedyny monarcha wszechświatowej ziemi.
+Och, co za bestia ze mnie, żeby go zbesztać!
+
+PIELĘGNIARKA.
+Czy będziesz mówić dobrze o tym, który zabił twojego kuzyna?
+
+JULIA.
+Czy mam mówić źle o tym, który jest moim mężem?
+Ach, biedny mój panie, jaki język wygładzi twoje imię,
+Kiedy ja, twoja trzygodzinna żona, zniekształciłem to?
+Ale dlaczego, łajdaku, zabiłeś mojego kuzyna?
+Ten nikczemny kuzyn zabiłby mojego męża.
+Wracaj, głupie łzy, wracaj do rodzimej wiosny,
+Twoje dopływowe krople należą do nieszczęścia,
+Którą mylisz ofiaruj radości.
+Żyje mój mąż, którego Tybalt by zabił,
+A Tybalt nie żyje, to zabiłoby mojego męża.
+Wszystko to jest wygodą; dlaczego płaczę?
+Było jakieś słowo, gorsze od śmierci Tybalta,
+To morderstwo mnie zabiło. chetnie bym o tym zapomnial,
+Ale O, to naciska na moją pamięć
+Jak przeklęte winne uczynki dla umysłów grzeszników.
+Tybalt nie żyje, a Romeo wygnany.
+To „wygnany”, to jedno słowo „wygnany”,
+Zabił dziesięć tysięcy Tybaltów. Śmierć Tybalta
+Wystarczyłoby biada, gdyby na tym się skończyło.
+Lub jeśli cierpkie nieszczęście rozkoszuje się społecznością,
+I trzeba będzie klasyfikować z innymi smutkami,
+Dlaczego nie śledziła, kiedy powiedziała, że ​​Tybalt nie żyje,
+Twój ojciec lub twoja matka, nie lub oboje,
+Jaki współczesny lament mógł się poruszyć?
+Ale z tyłu po śmierci Tybalta,
+„Romeo jest wygnany” – mówiąc to słowo
+Czy ojciec, matka, Tybalt, Romeo, Julia,
+Wszyscy zabici, wszyscy martwi. Romeo zostaje wygnany,
+Nie ma końca, nie ma granic, miara, granica,
+W śmierci tego słowa żadne słowa nie mogą zabrzmieć tym biada.
+Gdzie jest mój ojciec i moja matka, siostro?
+
+PIELĘGNIARKA.
+Płacz i lament nad zwłokami Tybalta.
+Pójdziesz do nich? zaprowadzę cię tam.
+
+JULIA.
+Obmywają jego rany łzami. Moje zostaną wydane,
+Kiedy ich wyschną, na wygnanie Romea.
+Weź te kable. Biedne liny, jesteś oszukany,
+Zarówno ty, jak i ja; bo Romeo jest wygnany.
+Uczynił cię autostradą do mojego łóżka,
+Ale ja, służąca, umieram jako wdowa po pannie.
+Chodź sznury, chodź siostro, pójdę do mojego weselnego łoża,
+I śmierć, nie Romeo, zabierz moje dziewictwo.
+
+PIELĘGNIARKA.
+Cześć do twojej komnaty. Znajdę Romea
+Aby cię pocieszyć. Nie wiem, gdzie on jest.
+Słuchajcie, wasz Romeo będzie tu w nocy.
+Zadzwonię do niego, jest ukryty w celi Lawrence'a.
+
+JULIA.
+O, znajdź go, daj ten pierścień mojemu prawdziwemu rycerzowi,
+I każ mu przyjść na ostatnie pożegnanie.
+
+ [_Wyjście._]
+
+SCENA III. Cela brata Lawrence'a.
+
+ Wchodzi brat Lawrence.
+
+BRACIA LAWRENCE.
+Romeo, wyjdź; wyjdź, ty straszny człowieku.
+Utrapienie jest enanmour'd z twoich części
+A ty jesteś poślubiony nieszczęściu.
+
+ Wejdź Romeo.
+
+ROMEO.
+Ojcze, jakie wieści? Jaki los czeka księcia?
+Jaki smutek pragnie znajomości z mojej ręki,
+Że jeszcze nie wiem?
+
+BRACIA LAWRENCE.
+Zbyt znajome
+Czy mój drogi syn ma takie kwaśne towarzystwo.
+Przynoszę ci wieści o losie Księcia.
+
+ROMEO.
+Czym mniej niż dniem zagłady jest zagłada Księcia?
+
+BRACIA LAWRENCE.
+Łagodniejszy osąd zniknął z jego ust,
+Nie śmierć ciała, ale wygnanie ciała.
+
+ROMEO.
+Ha, wygnanie? Bądź miłosierny, powiedz śmierć;
+Bo wygnanie ma więcej przerażenia w jego spojrzeniu,
+Znacznie więcej niż śmierć. Nie mów wygnanie.
+
+BRACIA LAWRENCE.
+Dlatego z Werony jesteś wygnany.
+Bądź cierpliwy, bo świat jest szeroki i szeroki.
+
+ROMEO.
+Nie ma świata bez murów Werony,
+Ale czyściec, tortury, samo piekło.
+Stąd wygnany jest wygnany ze świata,
+A wygnanie świata to śmierć. Potem wygnany
+Czy śmierć jest pomyłką. Nazywając śmierć wygnaną,
+Odciąłeś mi głowę złotym toporem,
+I uśmiechaj się do udaru, który mnie morduje.
+
+BRACIA LAWRENCE.
+O grzechu śmiertelny, o niewdzięczna niewdzięczność!
+Twoja wina, nasze prawo nazywa śmierć, ale dobry Książę,
+Biorąc twoją stronę, zlekceważyłeś prawo,
+I obrócił to czarne słowo śmierć w wygnanie.
+To jest drogie miłosierdzie, a ty tego nie widzisz.
+
+ROMEO.
+To tortura, a nie litość. Niebo jest tutaj
+Gdzie mieszka Julia i każdy kot i pies,
+I mała mysz, każda niegodna rzecz,
+Żyj tu w niebie i patrz na nią,
+Ale Romeo może nie. Większa ważność,
+Bardziej honorowy stan, więcej zalotów
+W padlinie leci niż Romeo. Mogą przejąć
+Na białym cudzie dłoni drogiej Julii,
+I ukraść nieśmiertelne błogosławieństwo z jej ust,
+Kto nawet w czystej i westalskiej skromności
+Wciąż się rumienią, myśląc, że ich własne pocałunki są grzechem.
+Ale Romeo nie może, jest wygnany.
+To może muchy zrobić, kiedy ja od tego muszę latać.
+Oni są wolnymi ludźmi, ale ja jestem wygnany.
+I czy jeszcze mówisz, że wygnanie nie jest śmiercią?
+Gdybyś nie mieszał trucizny, nie miał ostrego noża,
+Żadnego nagłego sposobu na śmierć, choć nigdy tak wrednego,
+Ale wygnany, żeby mnie zabić? Wygnany?
+O bracie, potępieni używają tego słowa w piekle.
+Howlings bierze w nim udział. Jak masz serce,
+Będąc boskim, upiornym spowiednikiem,
+Odpuszczenie grzechów, a mój przyjaciel wyznał,
+Żeby mnie zmasakrować tym słowem wygnany?
+
+BRACIA LAWRENCE.
+Kochany szaleńcze, posłuchaj, jak mówię trochę,
+
+ROMEO.
+O, znowu będziesz mówić o wygnaniu.
+
+BRACIA LAWRENCE.
+Dam ci zbroję, abyś powstrzymał to słowo,
+Słodkie mleko przeciwności, filozofia,
+Aby cię pocieszyć, chociaż jesteś wygnany.
+
+ROMEO.
+Jeszcze wygnany? Zostaw filozofię.
+Jeśli filozofia nie może stworzyć Julii,
+Wysiedlić miasto, odwrócić los księcia,
+Nie pomaga, nie zwycięża, nie mów więcej.
+
+BRACIA LAWRENCE.
+O, więc widzę, że szaleńcy nie mają uszu.
+
+ROMEO.
+Jakże mieliby, skoro ci mędrcy nie mają oczu?
+
+BRACIA LAWRENCE.
+Pozwól mi spierać się z tobą o twój majątek.
+
+ROMEO.
+Nie możesz mówić o tym, czego nie czujesz.
+Gdybyś była tak młoda jak ja, Julio, twoja miłość,
+Godzinę, ale żonaty, Tybalt zamordowany,
+Zakochany jak ja i jak ja wygnany,
+Wtedy mógłbyś mówić, wtedy mógłbyś rwać sobie włosy,
+I upadnij na ziemię, tak jak teraz,
+Biorąc miarę niezasypanego grobu.
+
+ [_Pukanie do środka._]
+
+BRACIA LAWRENCE.
+Powstać; jedno puka. Dobry Romeo, schowaj się.
+
+ROMEO.
+Nie ja, chyba że oddech chorego na serce jęczy
+Jak mgła spowija mnie od poszukiwań oczu.
+
+ [_Pukanie._]
+
+BRACIA LAWRENCE.
+Słuchaj, jak pukają! — Kto tam? — Romeo, wstań,
+Zostaniesz zabrany. — Zostań chwilę. — Wstań.
+
+ [_Pukanie._]
+
+Biegnij do mego gabinetu. — Stopniowo. — Wola Boża,
+Cóż to za prostota. — Przychodzę, przychodzę.
+
+ [_Pukanie._]
+
+Kto puka tak mocno? Skąd przybywasz, jaka jest twoja wola?
+
+PIELĘGNIARKA.
+[_Wewnątrz._] Pozwól mi wejść, a poznasz moje zadanie.
+Pochodzę od Lady Juliet.
+
+BRACIA LAWRENCE.
+Witamy w takim razie.
+
+ Wejdź pielęgniarka.
+
+PIELĘGNIARKA.
+O święty bracie, o, powiedz mi, święty bracie,
+Gdzie jest pan mojej damy, gdzie jest Romeo?
+
+BRACIA LAWRENCE.
+Tam na ziemi, z własnymi łzami upojonymi.
+
+PIELĘGNIARKA.
+O, jest nawet w przypadku mojej kochanki.
+Właśnie w jej przypadku! O żałosne współczucie!
+Żałosne położenie. Mimo to kłamie,
+Bełkot i płacz, płacz i bełkot.
+Wstań, wstań; stój, a będziesz mężczyzną.
+Ze względu na Julię, ze względu na nią, wstań i stój.
+Dlaczego miałbyś wpaść w tak głębokie O?
+
+ROMEO.
+Pielęgniarka.
+
+PIELĘGNIARKA.
+Ach, proszę pana, ach, proszę pana, śmierć jest końcem wszystkiego.
+
+ROMEO.
+Czy mówiłeś o Julii? Jak to z nią jest?
+Czy ona nie uważa mnie za starego mordercę,
+Teraz splamiłem dzieciństwo naszej radości
+Z krwią usuniętą, ale niewiele z jej własnej?
+Gdzie ona jest? A jak ona? I co mówi
+Moja ukryta dama do naszej anulowanej miłości?
+
+PIELĘGNIARKA.
+O, ona nic nie mówi, panie, tylko płacze i płacze;
+A teraz pada na jej łóżko, a potem zaczyna się,
+I Tybalt woła, a potem na Romeo płacze,
+A potem znów spada w dół.
+
+ROMEO.
+Jakby to imię,
+Strzał ze śmiercionośnego poziomu pistoletu,
+Zamordował ją, jak przeklęta ręka tego imienia
+Zamordował jej krewnego. O, powiedz mi, bracie, powiedz mi,
+W jakiej paskudnej części tej anatomii
+Czy moje imię ma swoje miejsce? Powiedz mi, żebym mógł zwolnić
+Nienawistny dwór.
+
+ [_Wyciąga miecz._]
+
+BRACIA LAWRENCE.
+Trzymaj swoją desperacką dłoń.
+Czy jesteś mężczyzną? Twoja postać woła, że ​​jesteś.
+Twoje łzy są kobiece, oznaczają twoje dzikie czyny
+Nieuzasadniona furia bestii.
+Nieprzystojna kobieta w pozornym mężczyźnie,
+I nieprzystojna bestia w pozornym obydwóch!
+Zadziwiłeś mnie. Z mojego świętego rozkazu,
+Sądziłem, że twoje usposobienie jest lepsze.
+Czy zabiłeś Tybalta? Chcesz się zabić?
+I zabij swoją panią, która w twoim życiu żyje,
+Robiąc sobie cholerną nienawiść?
+Dlaczego narzekasz na swoje narodziny, niebo i ziemię?
+Od urodzenia, niebo i ziemia, wszystkie trzy spotykają się
+W tobie od razu; które od razu byś stracił.
+Fie, fie, okazujesz swój kształt, swoją miłość, swój dowcip,
+Które, jak lichwiarz, obfitują we wszystko,
+I nie używaj żadnego w tym prawdziwym użyciu
+Który powinien ozdobić twój kształt, twoją miłość, twój dowcip.
+Twój szlachetny kształt jest tylko formą wosku,
+Odchodząc od męstwa człowieka;
+Twoja droga miłość przysięgła, ale puste krzywoprzysięstwo,
+Zabijając tę ​​miłość, którą ślubowałeś pielęgnować;
+Twój dowcip, ta ozdoba kształtująca i kochająca,
+Zniekształcony w zachowaniu ich obojga,
+Jak proszek w kolbie niezręcznego żołnierza,
+Rozpalony przez własną ignorancję,
+I rozczłonkowałeś swoją własną obroną.
+Co, obudź się, człowieku. Twoja Julia żyje,
+Z czyjej miłości byłeś niedawno martwy.
+Oto jesteś szczęśliwy. Tybalt by cię zabił,
+Ale ty zabiłeś Tybalta; tam jesteś szczęśliwy.
+Prawo, które groziło śmiercią, staje się twoim przyjacielem,
+I zamienia go w wygnanie; tam jesteś szczęśliwy.
+Paczka błogosławieństw spoczywa na twoich plecach;
+Szczęście zabiega o ciebie w swoim najlepszym szyku;
+Ale jak zniekształcona i ponura dziewka,
+Wystawiasz swoją Fortunę i swoją miłość.
+Uważajcie, uważajcie, bo tacy umierają nieszczęśliwie.
+Idź, zaprowadź cię do swojej miłości, jak zostało postanowione,
+Wejdź do jej komnaty, stąd i pociesz ją.
+Ale spójrz, nie zostań, dopóki zegarek nie zostanie ustawiony,
+Bo wtedy nie możesz przejść do Mantui;
+Gdzie będziesz mieszkać, dopóki nie znajdziemy czasu
+Aby rozpalić twoje małżeństwo, pojednaj przyjaciół,
+Błagaj Księcia o przebaczenie i zawołaj z powrotem
+Z dwudziestoma tysiącami razy większą radością
+Niż wyszedłeś w lamentacji.
+Idź wcześniej, pielęgniarko. Poleć mnie swojej pani,
+I każ jej pośpieszyć cały dom do łóżka,
+Do jakiego ciężkiego smutku są skłonni.
+Romeo nadchodzi.
+
+PIELĘGNIARKA.
+O Panie, mógłbym tu zostać całą noc
+Aby usłyszeć dobrą radę. Och, co to jest nauka!
+Mój panie, powiem mojej pani, że przyjdziesz.
+
+ROMEO.
+Zrób to i każ mojemu słodkiemu przygotować się do zbesztania.
+
+PIELĘGNIARKA.
+Proszę pana, pierścień, który kazała mi panu dać, proszę pana.
+Hej, pospiesz się, bo rośnie bardzo późno.
+
+ [_Wyjście._]
+
+ROMEO.
+Jak dobrze moja wygoda została przez to ożywiona.
+
+BRACIA LAWRENCE.
+Idź stąd, dobranoc, a tu stoi cały twój stan:
+Albo zniknąć, zanim zegarek zostanie ustawiony,
+Lub przed świtem przebrany stąd.
+Pobyt w Mantui. Dowiem się twojego mężczyzny,
+I od czasu do czasu będzie oznaczał
+Wszystkiego najlepszego dla ciebie, że szanse tutaj.
+Podaj mi rękę; jest późno; pożegnanie; dobranoc.
+
+ROMEO.
+Ale ta radość obok radości woła mnie,
+Rozstanie z tobą było tak krótkie.
+Pożegnanie.
+
+ [_Wyjście._]
+
+SCENA IV. Pokój w domu Kapuletów.
+
+ Wchodzą Capulet, Lady Capulet i Parys.
+
+KAPULET.
+Sprawy się potoczyły, proszę pana, tak niefortunnie
+Że nie mieliśmy czasu na przeprowadzkę naszej córki.
+Spójrz, kochała bardzo swego krewniaka Tybalta,
+I ja też. Cóż, urodziliśmy się, by umrzeć.
+Jest bardzo późno; ona nie zejdzie dziś wieczorem.
+Obiecuję ci, ale dla twojego towarzystwa,
+Godzinę temu byłbym już w łóżku.
+
+PARYŻ.
+Te czasy nieszczęścia nie dają melodii do zabiegania.
+Pani, dobranoc. Poleć mnie swojej córce.
+
+PANI KAPULET.
+Zrobię to i poznam jej myśli jutro wczesnym rankiem;
+Dziś wieczorem jest miaucząca do swojej ciężkości.
+
+KAPULET.
+Sir Paris, złożę desperacką ofertę
+O miłości mojego dziecka. Myślę, że będzie rządzona
+Pod każdym względem przeze mnie; więcej, nie wątpię.
+Żono, idź do niej, zanim pójdziesz do łóżka,
+Zapoznać ją tutaj z miłością mojego syna Parysa,
+I powiedz jej, zaznacz mnie, w najbliższą środę,
+Ale, delikatnie, co to za dzień?
+
+PARYŻ.
+Poniedziałek, mój panie.
+
+KAPULET.
+Poniedziałek! Ha ha! Cóż, środa to za wcześnie,
+Niech będzie czwartek; w czwartek powiedz jej,
+Wyjdzie za mąż za tego szlachetnego hrabiego.
+Czy będziesz gotowy? Podoba ci się ten pośpiech?
+Nie będziemy robić wielkiego hałasu - przyjaciel lub dwóch,
+Bo słuchajcie, Tybalt zabity tak późno,
+Można pomyśleć, że trzymaliśmy go niedbale,
+Będąc naszym krewnym, jeśli dużo się bawimy.
+Dlatego będziemy mieć pół tuzina przyjaciół,
+I koniec. Ale co powiesz na czwartek?
+
+PARYŻ.
+Mój panie, chciałbym, żeby czwartek był jutro.
+
+KAPULET.
+No to znikaj. Niech będzie czwartek.
+Idź do Julii, zanim pójdziesz do łóżka,
+Przygotuj ją, żono, na ten dzień ślubu.
+Żegnaj, mój panie. — Światło w mej komnacie, ho!
+Przede mną jest tak bardzo, bardzo późno, że my
+Może nazwać to wcześnie i wkrótce. Dobranoc.
+
+ [_Wyjście._]
+
+SCENA V. Otwarta Galeria do Komnaty Julii z widokiem na Ogród.
+
+ Wprowadź Romea i Julię.
+
+JULIA.
+Czy odejdziesz? Nie zbliża się jeszcze dzień.
+To był słowik, a nie skowronek,
+To przebiło straszne zagłębienie twojego ucha;
+Co noc śpiewa na tamtym drzewie granatu.
+Uwierz mi, kochanie, to był słowik.
+
+ROMEO.
+To był skowronek, zwiastun poranka,
+Żaden słowik. Spójrz, kochanie, jakie zazdrości smugi
+Zasznuruj rozdzierające się chmury na wschodzie.
+Świece nocy są wypalone, a dzień wesoły
+Stoi na palcach na zamglonych szczytach gór.
+Muszę odejść i żyć, albo zostać i umrzeć.
+
+JULIA.
+To światło nie jest światłem dziennym, wiem o tym, ja.
+To jakiś meteor, który wydycha słońce
+Być dla ciebie tej nocy niosącym pochodnię
+I oświetl cię w drodze do Mantui.
+Dlatego zostań jeszcze, nie musisz odchodzić.
+
+ROMEO.
+Pozwól mi być ta'en, pozwól mi zostać zabitym,
+Jestem zadowolony, więc niech tak będzie.
+Powiem ci, że szarość to nie poranne oko,
+To tylko blady refleks czoła Cynthii.
+Ani to nie jest skowronek, którego nuty biją
+Sklepione niebo tak wysoko nad naszymi głowami.
+Bardziej zależy mi na zostaniu niż na wyjeździe.
+Przyjdź, śmierci, witaj. Julia tak chce.
+Jak nie jest, moja duszo? Porozmawiajmy. To nie jest dzień.
+
+JULIA.
+Jest, jest! Cześć stąd, odejdź, odejdź.
+To skowronek śpiewa tak fałszywie,
+Napinające się ostre dysonanse i nieprzyjemne ostre.
+Niektórzy mówią, że skowronek czyni słodkie podziały;
+Tak się nie dzieje, bo ona nas dzieli.
+Niektórzy mówią, że skowronek i znienawidzona ropucha zmieniają oczy.
+Och, teraz chciałbym, żeby oni też mieli zmienione głosy,
+Ponieważ ramię w ramię ten głos nas obraża,
+Polowanie na ciebie stąd z polowaniem do dnia.
+O teraz odejdź, więcej światła i światła rośnie.
+
+ROMEO.
+Więcej światła i światła, więcej ciemności i ciemności naszych nieszczęść.
+
+ Wejdź pielęgniarka.
+
+PIELĘGNIARKA.
+Szanowna Pani.
+
+JULIA.
+Pielęgniarka?
+
+PIELĘGNIARKA.
+Twoja pani matka przychodzi do twojej komnaty.
+Dzień jest spłukany, bądź ostrożny, rozejrzyj się.
+
+ [_Wyjście._]
+
+JULIA.
+Następnie, okno, wpuść dzień i wypuść życie.
+
+ROMEO.
+Żegnaj, żegnaj, jeden pocałunek i zejdę na dół.
+
+ [_schodzi._]
+
+JULIA.
+Odszedłeś? Miłość, Panie, mężu, przyjacielu,
+Muszę słyszeć od ciebie codziennie o godzinie,
+Bo w jednej minucie jest wiele dni.
+O, według tej liczby będę znacznie w latach
+Zanim znów zobaczę mojego Romea.
+
+ROMEO.
+Pożegnanie!
+Nie pominę żadnej okazji
+To może przekazać ci moje pozdrowienia, kochanie.
+
+JULIA.
+O, myślisz, że jeszcze kiedyś się spotkamy?
+
+ROMEO.
+Wątpię w to, a wszystkie te nieszczęścia posłużą
+Za słodkie dyskursy w nadchodzących czasach.
+
+JULIA.
+O Boże! Mam źle wróżącą duszę!
+Wydaje mi się, że cię widzę, teraz jesteś tak nisko,
+Jak martwy na dnie grobowca.
+Albo wzrok mi szwankuje, albo blado wyglądasz.
+
+ROMEO.
+I zaufaj mi, kochanie, w moich oczach ty też.
+Suchy smutek pije naszą krew. Żegnaj, żegnaj.
+
+ [_Wyjdź poniżej._]
+
+JULIA.
+O Fortuno, Fortuno! Wszyscy ludzie nazywają cię kapryśną,
+Jeśli jesteś kapryśny, co z nim robisz
+To jest znane z wiary? Bądź kapryśna, Fortuno;
+W takim razie mam nadzieję, że nie zatrzymasz go długo
+Ale odeślij go.
+
+PANI KAPULET.
+[_Wewnątrz._] Ho, córko, wstałaś?
+
+JULIA.
+Kto nie dzwoni? Czy to moja pani matka?
+Czy nie kładzie się tak późno lub nie wstaje tak wcześnie?
+Jaka niezwykła przyczyna sprowadza ją tutaj?
+
+ Wejdź do Lady Capulet.
+
+PANI KAPULET.
+Dlaczego, jak teraz, Julio?
+
+JULIA.
+Proszę pani, nie czuję się dobrze.
+
+PANI KAPULET.
+Ciągle opłakujesz śmierć swojego kuzyna?
+Co, czy zmyjesz go z grobu łzami?
+A gdybyś mógł, nie mógłbyś go ożywić.
+Dlatego uczynili: niektóre smutki pokazują wiele miłości,
+Ale wiele z żalu pokazuje wciąż brak dowcipu.
+
+JULIA.
+Jednak pozwól mi płakać z powodu takiej utraty uczucia.
+
+PANI KAPULET.
+Więc odczujesz stratę, ale nie przyjaciela
+Za którym płaczesz.
+
+JULIA.
+Czując stratę,
+Nie mogę wybrać, ale zawsze opłakuję przyjaciela.
+
+PANI KAPULET.
+Cóż, dziewczyno, nie tyle płaczesz nad jego śmiercią
+Jako że żyje złoczyńca, który go zarżnął.
+
+JULIA.
+Jaki złoczyńca, proszę pani?
+
+PANI KAPULET.
+Ten sam złoczyńca Romeo.
+
+JULIA.
+Villain i on są daleko od siebie.
+Boże wybacz mu. Tak, całym sercem.
+A jednak nikt taki jak on nie zasmuca mego serca.
+
+PANI KAPULET.
+To dlatego, że zdrajca-morderca żyje.
+
+JULIA.
+Ay pani, z zasięgu tych moich rąk.
+Nikt oprócz mnie nie chciałby pomścić śmierci mojego kuzyna.
+
+PANI KAPULET.
+Pomścimy się za to, nie bój się.
+Więc nie płacz więcej. Wyślę do jednego w Mantui,
+Gdzie ten sam wygnany runagat żyje,
+Dam mu taki niezwykły dramat
+Że wkrótce dotrzyma towarzystwa Tybaltowi:
+A potem mam nadzieję, że będziesz zadowolony.
+
+JULIA.
+Zaprawdę, nigdy nie będę usatysfakcjonowany
+Z Romeo, dopóki go nie zobaczę — martwego —
+Czy moje biedne serce jest tak zirytowane dla krewnego.
+Madame, gdybyś mogła dowiedzieć się tylko mężczyzny
+Aby znieść truciznę, hartowałbym ją,
+Że Romeo powinien po ich otrzymaniu,
+Wkrótce śpij spokojnie. O, jakże brzydzi się moje serce
+Aby usłyszeć jego imię i nie mogę do niego przyjść,
+Aby wywołać miłość, którą urodziłam mojej kuzynce
+Na jego ciele, które go zabiło.
+
+PANI KAPULET.
+Znajdź środki, a ja znajdę takiego człowieka.
+Ale teraz powiem ci radosną nowinę, dziewczyno.
+
+JULIA.
+A radość przychodzi dobrze w tak potrzebującym czasie.
+Czym one są, błagam waszą panią?
+
+PANI KAPULET.
+Cóż, masz troskliwego ojca, dziecko;
+Ten, który cię wyrwie z ciężaru,
+Uporządkował nagły dzień radości,
+Tego się nie spodziewasz, ani ja nie szukam.
+
+JULIA.
+Pani, w szczęśliwym czasie, jaki to dzień?
+
+PANI KAPULET.
+Wyjdź za mąż, moje dziecko, wcześnie w następny czwartek rano
+Szarmancki, młody i szlachetny dżentelmen,
+Hrabstwo Paris, w kościele św. Piotra,
+Z radością uczyni cię tam radosną oblubienicą.
+
+JULIA.
+Teraz przy kościele Świętego Piotra, i Piotr też,
+Nie uczyni mnie tam radosną oblubienicą.
+Zastanawiam się nad tym pośpiechem, że muszę się żenić
+Zanim on, który powinien być mężem, przychodzi zabiegać.
+Modlę się, żebyś powiedziała mojemu panu i ojcu, pani,
+jeszcze się nie ożenię; a kiedy to zrobię, przysięgam
+To będzie Romeo, którego wiesz, że nienawidzę,
+Zamiast Paryża. To są rzeczywiście wiadomości.
+
+PANI KAPULET.
+Nadchodzi twój ojciec, sam mu to powiedz,
+I zobacz, jak on weźmie to z twoich rąk.
+
+ Wchodzą Capulet i Pielęgniarka.
+
+KAPULET.
+Kiedy słońce zachodzi, powietrze kropi rosą;
+Ale na zachód słońca syna mojego brata
+Pada wręcz.
+Jak teraz? Kanał, dziewczyno? Co, wciąż we łzach?
+Zawsze bierzesz prysznic? W jednym małym ciele
+Fałszujesz korę, morze, wiatr.
+Bo spokojne twe oczy, które mogę nazwać morzem,
+Odpływaj i odpływaj ze łzami; kora jest twoim ciałem,
+Żeglując w tej słonej powodzi, wiatry, twoje westchnienia,
+Którzy szaleją z twoimi łzami, a oni z nimi,
+Bez nagłego spokoju przerośnie
+Twoje miotane burzą ciało. Jak teraz, żono?
+Czy doręczyłeś jej nasz dekret?
+
+PANI KAPULET.
+Tak, proszę pana; ale ona nic nie zrobi, ona ci dziękuje.
+Chciałbym, żeby głupiec ożenił się z jej grobem.
+
+KAPULET.
+Miękki. Zabierz mnie ze sobą, zabierz mnie ze sobą, żono.
+Jak ona nie będzie? Czyż nie dziękuje nam?
+Czy nie jest dumna? Czy ona nie liczy swego błogosławieństwa,
+Niegodna jak ona, którą stworzyliśmy
+Tak godny dżentelmena, aby był jej oblubieńcem?
+
+JULIA.
+Nie dumny, że masz, ale wdzięczny, że masz.
+Nigdy nie mogę być dumny z tego, czego nienawidzę;
+Ale wdzięczny nawet za nienawiść, która oznacza miłość.
+
+KAPULET.
+Jak teraz, jak teraz, posiekana logika? Co to jest?
+Dumny, dziękuję ci i nie dziękuję;
+A jednak nie dumny. Pani sługa ciebie,
+Dziękuj mi, nie dziękuj, ani nie bądź dumny, nie chwal się,
+Ale zadbaj o swoje stawy w następny czwartek
+Iść z Parysem do kościoła Świętego Piotra,
+Albo zaciągnę cię tam na płocie.
+Precz, padlino zielonej choroby! Wynoś się, bagaż!
+Ty łojotoku!
+
+PANI KAPULET.
+Fi, fi! Co, jesteś zły?
+
+JULIA.
+Dobry ojcze, błagam cię na kolanach,
+Wysłuchaj mnie z cierpliwością, ale powiedz tylko słowo.
+
+KAPULET.
+Powieś młody bagaż, nieposłuszny nędzniku!
+Co ci powiem — zabierz cię w czwartek do kościoła,
+Albo nigdy potem nie patrz mi w twarz.
+Nie mów, nie odpowiadaj, nie odpowiadaj mi.
+Moje palce swędzą. Żono, nie uważaliśmy się za błogosławionych
+Że Bóg pożyczył nam tylko to jedyne dziecko;
+Ale teraz widzę, że to o jeden za dużo,
+I że ciąży na nas klątwa, że ​​ją mamy.
+Wyjdź na nią, ukrywając się.
+
+PIELĘGNIARKA.
+Niech Bóg jej błogosławi w niebie.
+Jesteś winny, mój panie, że tak ją oceniasz.
+
+KAPULET.
+A dlaczego, moja pani mądrość? Trzymaj język za zębami,
+Dobra rozwaga; oblany twoimi plotkami, idź.
+
+PIELĘGNIARKA.
+Nie mówię zdrady.
+
+KAPULET.
+O Boże, dobry!
+
+PIELĘGNIARKA.
+Czy nikt nie może mówić?
+
+KAPULET.
+Pokój, ty bełkoczący głupcze!
+Wypowiedz swoją powagę nad misą plotek,
+Bo tutaj tego nie potrzebujemy.
+
+PANI KAPULET.
+Jest ci za gorąco.
+
+KAPULET.
+Chleb Boży, doprowadza mnie to do szału!
+Dzień, noc, godzina, jazda, czas, praca, zabawa,
+Sama, w towarzystwie, wciąż moja opieka była
+Aby ją dopasować, a teraz zapewnić
+Dżentelmen szlachetnego pochodzenia,
+Z pięknych posiadłości, młodzieńczych i szlachetnie sprzymierzonych,
+Nadziewany, jak mówią, honorowymi częściami,
+Proporcjonalnie, jak myśl życzyłaby sobie mężczyzny,
+A potem mieć nieszczęsnego głupca,
+Jęczący mamet, w przetargu na swoją fortunę,
+Aby odpowiedzieć: „Nie wyjdę za mąż, nie umiem kochać,
+Jestem za młody, proszę mi wybaczyć.
+Ale jeśli nie wyjdziesz za mąż, wybaczę ci.
+Paś się, gdzie chcesz, nie będziesz mieszkać ze mną.
+Patrz, nie myśl, nie żartuję.
+Czwartek jest blisko; połóż rękę na sercu, poradźcie.
+A ty bądź mój, oddam cię mojemu przyjacielowi;
+I nie wisieć, żebrać, głodować, umierać na ulicach,
+Na moją duszę nigdy cię nie uznam,
+Ani to, co moje, nigdy ci nie wyjdzie na dobre.
+Nie ufaj, pomyśl, że nie będę wyrzeczony.
+
+ [_Wyjście._]
+
+JULIA.
+Czy nie ma litości siedzieć w chmurach,
+To zagląda w głąb mojego smutku?
+O słodka moja matko, nie odrzucaj mnie,
+Opóźnij to małżeństwo o miesiąc, tydzień,
+Lub, jeśli tego nie zrobisz, zrób łóżko dla nowożeńców
+W tym niewyraźnym pomniku, gdzie leży Tybalt.
+
+PANI KAPULET.
+Nie mów do mnie, bo nie powiem ani słowa.
+Rób, jak chcesz, bo ja z tobą uczyniłem.
+
+ [_Wyjście._]
+
+JULIA.
+O Boże! O pielęgniarko, jak temu zapobiec?
+Mój mąż jest na ziemi, moja wiara w niebie.
+Jak ta wiara powróci na ziemię,
+Chyba że ten mąż ześle mi to z nieba
+Opuszczając ziemię? Pocieszaj mnie, doradzaj.
+Biada, biada, żeby niebo stosowało fortele
+Na tak miękki temat jak ja.
+Co mówisz? Czy nie masz słowa radości?
+Trochę pocieszenia, pielęgniarko.
+
+PIELĘGNIARKA.
+Wiara, oto jest.
+Romeo zostaje wygnany; i cały świat w nicość
+Że nigdy nie ośmieli się wrócić, by rzucić ci wyzwanie.
+A jeśli już, to musi to być ukradkiem.
+Następnie, ponieważ sprawa stoi tak, jak teraz,
+Myślę, że najlepiej będzie, jeśli ożenisz się z Hrabstwem.
+O, to uroczy dżentelmen.
+Romeo jest dla niego ścierką. Orzeł, proszę pani,
+Nie ma tak zielonego, tak szybkiego, tak jasnego oka
+Tak jak Paryż. Zdradź moje serce,
+Myślę, że jesteś zadowolony z tego drugiego meczu,
+Ponieważ przewyższa twoje pierwsze: a jeśli nie,
+Twój pierwszy nie żyje, albo był tak dobry,
+Ponieważ mieszkasz tutaj, a ty nie masz z niego żadnego pożytku.
+
+JULIA.
+Czy mówisz prosto z serca?
+
+PIELĘGNIARKA.
+I z mojej duszy też
+Albo zaatakuje ich obu.
+
+JULIA.
+Amen.
+
+PIELĘGNIARKA.
+Co?
+
+JULIA.
+Cóż, cudownie mnie pocieszyłeś.
+Wejdź i powiedz mojej pani, że odszedłem,
+Niezadowolenie mojego ojca, do celi Lawrence'a,
+Do spowiedzi i uzyskania rozgrzeszenia.
+
+PIELĘGNIARKA.
+Wyjdź za mąż; i to jest mądrze zrobione.
+
+ [_Wyjście._]
+
+JULIA.
+Starożytne potępienie! O najbardziej niegodziwy diable!
+Czy większym grzechem jest życzyć mi tak wyrzeczonego,
+Albo zdyskredytować mojego pana tym samym językiem
+Którym ona go chwaliła ponad porównaniem
+Tyle tysięcy razy? Idź, doradco.
+Odtąd ty i moje łono będziecie dwoje.
+Pójdę do Zakonnika, aby poznać jego lekarstwo.
+Jeśli wszystko inne zawiedzie, ja mam moc umrzeć.
+
+ [_Wyjście._]
+
+
+
+AKT IV
+
+SCENA I. Cela brata Wawrzyńca.
+
+ Wchodzi brat Lawrence i Parys.
+
+BRACIA LAWRENCE.
+W czwartek proszę pana? Czas jest bardzo krótki.
+
+PARYŻ.
+Mój ojciec Capulet tak sobie życzy;
+A ja nie jestem powolny, by zwolnić jego pośpiech.
+
+BRACIA LAWRENCE.
+Mówisz, że nie znasz umysłu tej damy.
+Nierówny jest kurs; nie podoba mi się.
+
+PARYŻ.
+Nieumiarkowanie opłakuje śmierć Tybalta,
+I dlatego mało mówiłem o miłości;
+Bo Wenus nie uśmiecha się w domu łez.
+Proszę pana, jej ojciec uważa to za niebezpieczne
+Że daje tak wielki wpływ na swój smutek;
+I w swej mądrości przyśpiesza nasze małżeństwo,
+Aby zatrzymać powódź jej łez,
+Która, zbyt zajęta sobą samą,
+Może być od niej odebrany przez społeczeństwo.
+Teraz znasz przyczynę tego pośpiechu.
+
+BRACIA LAWRENCE.
+[_Na stronie_] Nie wiedziałbym, dlaczego miałoby to być powolne.—
+Proszę pana, oto idzie ta pani w stronę mojej celi.
+
+ Wprowadź Julię.
+
+PARYŻ.
+Szczęśliwie poznane, moja pani i moja żona!
+
+JULIA.
+To może być, proszę pana, kiedy zostanę żoną.
+
+PARYŻ.
+To może być, musi być, kochanie, w następny czwartek.
+
+JULIA.
+Co musi być to będzie.
+
+BRACIA LAWRENCE.
+To jest konkretny tekst.
+
+PARYŻ.
+Przyszedłeś się wyspowiadać temu ojcu?
+
+JULIA.
+Aby odpowiedzieć na to pytanie, muszę ci się przyznać.
+
+PARYŻ.
+Nie zaprzeczaj mu, że mnie kochasz.
+
+JULIA.
+Wyznam ci, że go kocham.
+
+PARYŻ.
+Tak samo wy, jestem pewien, że mnie kochacie.
+
+JULIA.
+Jeśli to zrobię, będzie to droższe,
+Bycie mówionym za plecami niż prosto w twarz.
+
+PARYŻ.
+Biedna duszo, twoja twarz jest bardzo zmęczona łzami.
+
+JULIA.
+Łzy odniosły przez to małe zwycięstwo;
+Bo było wystarczająco źle przed ich złośliwością.
+
+PARYŻ.
+Mylisz się bardziej niż łzy tym raportem.
+
+JULIA.
+To nie jest oszczerstwo, panie, co jest prawdą,
+A co powiedziałem, powiedziałem to sobie w twarz.
+
+PARYŻ.
+Twoja twarz należy do mnie, a ty ją oczerniałeś.
+
+JULIA.
+Może tak być, bo to nie jest moje własne.
+Czy jesteś teraz w wolnym czasie, ojcze święty,
+A może przyjdę do ciebie na wieczorną mszę?
+
+BRACIA LAWRENCE.
+Wolny czas mi teraz służy, zamyślona córko. —
+Mój panie, musimy błagać o czas dla siebie.
+
+PARYŻ.
+Boże chroń, abym zakłócił nabożeństwo! —
+Julio, w czwartek wcześnie cię zbudzę,
+Do tego czasu, adieu; i zachowaj ten święty pocałunek.
+
+ [_Wyjście._]
+
+JULIA.
+O, zamknij drzwi, a kiedy to uczynisz,
+Pójdź ze mną płakać, przeszła nadzieja, przeszłe uzdrowienie, przeszła pomocy!
+
+BRACIA LAWRENCE.
+O Julio, znam już twój ból;
+To przekracza granice mojego rozumu.
+Słyszę, że musisz i nic nie może tego przedłużyć,
+W najbliższy czwartek weź ślub z tym Hrabstwem.
+
+JULIA.
+Nie mów mi, bracie, że słyszałeś o tym,
+Chyba że powiesz mi, jak mam temu zapobiec.
+Jeśli w swojej mądrości nie możesz udzielić pomocy,
+Nazwij moje postanowienie mądrym,
+A tym nożem zaraz mu pomogę.
+Bóg złączył moje serce i serce Romea, ty nasze ręce;
+I zanim ta ręka, przez ciebie do zapieczętowanego Romea,
+Będzie etykietą innego czynu,
+Albo moje prawdziwe serce ze zdradzieckim buntem
+Zwróć się do innego, to zabije ich obu.
+Dlatego z twojego długiego doświadczenia,
+Daj mi jakąś aktualną radę, albo oto
+„Połącz moje skrajności i mnie z tym cholernym nożem
+Zagra imperium, rozstrzygając to
+Które prowizja twoich lat i sztuki
+Nie może przynieść żadnego problemu prawdziwego honoru.
+Nie bądź tak długo, aby mówić. pragnę umrzeć,
+Jeśli to, co mówisz, nie mówi o lekarstwie.
+
+BRACIA LAWRENCE.
+Trzymaj się, córko. Wyczuwam rodzaj nadziei,
+Który pragnie równie desperackiej egzekucji
+Ponieważ jest to desperackie, któremu byśmy zapobiegli.
+Jeśli, zamiast poślubić hrabstwo Paris
+Masz siłę woli, by się zabić,
+Więc jest prawdopodobne, że podejmiesz się!
+Rzecz jak śmierć, by odpędzić ten wstyd,
+Ten gliniarz ma przed sobą śmierć, by przed nią uciec.
+A jeśli się odważysz, dam ci lekarstwo.
+
+JULIA.
+O, każ mi skoczyć, zamiast poślubić Parysa,
+Z blanków tej wieży,
+Albo kroczyć złodziejskimi drogami, albo kazać mi się zaczaić
+Gdzie są węże. Przykuj mnie ryczącymi niedźwiedziami;
+Albo ukryj mnie co noc w kostnicy,
+O'er-cover'd całkiem z grzechoczącymi kośćmi zmarłych,
+Z cuchnącymi goleniami i żółtymi bezrękawnikami.
+Albo każ mi wejść do nowego grobu,
+I ukryj mnie z trupem w całunie;
+Rzeczy, które, gdy je usłyszałem, sprawiły, że zadrżałem,
+I zrobię to bez strachu i wątpliwości,
+Żyć nieskalaną żoną dla mojej słodkiej miłości.
+
+BRACIA LAWRENCE.
+Trzymaj się. Idź do domu, wesel się, wyrażaj zgodę
+Ożenić się z Parysem. Środa jest jutro;
+Jutrzejszej nocy spójrz, że leżysz samotnie,
+Niech twoja Pielęgniarka nie leży z tobą w twojej komnacie.
+Weź tę fiolkę, będąc wtedy w łóżku,
+I ten destylowany trunek wypij,
+Kiedy wkrótce przez wszystkie twoje żyły popłyną
+Zimny ​​i senny humor; za brak pulsu
+Zachowa swój rodzimy postęp, ale powstrzyma się.
+Żadne ciepło, żaden oddech nie poświadczy, że żyjesz,
+Róże na twoich ustach i policzkach zwiędną
+Do bladego popiołu; okna twoich oczu opadają,
+Jak śmierć, kiedy zamyka dzień życia.
+Każda część pozbawiona elastycznego rządu,
+Będzie sztywny, surowy i zimny, jak śmierć.
+I w tym pożyczonym podobieństwie skurczonej śmierci
+Będziesz kontynuował czterdzieści dwie godziny,
+A potem obudź się jak z przyjemnego snu.
+Teraz, gdy oblubieniec przychodzi rano
+Aby cię obudzić z łóżka, nie żyjesz.
+Więc jak jest w naszym kraju,
+W twoich najlepszych szatach, odkryte, na marach,
+Zostaniesz przeniesiony do tej samej starożytnej krypty
+Gdzie leży cała rodzina Kapuletów.
+W międzyczasie, przeciwko tobie się obudzisz,
+Czy Romeo z moich listów pozna nasze dryfowanie,
+I oto on przyjdzie, on i ja
+Będę czuwał nad twoim przebudzeniem i tej samej nocy
+Czy Romeo zawiezie cię stąd do Mantui.
+A to uwolni cię od obecnej hańby,
+Jeśli nie ma niestałej zabawki ani kobiecego strachu
+Osłab swoje męstwo w działaniu.
+
+JULIA.
+Daj mi, daj mi! O, nie mów mi o strachu!
+
+BRACIA LAWRENCE.
+Utrzymać; odejdź, bądź silny i zamożny
+W tym postanowieniu. Szybko wyślę zakonnika
+Do Mantui z moimi listami do twego pana.
+
+JULIA.
+Miłość daje mi siłę, a siła pomoże sobie pozwolić.
+Żegnaj, drogi ojcze.
+
+ [_Wyjście._]
+
+SCENA II. Sala w Domu Kapuletów.
+
+ Wchodzą Capulet, Lady Capulet, Pielęgniarka i Służący.
+
+KAPULET.
+Tak wielu gości zaprasza, jak tu piszemy.
+
+ [_Wyjdź z pierwszego Sługi._]
+
+Sirrah, idź i zatrudnij mi dwudziestu przebiegłych kucharzy.
+
+DRUGI SŁUGA.
+Nikt nie będzie chory, panie; bo spróbuję, czy mogą polizać swoje
+palce.
+
+KAPULET.
+Jak możesz ich tak próbować?
+
+DRUGI SŁUGA.
+Ożeń się, panie, to chory kucharz, który nie może własnych palców lizać;
+dlatego ten, kto nie może palców lizać, nie idzie ze mną.
+
+KAPULET.
+Idź, chodź.
+
+ [_Wyjdź z drugiego Sługi._]
+
+Tym razem będziemy bardzo nieumeblowani.
+Co, moja córka poszła do brata Lawrence'a?
+
+PIELĘGNIARKA.
+Taaa, zaiste.
+
+KAPULET.
+Cóż, może on ma szansę wyrządzić jej coś dobrego.
+Irytująca, samowolna nierządnica to jest.
+
+ Wprowadź Julię.
+
+PIELĘGNIARKA.
+Zobacz, skąd pochodzi, biegając z wesołym spojrzeniem.
+
+KAPULET.
+Jak teraz, mój uparty. Gdzie się włóczyłeś?
+
+JULIA.
+Gdzie nauczyłem się żałować za grzech
+O nieposłusznym sprzeciwie
+Tobie i Twoim rozkazom; i nakazuję
+Na świętego Wawrzyńca, aby tu padł na twarz,
+Proszę o wybaczenie. Przepraszam, błagam.
+Odtąd zawsze będę rządzony przez ciebie.
+
+KAPULET.
+Poślij po Hrabstwo, idź mu o tym powiedzieć.
+Każę zawiązać ten węzeł jutro rano.
+
+JULIA.
+Spotkałem młodego lorda w celi Lawrence'a,
+I dałem mu to, co stało się miłością, którą mogłem,
+Nie przekraczając granic skromności.
+
+KAPULET.
+Dlaczego, cieszę się, że nie. To dobrze. Wstań.
+To jest tak, jak nie powinno być. Pozwól mi zobaczyć Hrabstwo.
+Tak, ożeń się. Idź, mówię, i przyprowadź go tutaj.
+Teraz przed Bogiem, ten wielebny święty Brat,
+Całe nasze miasto jest z nim bardzo związane.
+
+JULIA.
+Siostro, czy pójdziesz ze mną do mojej szafy,
+Aby pomóc mi uporządkować tak potrzebne ozdoby
+Jak uważasz za stosowne umeblować mnie jutro?
+
+PANI KAPULET.
+Nie, nie do czwartku. Jest wystarczająco dużo czasu.
+
+KAPULET.
+Idź, siostro, idź z nią. Jutro pójdziemy do kościoła.
+
+ [_Wychodzą Julia i Pielęgniarka_]
+
+PANI KAPULET.
+Brakować nam będzie zaopatrzenia,
+Już blisko nocy.
+
+KAPULET.
+Tush, poruszę się,
+I wszystko będzie dobrze, zapewniam cię, żono.
+Idź do Julii, pomóż ją ubrać.
+Nie pójdę dziś do łóżka, daj mi spokój.
+Tym razem zabawię się w gospodynię domową. — Co, ho! —
+Wszyscy są: dobrze, sam pójdę
+Do hrabstwa Paris, żeby go przygotować
+Przeciwko jutrze. Moje serce jest cudownym światłem
+Ponieważ ta sama krnąbrna dziewczyna jest tak odzyskana.
+
+ [_Wyjście._]
+
+SCENA III. Komnata Julii.
+
+ Wchodzą Julia i Pielęgniarka.
+
+JULIA.
+Tak, te stroje są najlepsze. Ale, delikatna pielęgniarko,
+Błagam, zostaw mnie samej tej nocy;
+Potrzebuję bowiem wielu orisonów
+Aby poruszyć niebiosa, aby uśmiechnęły się do mojego stanu,
+Który, dobrze wiesz, jest krzyżem i pełen grzechu.
+
+ Wejdź do Lady Capulet.
+
+PANI KAPULET.
+Co, jesteś zajęty, ho? Potrzebujesz mojej pomocy?
+
+JULIA.
+Nie, pani; ubiliśmy takie artykuły pierwszej potrzeby
+Jak przystoi naszemu państwu jutro.
+Więc proszę cię, pozwól mi teraz zostać sam,
+I niech pielęgniarka tej nocy usiądzie z tobą,
+Bo jestem pewien, że masz pełne ręce roboty
+W tej tak nagłej sprawie.
+
+PANI KAPULET.
+Dobranoc.
+Połóż się do łóżka i odpocznij, bo jesteś w potrzebie.
+
+ [_Wychodzi Lady Capulet i Pielęgniarka_]
+
+JULIA.
+Pożegnanie. Bóg wie, kiedy znów się spotkamy.
+Czuję lekki zimny dreszcz strachu w moich żyłach
+To prawie zamraża ciepło życia.
+Zadzwonię do nich ponownie, żeby mnie pocieszyć.
+Siostro! — Co ona ma tu robić?
+Moja ponura scena, której potrzebuję, musi działać sama.
+Chodź, fiolko.
+Co jeśli ta mieszanka w ogóle nie zadziała?
+Więc czy jutro rano będę żonaty?
+Nie? Nie! To zabrania. Leż tam.
+
+ [_Odkładając sztylet._]
+
+Co jeśli to trucizna, którą Brat
+Subtelnie minister chciał mnie zabić,
+Aby w tym małżeństwie nie został zhańbiony,
+Bo ożenił się ze mną wcześniej z Romeo?
+Obawiam się, że jest. A jednak wydaje mi się, że nie powinno,
+Albowiem jeszcze był wypróbowany jako święty człowiek.
+Co jeśli, kiedy zostanę złożony do grobu,
+Budzę się przed czasem tego Romea
+Przyszedłeś mnie odkupić? Jest straszny punkt!
+Czyż nie będę wtedy zduszony w krypcie,
+Do których śmierdzących ust nie wdycha zdrowego powietrza,
+I umrzeć uduszona, zanim mój Romeo przyjdzie?
+Lub, jeśli żyję, czy to nie jest bardzo podobne,
+Okropna zarozumiałość śmierci i nocy,
+Wraz z terrorem miejsca,
+Jak w skarbcu, starożytnym naczyniu,
+Gdzie przez tyle stuleci kości
+Ze wszystkich moich pochowanych przodków są spakowani,
+Gdzie krwawy Tybalt, jeszcze zielony w ziemi,
+Kłamstwa ropiejące w jego całunie; gdzie, jak mówią,
+W niektórych godzinach w kurorcie nocnych duchów—
+Alack, alac, czy to nie tak, że ja,
+Tak wczesna pobudka, co z obrzydliwymi zapachami,
+I wrzeszczy jak mandragory wyrwane z ziemi,
+Że żywi śmiertelnicy, słysząc ich, wariują.
+O, jeśli się obudzę, czy nie będę zrozpaczony,
+Otoczony tymi wszystkimi ohydnymi lękami,
+I szaleńczo bawić się stawami moich przodków?
+I wyrwać zmasakrowanego Tybalta z jego całunu?
+I w tej wściekłości, z kością jakiegoś wielkiego krewniaka,
+Jak z maczugą, wyrzucić moje zdesperowane mózgi?
+O patrz, wydaje mi się, że widzę ducha mojego kuzyna
+Szukając Romea, który wypluł jego ciało
+Na czubku rapiera. Zostań, Tybalcie, zostań!
+Romeo, Romeo, Romeo, oto napój! Piję za Ciebie.
+
+ [_Rzuca się na łóżko._]
+
+SCENA IV. Sala w Domu Kapuletów.
+
+ Wchodzą Lady Capulet i Pielęgniarka.
+
+PANI KAPULET.
+Poczekaj, weź te klucze i przynieś więcej przypraw, siostro.
+
+PIELĘGNIARKA.
+Wołają o daktyle i pigwy w cieście.
+
+ Wejdź do Kapuleta.
+
+KAPULET.
+Chodź, mieszaj, mieszaj, mieszaj! Drugi kogut zapiał,
+Dzwonek na godzinę policyjną zadzwonił, jest trzecia.
+Spójrz na pieczone mięsa, dobra Angeliko;
+Oszczędzaj nie dla kosztów.
+
+PIELĘGNIARKA.
+Idź, ty łóżeczku, idź,
+Zabrać cię do łóżka; wierze, jutro bedziesz chory
+Za tę nocną obserwację.
+
+KAPULET.
+Nie, ani krzty. Co! Mam teraz zegarek
+Całą noc z błahego powodu i nigdy nie byłem chory.
+
+PANI KAPULET.
+Tak, w swoim czasie polowałeś na myszy;
+Ale będę cię teraz obserwował z takiego oglądania.
+
+ [_Wychodzi Lady Capulet i Pielęgniarka_]
+
+KAPULET.
+Zazdrość, zazdrość!
+
+ Wchodzą Słudzy z rożnami, kłodami i koszami.
+
+A teraz, kolego, co tam jest?
+
+PIERWSZY SŁUGA.
+Rzeczy dla kucharza, proszę pana; ale nie wiem co.
+
+KAPULET.
+Spiesz się, spiesz się.
+
+ [_Wyjdź z Pierwszego Sługi._]
+
+— Sirrah, przynieś suszarnię.
+Zadzwoń do Piotra, on ci pokaże, gdzie oni są.
+
+DRUGI SŁUGA.
+Mam głowę, sir, która znajdzie logi
+I nigdy nie kłopocz Petera w tej sprawie.
+
+ [_Wyjście._]
+
+KAPULET.
+Msza i dobrze powiedziane; wesoły skurwysyn, ha.
+Będziesz nieznośny. — Dobra wiara, oto dzień.
+Powiat będzie tu z muzyką prostą,
+Bo tak powiedział, że tak zrobi. Słyszę go blisko.
+
+ [_Graj muzykę._]
+
+Pielęgniarka! Żona! Co, ho! Co, siostro, mówię!
+
+ Ponownie wprowadź pielęgniarkę.
+
+Idź obudź Juliet, idź i ją przytnij.
+Pójdę porozmawiać z Parysem. Hej, pospiesz się,
+Pośpieszać; Oblubieniec, którym jest, już przyszedł.
+Pospiesz się, mówię.
+
+ [_Wyjście._]
+
+SCENA V. Komnata Julii; Julia na łóżku.
+
+ Wejdź pielęgniarka.
+
+PIELĘGNIARKA.
+Kochanka! Co, pani! Julia! Szybko, gwarantuję ją, ona.
+Dlaczego, jagnię, dlaczego, pani, fie, ty ślimaku!
+Dlaczego, kochanie, mówię! Szanowna Pani! Kochanie! Dlaczego, panno młoda!
+Co, ani słowa? Bierzesz teraz swoje grosze.
+Spać przez tydzień; na następną noc, gwarantuję,
+Hrabstwo Paryskie ustanowiło jego odpoczynek
+Abyście odpoczęli, ale niewiele. Boże wybacz mi!
+Ożenić się i amen. Jak ona śpi!
+Muszę ją obudzić. Pani, pani, pani!
+Ay, niech hrabstwo zabierze cię do łóżka,
+Wystraszy cię, wierzę. Czy tak nie będzie?
+Co, ubrany, w ubraniu i znowu w dół?
+Muszę cię obudzić. Dama! Dama! Dama!
+Niestety, niestety! Pomocy pomocy! Moja pani nie żyje!
+O, dzień, w którym się urodziłem.
+Trochę aqua vitae, ho! Mój Pan! moja pani!
+
+ Wejdź do Lady Capulet.
+
+PANI KAPULET.
+Co to za hałas?
+
+PIELĘGNIARKA.
+O żałosny dniu!
+
+PANI KAPULET.
+W czym problem?
+
+PIELĘGNIARKA.
+Patrz patrz! O ciężki dniu!
+
+PANI KAPULET.
+O ja, o ja! Moje dziecko, moje jedyne życie.
+Ożyw się, spójrz w górę, albo umrę z tobą.
+Pomocy pomocy! Wezwać pomoc.
+
+ Wejdź do Kapuleta.
+
+KAPULET.
+Ze wstydu, wyprowadź Julię, przyszedł jej pan.
+
+PIELĘGNIARKA.
+Ona nie żyje, umarła, ona nie żyje; pechowy dzień!
+
+PANI KAPULET.
+Cały dzień, ona nie żyje, ona nie żyje, ona nie żyje!
+
+KAPULET.
+Ha! Pozwól mi ją zobaczyć. niestety! jest jej zimno,
+Jej krew jest ustabilizowana, a stawy sztywne.
+Życie i te usta od dawna są rozdzielone.
+Śmierć leży na niej jak przedwczesny mróz
+Na najsłodszy kwiat na całym polu.
+
+PIELĘGNIARKA.
+O żałosny dniu!
+
+PANI KAPULET.
+O nieszczęsny czas!
+
+KAPULET.
+Śmierć, która zabrała ją stąd, by sprawić, że będę lamentować,
+Związuje mi język i nie pozwala mówić.
+
+ Wchodzi brat Lawrence i Paryż z muzykami.
+
+BRACIA LAWRENCE.
+Chodź, czy panna młoda jest gotowa do pójścia do kościoła?
+
+KAPULET.
+Gotowy do drogi, ale nigdy do powrotu.
+O synu, w noc przed twoim ślubem
+Czy śmierć leżała z twoją oblubienicą. Tam leży,
+Kwiat jak była, zdeflorowana przez niego.
+Śmierć jest moim zięciem, śmierć jest moim spadkobiercą;
+Moją córkę poślubił. Umrę.
+I zostaw go całego; życie, życie, wszystko należy do śmierci.
+
+PARYŻ.
+Czy długo myślałem, żeby zobaczyć twarz tego ranka,
+I czy daje mi to taki widok jak ten?
+
+PANI KAPULET.
+Przeklęty, nieszczęśliwy, nędzny, pełen nienawiści dzień.
+Najbardziej nieszczęśliwa godzina, jaką kiedykolwiek widział
+W trwałym trudzie pielgrzymki.
+Ale jedno, biedne, jedno biedne i kochające dziecko,
+Ale jedna rzecz, by się radować i pocieszać,
+A okrutna śmierć zabrała mi to z oczu.
+
+PIELĘGNIARKA.
+o biada! O żałosny, żałosny, żałosny dniu.
+Najbardziej opłakany dzień, najbardziej żałosny dzień
+To kiedykolwiek, kiedykolwiek, widziałem!
+O dniu, o dniu, o dniu, o nienawistnym dniu.
+Nigdy nie widziano tak czarnego dnia jak ten.
+O żałosny dniu, żałosny dniu.
+
+PARYŻ.
+Oszukany, rozwiedziony, skrzywdzony, zły, zabity.
+Najbardziej obrzydliwa śmierć, przez ciebie oszukana,
+Przez okrutnego, okrutnego ciebie całkiem obalonego.
+O miłość! O życie! Nie życie, ale miłość w śmierci!
+
+KAPULET.
+Wzgardzony, zrozpaczony, znienawidzony, męczennikiem, zabity.
+Niewygodny czas, dlaczego teraz cam'st
+Zamordować, zamordować naszą powagę?
+O dziecko! O dziecko! Moja dusza, a nie moje dziecko,
+Martwy jesteś. Alack, moje dziecko nie żyje,
+A wraz z moim dzieckiem moje radości są pogrzebane.
+
+BRACIA LAWRENCE.
+Pokój, ho, wstyd. Lekarstwo na zamieszanie nie żyje
+W tych zamieszaniach. Niebo i siebie
+Miał udział w tej pięknej dziewicy, teraz niebo ma wszystko,
+A tym lepiej dla służącej.
+Swojego udziału w niej nie mogłeś powstrzymać od śmierci,
+Ale niebo zachowuje swój udział w życiu wiecznym.
+Najbardziej szukałeś jej awansu,
+Bo to było twoje niebo, ona powinna być zaawansowana,
+I płaczcie teraz, widząc, że jest zaawansowana
+Ponad chmurami, tak wysoko jak samo niebo?
+O, w tej miłości tak bardzo kochasz swoje dziecko
+Że szalejesz, widząc, że ona ma się dobrze.
+Nie jest dobrze zamężna, która długo żyje w małżeństwie,
+Ale najlepiej zamężna jest ta, która umiera młodo za mąż.
+Osusz łzy i przyklej rozmaryn
+Na tym pięknym kruku i, jak to jest w zwyczaju,
+I w jej najlepszym stroju zanieś ją do kościoła;
+Bo choć kochająca natura każe nam wszystkim lamentować,
+Jednak łzy natury są radością rozumu.
+
+KAPULET.
+Wszystkie rzeczy, które zarządziliśmy na święto
+Odwróć się od ich biura na czarny pogrzeb:
+Nasze instrumenty do melancholijnych dzwonów,
+Nasz weselny wiwat na smutną ucztę pogrzebową;
+Zmieniają się nasze uroczyste hymny do ponurych lamentów;
+Nasze ślubne kwiaty służą za pogrzebany trup,
+I wszystko zmienia ich na odwrót.
+
+BRACIA LAWRENCE.
+Panie, wejdź, a pani, idź z nim,
+Idź, Sir Paris, wszyscy się przygotujcie
+By podążać za tą piękną trupą aż do jej grobu.
+Niebiosa zniżają się nad wami z jakiegoś powodu;
+Nie ruszaj ich więcej, przekraczając ich wysoką wolę.
+
+ [_Wychodzi Capulet, Lady Capulet, Parys i Brat._]
+
+PIERWSZY MUZYK.
+Faith, możemy odłożyć fajki i zniknąć.
+
+PIELĘGNIARKA.
+Uczciwi, dobrzy ludzie, ach, połóżcie się, połóżcie,
+Bo dobrze wiesz, że to żałosny przypadek.
+
+PIERWSZY MUZYK.
+Tak, przysięgam, sprawa może zostać zmieniona.
+
+ [_Wyjście pielęgniarki._]
+
+ Wprowadź Piotra.
+
+PIOTR.
+Muzycy, O, muzycy, „Spokój serca”, „Spokój serca”, O i ty
+puści mnie na żywo, zagraj „Spokój serca”.
+
+PIERWSZY MUZYK.
+Dlaczego „Spokój serca”?
+
+PIOTR.
+O muzycy, bo moje serce samo gra „Moje serce jest pełne”. O grać
+mi jakiś wesoły śmieć, żeby mnie pocieszyć.
+
+PIERWSZY MUZYK.
+To nie jest wysypisko, teraz nie ma czasu na zabawę.
+
+PIOTR.
+Nie będziesz wtedy?
+
+PIERWSZY MUZYK.
+Nie.
+
+PIOTR.
+Wtedy dam ci go solidnie.
+
+PIERWSZY MUZYK.
+Co nam dasz?
+
+PIOTR.
+Żadnych pieniędzy, na moją wiarę, ale blask! Dam ci minstrela.
+
+PIERWSZY MUZYK.
+Wtedy dam ci służącą istotę.
+
+PIOTR.
+Wtedy położę sztylet służebnicy na twoim pasztecie. Będę
+nie nosić ćwierćnut. Będę tobą, będę cię kochał. Czy mnie zauważasz?
+
+PIERWSZY MUZYK.
+A ty jesteś nami i jesteś nami, zauważasz nas.
+
+DRUGI MUZYK.
+Módlcie się, abyście odłożyli sztylet i wykazali się dowcipem.
+
+PIOTR.
+Więc rzuć się na mnie z moim dowcipem. Zbiję cię na sucho żelaznym dowcipem i
+podnieś mój żelazny sztylet. Odpowiedz mi jak mężczyźni.
+    „Kiedy smutki chwytają, serce rani,
+      I żałosne porzuca umysł ciemiężyciela,
+    Potem muzyka z jej srebrnym dźwiękiem” —
+Dlaczego „srebrny dźwięk”? Dlaczego „muzyka z jej srebrnym dźwiękiem”? co powiesz,
+Simona Catlinga?
+
+PIERWSZY MUZYK.
+Ożeń się, panie, bo srebro ma słodki dźwięk.
+
+PIOTR.
+Praty. Co powiesz, Hugh Rebecku?
+
+DRUGI MUZYK.
+Mówię „srebrny dźwięk”, ponieważ muzycy brzmią dla srebra.
+
+PIOTR.
+Praty też! Co powiesz, Jamesie Soundpost?
+
+TRZECI MUZYK.
+Wiara, nie wiem, co powiedzieć.
+
+PIOTR.
+O, błagam cię o litość, ty jesteś śpiewaczką. powiem za Ciebie. To jest
+„muzyka z jej srebrnym brzmieniem”, bo muzycy nie mają na co złota
+sondaż.
+      – Potem muzyka z jej srebrnym dźwiękiem
+      Z szybką pomocą udziela zadośćuczynienia.
+
+ [_Wyjście._]
+
+PIERWSZY MUZYK.
+Cóż to za zaraźliwy łajdak!
+
+DRUGI MUZYK.
+Powieś go, Jack. Chodź, wejdziemy tutaj, poczekamy na żałobników i zostaniemy
+kolacja.
+
+ [_Wyjście._]
+
+
+
+AKT V
+
+SCENA I. Mantua. Ulica.
+
+ Wejdź Romeo.
+
+ROMEO.
+Jeśli mogę zaufać pochlebnemu oku snu,
+Moje sny zapowiadają radosne wieści.
+Pan mego łona siedzi lekko na swoim tronie;
+I przez cały ten dzień nieprzyzwyczajony duch
+Unosi mnie nad ziemię pogodnymi myślami.
+Śniło mi się, że moja pani przyszła i znalazła mnie martwego, —
+Dziwny sen, który daje nieboszczykowi do myślenia! —
+I tchnąłem takie życie z pocałunkami w moich ustach,
+Że odrodziłem się i byłem cesarzem.
+Ach ja, jak słodka jest sama miłość,
+Kiedy tylko cienie miłości są tak bogate w radość.
+
+ Wejdź do Baltazara.
+
+Wieści z Werony! Jak teraz, Baltazarze?
+Czy nie przynosisz mi listów od Zakonnika?
+Jak się ma moja pani? Czy mój ojciec ma się dobrze?
+Jak się miewa moja Julia? Że pytam ponownie;
+Bo nic nie może być chore, jeśli ona jest zdrowa.
+
+BALTAZARA.
+Wtedy jest zdrowa i nic nie może być chore.
+Jej ciało śpi w pomniku Capela,
+A jej nieśmiertelna część z aniołami żyje.
+Widziałem ją leżącą nisko w skarbcu jej pobratymców,
+I wkrótce zająłem stanowisko, żeby ci to powiedzieć.
+Wybacz mi, że przyniosłem te złe wieści,
+Skoro zostawiłeś to dla mojego biura, sir.
+
+ROMEO.
+Czy tak jest? Więc przeciwstawiam się wam, gwiazdy!
+Wiesz, że to moje mieszkanie. Przynieś mi atrament i papier,
+I wynajmij konie pocztowe. Będę stąd dziś wieczorem.
+
+BALTAZARA.
+Błagam pana, proszę o cierpliwość.
+Twój wygląd jest blady i dziki, i robi wrażenie
+Jakieś nieszczęście.
+
+ROMEO.
+Tush, zostałeś oszukany.
+Zostaw mnie i zrób to, co ci każę.
+Czy nie masz do mnie listów od Zakonnika?
+
+BALTAZARA.
+Nie, mój dobry panie.
+
+ROMEO.
+Bez znaczenia. Odejdź,
+I wynajmij te konie. Będę z tobą prosto.
+
+ [_Wyjdź z Balthasara._]
+
+Cóż, Juliet, będę leżał z tobą tej nocy.
+Zobaczmy środki. O psotno, jesteś szybki
+By wejść w myśli zdesperowanych ludzi.
+Pamiętam aptekarza, —
+I tu mieszka, — co późno zauważyłem
+W postrzępionych chwastach, z przytłaczającymi brwiami,
+Ubój prostaczków, skąpy był jego wygląd,
+Ostra nędza zmęczyła go do kości;
+A w jego biednym sklepie wisiał żółw,
+Wypchany aligator i inne skóry
+O źle ukształtowanych rybach; i o jego półkach
+Żebracze sprawozdanie z pustych pudełek,
+Zielone gliniane garnki, pęcherze i zatęchłe nasiona,
+Resztki nici i stare ciastka z różami
+Były słabo rozproszone, aby stworzyć przedstawienie.
+Zauważywszy tę nędzę, powiedziałem sobie:
+A jeśli człowiek potrzebował teraz trucizny,
+Którego sprzedażą jest obecna śmierć w Mantui,
+Tu mieszka nędznik, który by go sprzedał.
+O, ta sama myśl poprzedziła moją potrzebę,
+I ten sam biedak musi mi to sprzedać.
+O ile pamiętam, to powinien być ten dom.
+W czasie wakacji sklep żebraczy jest zamknięty.
+Co, ho! Aptekarz!
+
+ Wejdź do apteki.
+
+APTEKARZ.
+Kto dzwoni tak głośno?
+
+ROMEO.
+Chodź tu, człowieku. Widzę, że jesteś biedny.
+Czekaj, jest czterdzieści dukatów. Pozwól mi mieć
+Drabinka trucizny, taki szybko pędzący bieg
+Jak rozejdzie się po wszystkich żyłach,
+Aby zmęczony życiem biorca mógł paść martwy,
+I aby tułów mógł być rozładowany
+Gwałtownie, jak pospiesznie wrzucony proch
+Spieszy się z łona śmiertelnej armaty.
+
+APTEKARZ.
+Takie śmiertelne narkotyki mam, ale prawo Mantui
+Jest śmiercią dla każdego, kto je wypowiada.
+
+ROMEO.
+Czy jesteś tak nagi i pełen nędzy,
+I boisz się umrzeć? Głód jest na twoich policzkach,
+Potrzeba i ucisk głodują w twoich oczach,
+Pogarda i żebractwo wisi na twoich plecach.
+Świat nie jest twoim przyjacielem ani prawem świata;
+Świat nie daje prawa, które uczyniłoby cię bogatym;
+Więc nie bądź biedny, ale złam to i weź to.
+
+APTEKARZ.
+Moje ubóstwo, ale nie moja wola zgadza się.
+
+ROMEO.
+Odpłacę twoje ubóstwo, a nie twoją wolę.
+
+APTEKARZ.
+Umieść to w jakiejkolwiek płynnej rzeczy, którą chcesz
+I wypij to; i gdybyś miał siłę
+Z dwudziestu ludzi wysłałby cię prosto.
+
+ROMEO.
+Oto twoje złoto, gorsza trucizna dla ludzkich dusz,
+Dokonując kolejnych morderstw na tym odrażającym świecie
+Niż te biedne związki, których nie możesz sprzedawać.
+Sprzedaję ci truciznę, ty nie sprzedałeś mi żadnej.
+Żegnaj, kup jedzenie i zajmij się mięsem.
+Chodź, serdeczny, a nie trucizna, chodź ze mną
+Do grobu Julii, bo tam muszę cię użyć.
+
+ [_Wyjście._]
+
+SCENA II. Cela brata Lawrence'a.
+
+ Wchodzi brat Jan.
+
+BRAT JAN.
+Święty franciszkanin! Bracie, ho!
+
+ Wchodzi brat Lawrence.
+
+BRACIA LAWRENCE.
+Taki sam powinien być głos brata Jana.
+Witamy z Mantui. Co mówi Romeo?
+Lub, jeśli jego umysł jest napisany, daj mi jego list.
+
+BRAT JAN.
+Idąc znaleźć bosego brata,
+Jeden z naszego zakonu, aby mnie skojarzyć,
+Tutaj w tym mieście odwiedzając chorych,
+I znajdując go, poszukiwacze miasta,
+Podejrzewając, że oboje byliśmy w domu
+Tam, gdzie panowała zaraza zakaźna,
+Zapieczętował drzwi i nie chciał nas wypuścić,
+Tak, że moja prędkość do Mantui została tam zatrzymana.
+
+BRACIA LAWRENCE.
+Kto więc zaniósł mój list do Romea?
+
+BRAT JAN.
+Nie mogłem go wysłać — oto znowu —
+Nie proś posłańca, aby ci to przyniósł,
+Tak bardzo bali się infekcji.
+
+BRACIA LAWRENCE.
+Nieszczęśliwy los! Przez moje braterstwo,
+List nie był miły, ale pełen opłat,
+Drogie znaczenie i zaniedbywanie go
+Może spowodować wiele niebezpieczeństw. Bracie John, idź stąd,
+Daj mi żelazną wronę i wyprostuj ją
+Do mojej celi.
+
+BRAT JAN.
+Bracie, pójdę i przyniosę ci to.
+
+ [_Wyjście._]
+
+BRACIA LAWRENCE.
+Teraz muszę iść sam do pomnika.
+W ciągu tych trzech godzin piękna Julia się obudzi.
+Zdradzi mi bardzo tego Romea
+Nie zawiadomił o tych wypadkach;
+Ale jeszcze raz napiszę do Mantui,
+I zatrzymaj ją w mojej celi, aż przyjdzie Romeo.
+Biedny żywy trup, zamknięty w grobowcu zmarłego.
+
+ [_Wyjście._]
+
+SCENA III. Cmentarz; w nim Pomnik należący do Kapuletów.
+
+ Wchodzi do Paryża i jego Page niosący kwiaty i pochodnię.
+
+PARYŻ.
+Daj mi swoją pochodnię, chłopcze. Dlatego trzymaj się z daleka.
+Ale zgaś to, bo nie chciałbym być widziany.
+Pod tym cisem leżysz cały czas,
+Trzymając ucho blisko wydrążonej ziemi;
+Tak więc żadna stopa nie będzie stąpać po cmentarzu kościelnym,
+Bycie luźnym, niestałym, z rozkopywaniem grobów,
+Ale ty to usłyszysz. Gwizdnij więc do mnie,
+Jako sygnał, że słyszysz, że coś się zbliża.
+Daj mi te kwiaty. Zrób, co ci każę, idź.
+
+STRONA.
+[_Aside._] Prawie boję się stać sama
+Tutaj na cmentarzu; jeszcze będę przygodę.
+
+ [_Przechodzi na emeryturę._]
+
+PARYŻ.
+Słodki kwiatku, kwiatami zasypałem twe ślubne łoże.
+O biada, twój baldachim to pył i kamienie,
+Którą co noc słodką wodą rosę,
+Lub pragnąc tego, ze łzami destylowanymi przez jęki.
+Pogrzeby, które dla ciebie zachowam,
+Noc będzie zasypywać twój grób i płakać.
+
+ [_Strona gwiżdże._]
+
+Chłopiec ostrzega, że ​​coś się zbliża.
+Jaka przeklęta stopa wędruje tędy tej nocy,
+Przekroczyć moje pogrzeby i rytuał prawdziwej miłości?
+Co, z pochodnią! Ucisz mnie, nocy, chwilę.
+
+ [_Przechodzi na emeryturę._]
+
+ Wchodzą Romeo i Baltazar z pochodnią, motyką itp.
+
+ROMEO.
+Daj mi tę motykę i klucz do kluczy.
+Poczekaj, weź ten list; wcześnie rano
+Dopilnuj, abyś dostarczył go mojemu panu i ojcu.
+Daj mi światło; obciążam cię za twoje życie,
+Cokolwiek słyszysz lub widzisz, trzymaj się z daleka
+I nie przerywaj mi w moim biegu.
+Dlaczego schodzę do tego łoża śmierci
+To częściowo widzieć twarz mojej pani,
+Ale głównie po to, by zabrać stamtąd martwy palec
+Cenny pierścień, pierścień, którego muszę użyć
+W drogiej pracy. Dlatego odejdź.
+Ale jeśli zazdrosny wrócisz do wścibstwa
+W tym, co dalej zamierzam zrobić,
+Na niebo rozerwę cię kawałek po kawałku,
+I porozrzucaj ten głodny cmentarz twoimi kończynami.
+Czas i moje intencje są dzikie;
+Daleko bardziej zaciekle i nieubłaganie
+Niż puste tygrysy lub ryczące morze.
+
+BALTAZARA.
+Odejdę, proszę pana, i nie będę pana niepokoić.
+
+ROMEO.
+Więc okaż mi przyjaźń. Weź to.
+Żyj i bądź szczęśliwy i żegnaj, dobry człowieku.
+
+BALTAZARA.
+Mimo wszystko ukryję się tutaj.
+Boję się jego wyglądu i wątpię w jego zamiary.
+
+ [_Odchodzi na emeryturę_]
+
+ROMEO.
+Obrzydliwa paszczę, łono śmierci,
+Gorg'd z najdroższym kęsem ziemi,
+W ten sposób zmuszam twoje zgniłe szczęki do otwarcia,
+
+ [_Wyważenie drzwi pomnika._]
+
+A mimo to napcham cię jeszcze jedzeniem.
+
+PARYŻ.
+To jest ten wygnany wyniosły Montague
+To morderstwo kuzyna mojej ukochanej — z jakim smutkiem,
+Przypuszcza się, że piękna istota umarła, —
+I oto przyszedł zrobić jakiś nikczemny wstyd
+Do trupów. Zatrzymam go.
+
+ [_Postępy._]
+
+Zatrzymaj swój nieuświęcony trud, nikczemny Montague.
+Czy zemsta może sięgać dalej niż śmierć?
+Potępiony złoczyńco, pojmuję cię.
+Bądź posłuszny i idź ze mną, bo musisz umrzeć.
+
+ROMEO.
+naprawdę muszę; i dlatego przybyłem tutaj.
+Dobry, łagodny młodzieńcze, nie kuś zdesperowanego człowieka.
+Leć stąd i zostaw mnie. Pomyśl o tych, którzy odeszli;
+Niech cię przerażają. Błagam cię, młodzieńcze,
+Nie wkładaj kolejnego grzechu na moją głowę
+Doprowadzając mnie do furii. Odejdź.
+Na niebo kocham cię bardziej niż siebie;
+Bo przychodzę tu uzbrojony przeciwko sobie.
+Nie zostań, odejdź, żyj, a odtąd mów:
+Miłosierdzie szaleńca każe ci uciekać.
+
+PARYŻ.
+Sprzeciwiam się twemu zaklęciu,
+I pojmę cię za przestępcę tutaj.
+
+ROMEO.
+Czy mnie sprowokujesz? Więc baw się dobrze, chłopcze!
+
+ [_Oni walczą._]
+
+STRONA.
+O Panie, oni walczą! Pójdę zadzwonić na zegarek.
+
+ [_Wyjście._]
+
+PARYŻ.
+O, jestem zabity! [_Falls._] Jeśli będziesz miłosierny,
+Otwórz grób, połóż mnie z Julią.
+
+ [_Umrze._]
+
+ROMEO.
+Z wiarą, zrobię to. Pozwól mi przyjrzeć się tej twarzy.
+Krewny Merkucja, szlachetny hrabstwo Paryż!
+Co powiedział mój człowiek, kiedy moja dusza została zaklęta
+Nie towarzyszyliśmy mu, gdy jechaliśmy? Myślę
+Powiedział mi, że Parys powinien był poślubić Julię.
+Powiedział, że tak nie jest? A może tak mi się śniło?
+Czy też jestem szalony, słysząc, jak mówi o Julii,
+Pomyśleć, że tak było? O, podaj mi rękę,
+Jeden wpis ze mną w księdze kwaśnego nieszczęścia.
+Pochowam cię w triumfalnym grobie.
+Grób? O nie, latarnia, zarżnięta czerwona młodość,
+Bo tu leży Julia, a jej piękność czyni
+To sklepienie to ucztująca obecność pełna światła.
+Śmierć, leżeć tam, przez zmarłego interr'd.
+
+ [_Układanie Paryża w pomniku._]
+
+Jakże często ludzie są na skraju śmierci
+Czy byli weseli! Które nazywają ich opiekunowie
+Błyskawica przed śmiercią. Och, jak mogę
+Nazywać to piorunem? O moja ukochana, moja żono,
+Śmierć, która wyssała miód z twego oddechu,
+Nie miał jeszcze władzy nad twoim pięknem.
+Nie jesteś pokonany. Chorąży piękna jeszcze
+Jest szkarłatny na twoich ustach i policzkach,
+A blada flaga śmierci nie jest tam wysunięta.
+Tybalcie, leżysz tam w swoim zakrwawionym prześcieradle?
+O, cóż więcej mogę ci wyświadczyć
+Niż tą ręką, która przecięła twoją młodość na pół
+Rozbić tego, który był twoim wrogiem?
+Wybacz mi, kuzynie. Ach, kochana Julio,
+Dlaczego jesteś jeszcze taki sprawiedliwy? Czy mam uwierzyć
+Ta bezcielesna śmierć jest miłosna;
+I to trzyma chudy, znienawidzony potwór
+Jesteś tu w ciemności, by być jego kochanką?
+Ze strachu przed tym zostanę jeszcze z tobą,
+I nigdy z tego pałacu ciemnej nocy
+Odejdź ponownie. Tutaj, tutaj zostanę
+Z robakami, które są twoimi pokojówkami. O, tutaj
+Czy ustanowię mój wieczny odpoczynek;
+I potrząśnij jarzmem niepomyślnych gwiazd
+Z tego zmęczonego światem ciała. Oczy, spójrz ostatni raz.
+Ramiona, weźcie ostatni uścisk! I usta, o ty
+Drzwi tchnienia zapieczętujcie sprawiedliwym pocałunkiem
+Bezterminowa okazja do wciągającej śmierci.
+Przyjdź, gorzkie zachowanie, przyjdź, niesmaczny przewodniku.
+Ty zdesperowany pilocie, teraz natychmiast biegnij dalej
+Oszałamiające skały twej chorej na morze, zmęczonej kory.
+Oto moja miłość! [_Drinks._] O prawdziwy aptekarzu!
+Twoje leki są szybkie. Tak więc pocałunkiem umieram.
+
+ [_Umrze._]
+
+ Wejdź, na drugim końcu cmentarza, brat Lawrence z a
+ latarnia, wrona i łopata.
+
+BRACIA LAWRENCE.
+Święty Franciszku bądź moją szybkością. Jak często wieczorem
+Czy moje stare stopy potknęły się o groby? Kto tam?
+Kim jest ten, który tak późno łączy się ze zmarłymi?
+
+BALTAZARA.
+Oto jeden, przyjaciel i ten, który dobrze cię zna.
+
+BRACIA LAWRENCE.
+Błogosławieństwo niech będzie z tobą. Powiedz mi, dobry przyjacielu,
+Jaka pochodnia jest tam, co na próżno użycza swego światła
+Do larw i czaszek bez oczu? Jak rozpoznaję,
+Płonie w pomniku Capelsów.
+
+BALTAZARA.
+Tak się dzieje, święty panie, a oto mój pan,
+Ten, którego kochasz.
+
+BRACIA LAWRENCE.
+Kto to jest?
+
+BALTAZARA.
+Romeo.
+
+BRACIA LAWRENCE.
+Jak długo tam był?
+
+BALTAZARA.
+Pełne pół godziny.
+
+BRACIA LAWRENCE.
+Chodź ze mną do skarbca.
+
+BALTAZARA.
+Nie śmiem, panie;
+Mój pan nie wie, ale odszedłem stąd,
+I straszliwie groził mi śmiercią
+Jeśli zostanę, żeby sprawdzić jego zamiary.
+
+BRACIA LAWRENCE.
+Zostań więc, pójdę sam. Nachodzi mnie strach.
+O, bardzo się boję jakiegoś pechowca.
+
+BALTAZARA.
+Jak ja spałem pod tym cisem tutaj,
+Śniło mi się, że mój pan i inny walczyli,
+I że mój pan go zabił.
+
+BRACIA LAWRENCE.
+Romeo! [_Postępy._]
+Ałak, alak, cóż to za krew, która plami
+Kamienne wejście do tego grobowca?
+Co znaczą te bezwładne i krwawe miecze
+Leżeć odbarwiony przez to miejsce pokoju?
+
+ [_Wchodzi do pomnika._]
+
+Romeo! O, blady! Kto jeszcze? Co, Paryż też?
+I przesiąknięty krwią? Ach, co za niemiła godzina
+Czy jest winny tej żałosnej szansy?
+Pani się porusza.
+
+ [_Julia budzi się i porusza._]
+
+JULIA.
+O wygodny mnichu, gdzie jest mój pan?
+Dobrze pamiętam, gdzie powinienem być,
+I oto jestem. Gdzie jest mój Romeo?
+
+ [_Hałas w środku._]
+
+BRACIA LAWRENCE.
+Słyszę jakiś hałas. Pani, wyjdź z tego gniazda
+O śmierci, zarazie i nienaturalnym śnie.
+Siła większa, niż możemy się sprzeciwić
+Pokrzyżował nasze zamiary. Chodź, odejdź.
+Twój mąż leży martwy na twoim łonie;
+I Paryż też. Chodź, pozbędę się ciebie
+Wśród sióstr świętych mniszek.
+Nie pytaj, bo nadchodzi straż.
+Chodź, idź, dobra Julio. Nie śmiem dłużej zostać.
+
+JULIA.
+Idź, zabierz cię stąd, bo nie odejdę.
+
+ [_Wyjdź Brat Lawrence._]
+
+Co jest tutaj? Kubek zamknięty w dłoni mojej prawdziwej miłości?
+Widzę, że trucizna była jego ponadczasowym końcem.
+O kurwa. Wypij wszystko i nie zostaw żadnej przyjaznej kropli
+Pomóc mi później? pocałuję twoje usta.
+Być może jakaś trucizna jeszcze na nich wisi,
+Sprawić, że umrę środkiem regenerującym.
+
+ [_Całuje go._]
+
+Twoje usta są ciepłe!
+
+PIERWSZY OBEJRZYJ.
+[_Wewnątrz._] Prowadź, chłopcze. Która droga?
+
+JULIA.
+Tak, hałas? Wtedy powiem krótko. O szczęśliwy sztylecie.
+
+ [_Wyrywanie sztyletu Romeo._]
+
+To jest twoja pochwa. [_dźga się_] Odpocznij i pozwól mi umrzeć.
+
+ [_Upada na ciało Romea i umiera._]
+
+ Wejdź Watch z Paziem Paryskim.
+
+STRONA.
+To jest miejsce. Tam, gdzie płonie pochodnia.
+
+PIERWSZY OBEJRZYJ.
+Ziemia jest zakrwawiona. Poszukaj informacji o cmentarzu.
+Idźcie, niektórzy z was, kogo znajdziecie, dołączcie.
+
+ [_Wyjdź z części Straży._]
+
+Żałosny widok! Tutaj leży hrabstwo zabite,
+I Juliet krwawiąca, ciepła i niedawno martwa,
+Kto tu leżał, ten dwa dni pogrzebany.
+Idź powiedz księciu; biegnij do Kapuletów.
+Wznieście Montague'ów, inni szukają.
+
+ [_Wyjdź z innych Straży._]
+
+Widzimy ziemię, na której leżą te nieszczęścia,
+Ale prawdziwa podstawa wszystkich tych żałosnych nieszczęść
+Nie możemy bez okoliczności descry.
+
+ Wejdź ponownie do Straży z Balthasarem.
+
+DRUGA STRAŻ.
+Oto człowiek Romea. Znaleźliśmy go na cmentarzu.
+
+PIERWSZY OBEJRZYJ.
+Trzymaj go w bezpiecznym miejscu, dopóki książę tu nie przyjdzie.
+
+ Wejdź ponownie do innych członków Straży z bratem Lawrencem.
+
+TRZECIA STRAŻ. Oto Brat, który drży, wzdycha i płacze.
+Zabraliśmy mu tę motykę i tę łopatę
+Gdy szedł od tej strony cmentarza.
+
+PIERWSZY OBEJRZYJ.
+Wielkie podejrzenie. Zostań też Bratem.
+
+ Wchodzą książę i słudzy.
+
+KSIĄŻĘ.
+Co za nieszczęście jest tak wcześnie,
+To woła naszą osobę z porannego odpoczynku?
+
+ Wejdź Capulet, Pani Capulet i inni.
+
+KAPULET.
+Co to powinno być, że tak krzyczą za granicą?
+
+PANI KAPULET.
+O ludzie na ulicy płaczą Romeo,
+Trochę Julii, trochę Paryża i wszyscy uciekają
+Z otwartym krzykiem w stronę naszego pomnika.
+
+KSIĄŻĘ.
+Cóż to za strach, który dźwięczy w naszych uszach?
+
+PIERWSZY OBEJRZYJ.
+Władco, tutaj leży zabity hrabstwo Paris,
+I Romeo martwy, i Julia, martwa wcześniej,
+Ciepły i nowy kill'd.
+
+KSIĄŻĘ.
+Szukaj, szukaj i dowiedz się, jak dochodzi do tego ohydnego morderstwa.
+
+PIERWSZY OBEJRZYJ.
+Oto mnich i zamordowany człowiek Romea,
+Z instrumentami na nich nadającymi się do otwarcia
+Te grobowce zmarłych.
+
+KAPULET.
+O niebo! O żono, spójrz, jak nasza córka krwawi!
+Ten sztylet pomylił się z jego domem
+Jest pusty na tyłach Montague,
+I błędnie schował się w łonie mojej córki.
+
+PANI KAPULET.
+o ja! Ten widok śmierci jest jak dzwon
+To ostrzega moją starość przed grobem.
+
+ Wejdź do Montague i innych.
+
+KSIĄŻĘ.
+Chodź, Montague, bo wcześnie wstałeś,
+Aby zobaczyć twego syna i spadkobiercę wcześniej.
+
+MONTAŻ.
+Niestety, mój panie, moja żona nie żyje tej nocy.
+Smutek z powodu wygnania mojego syna wstrzymał jej oddech.
+Jakie dalsze biada sprzysięga się przeciwko mojemu wiekowi?
+
+KSIĄŻĘ.
+Spójrz, a zobaczysz.
+
+MONTAŻ.
+O ty nieuczony! Jakie maniery w tym są,
+Ścigać się przed ojcem do grobu?
+
+KSIĄŻĘ.
+Zatkaj na chwilę usta oburzenia,
+Dopóki nie wyjaśnimy tych niejasności,
+I poznaj ich źródło, ich głowę, ich prawdziwe zejście,
+A wtedy będę generałem twoich nieszczęść,
+I doprowadzić cię nawet do śmierci. Tymczasem wybacz,
+I niech nieszczęście będzie niewolnikiem cierpliwości.
+Wyprowadź strony podejrzane.
+
+BRACIA LAWRENCE.
+Jestem największy, mogę zrobić najmniej,
+Jednak najbardziej podejrzane, jak czas i miejsce
+Czyni przeciwko mnie to straszne morderstwo.
+I oto stoję, zarówno po to, by postawić w stan oskarżenia, jak i przeprowadzić czystkę
+Sam siebie potępiłem i usprawiedliwiłem.
+
+KSIĄŻĘ.
+Powiedz więc od razu, co o tym wiesz.
+
+BRACIA LAWRENCE.
+Powiem krótko, ze względu na moją krótką datę oddechu
+Nie jest tak długa, jak nudna opowieść.
+Romeo, tam martwy, był mężem tej Julii,
+A ona, tam martwa, ta wierna żona Romea.
+Ożeniłem się z nimi; i ich stol'n dzień ślubu
+Był dniem zagłady Tybalta, którego przedwczesna śmierć
+Wygnał nowo narodzonego pana młodego z tego miasta;
+Dla kogo, a nie dla Tybalta, przyszpiliła Juliet.
+Ty, aby usunąć z niej to oblężenie żalu,
+Zaręczony i z konieczności ożeniłby się z nią
+Do okręgu paryskiego. Potem przychodzi do mnie,
+I z dzikim spojrzeniem każ mi wymyślić jakiś sposób
+Aby uwolnić ją z tego drugiego małżeństwa,
+Albo w mojej celi by się zabiła.
+Potem dałem ją, tak wyszkolony przez moją sztukę,
+Eliksir nasenny, który zadziałał
+Tak jak zamierzałem, bo podziałało to na nią
+Forma śmierci. W międzyczasie piszę do Romea
+Że powinien tu przyjść jako ta straszna noc
+Aby pomóc zabrać ją z jej pożyczonego grobu,
+To czas, w którym moc eliksiru powinna ustać.
+Ale ten, który nosił mój list, bracie Johnie,
+Został zatrzymany przez przypadek; i wczoraj
+Odesłałem mój list. Potem zupełnie sam
+O ustalonej godzinie jej przebudzenia
+Przybyłem, aby zabrać ją ze skarbca jej pobratymców,
+Mam zamiar trzymać ją blisko mojej celi
+Aż wygodnie mogłem wysłać do Romea.
+Ale kiedy przyszedłem, kilka minut przed czasem
+O jej przebudzeniu, tu leżało przedwcześnie
+Szlachetny Paryż i prawdziwy Romeo nie żyją.
+Budzi się; i błagałem ją, by wyszła
+I znoś cierpliwie to dzieło nieba.
+Ale wtedy przestraszył mnie hałas dochodzący z grobowca;
+A ona, zbyt zdesperowana, nie chciała iść ze mną,
+Ale, jak się wydaje, dokonała na sobie przemocy.
+Wszystko to wiem; i do małżeństwa
+Jej Pielęgniarka jest wtajemniczona. A jeśli powinien w tym
+Poronione z mojej winy, niech moje stare życie
+Bądź ofiarą, na godzinę przed jego czasem,
+Do rygoru najsurowszego prawa.
+
+KSIĄŻĘ.
+Wciąż znaliśmy cię jako świętego męża.
+Gdzie jest człowiek Romea? Co on może na to powiedzieć?
+
+BALTAZARA.
+Przyniosłem mojemu panu wiadomość o śmierci Julii,
+A potem na poczcie przyjechał z Mantui
+Do tego samego miejsca, do tego samego pomnika.
+Ten list, który wcześnie kazał mi dać jego ojcu,
+I groził mi śmiercią, idąc do skarbca,
+Gdybym nie odszedł i zostawił go tam.
+
+KSIĄŻĘ.
+Daj mi list, przejrzę go.
+Gdzie jest strona hrabstwa, która podniosła zegarek?
+Sirrah, co uczyniło twojego pana w tym miejscu?
+
+STRONA.
+Przyszedł z kwiatami na grób swojej pani,
+I każ mi stać z daleka, i tak też zrobiłem.
+Anon przychodzi ze światłem, by otworzyć grób,
+I stopniowo mój pan zwrócił się do niego,
+A potem uciekłem, żeby zadzwonić na zegarek.
+
+KSIĄŻĘ.
+Ten list czyni dobre słowa Brata,
+Ich przebieg miłości, wieści o jej śmierci.
+A tu pisze, że kupił truciznę
+O biednym „pothecary”, a co za tym idzie
+Przyszedł do tej krypty, by umrzeć i położyć się z Julią.
+Gdzie są ci wrogowie? Kapuletów, Montague,
+Zobacz, jaka plaga spadła na twoją nienawiść,
+To niebo znajduje sposoby, by zabić wasze radości miłością!
+I ja, za przymrużenie oka na wasze niezgody,
+Straciłem parę krewnych. Wszyscy są ukarani.
+
+KAPULET.
+O bracie Montague, podaj mi rękę.
+To jest joint mojej córki, na nic więcej
+Czy mogę żądać.
+
+MONTAŻ.
+Ale mogę dać ci więcej,
+Gdyż wzniosę jej posąg ze szczerego złota,
+Że podczas gdy Verona o tej nazwie jest znana,
+Nie ustala się żadnej kwoty po takim kursie
+Jak prawdziwa i wierna Julia.
+
+KAPULET.
+Jak bogaty będzie Romeo dzięki kłamstwu swojej damy,
+Biedne ofiary naszej wrogości.
+
+KSIĄŻĘ.
+Ponury pokój tego ranka przynosi ze sobą;
+Słońce ze smutku nie pokaże głowy.
+Idź stąd, aby więcej mówić o tych smutnych rzeczach.
+Niektórzy zostaną ułaskawieni, a niektórzy ukarani,
+Bo nigdy nie było historii o większym nieszczęściu
+Niż ta Julii i jej Romea.
+
+ [_Wyjście._]
+
+
+
+
+*** KONIEC PROJEKTU GUTENBERG EBOOK ROMEO I JULIA ***
+
+Zaktualizowane wydania zastąpią poprzednie — stare wydania tak
+zmienić nazwę.
+
+Tworzenie dzieł z wydań drukowanych niechronionych prawem autorskim Stanów Zjednoczonych
+prawo oznacza, że ​​nikt nie posiada amerykańskich praw autorskich do tych dzieł,
+aby Fundacja (i Ty!) mogła je kopiować i rozpowszechniać w formacie
+Stany Zjednoczone bez pozwolenia i bez płacenia praw autorskich
+tantiemy. Zasady szczególne, określone w części Ogólne warunki użytkowania
+niniejszej licencji dotyczą kopiowania i rozpowszechniania Projektu
+Gutenberg-tm electronic pracuje nad ochroną PROJEKTU GUTENBERG-tm
+koncepcja i znak towarowy. Projekt Gutenberg jest zarejestrowanym znakiem towarowym,
+i nie mogą być używane, jeśli pobierasz opłatę za e-booka, z wyjątkiem śledzenia
+warunki licencji na znak towarowy, w tym płacenie tantiem za używanie
+znaku towarowego Projektu Gutenberg. Jeśli nie pobierasz żadnych opłat za
+kopie tego eBooka, zgodność z licencją na znak towarowy jest bardzo ważna
+łatwo. Możesz używać tego eBooka do prawie każdego celu, takiego jak tworzenie
+dzieł pochodnych, raportów, performansów i badań. Projekt
+EBooki Gutenberga mogą być modyfikowane, drukowane i rozdawane – możesz
+robić praktycznie WSZYSTKO w Stanach Zjednoczonych bez ochrony eBooków
+przez amerykańskie prawo autorskie. Redystrybucja podlega znakowi towarowemu
+licencji, zwłaszcza komercyjnej redystrybucji.
+
+START: PEŁNA LICENCJA
+
+PEŁNA LICENCJA PROJEKTU GUTENBERG
+PRZECZYTAJ TO PRZED ROZPOWSZECHNIENIEM LUB KORZYSTANIEM Z TEJ PRACY
+
+Aby chronić misję Projektu Gutenberg-tm polegającą na promowaniu wolności
+dystrybucję utworów elektronicznych, wykorzystując lub rozpowszechniając ten utwór
+(lub jakiejkolwiek innej pracy związanej w jakikolwiek sposób z frazą „Projekt
+Gutenberg”), wyrażasz zgodę na przestrzeganie wszystkich warunków Pełnej
+Licencja Project Gutenberg-tm dostępna z tym plikiem lub online pod adresem
+www.gutenberg.org/license.
+
+Sekcja 1. Ogólne warunki użytkowania i projekt redystrybucji
+Prace elektroniczne Gutenberg-tm
+
+1.A. Czytając lub korzystając z jakiejkolwiek części tego Projektu Gutenberg-tm
+pracy elektronicznej, wskazujesz, że przeczytałeś, zrozumiałeś, zgadzasz się
+i zaakceptuj wszystkie warunki tej licencji i własności intelektualnej
+(znak towarowy/prawa autorskie). Jeśli nie zgadzasz się przestrzegać wszystkich
+warunki tej umowy, musisz zaprzestać używania i zwrócić lub
+zniszczyć wszystkie kopie prac elektronicznych Projektu Gutenberg-tm w swoim
+posiadanie. Jeśli uiściłeś opłatę za uzyskanie kopii lub dostęp do
+Projekt Gutenberg-tm praca elektroniczna i nie zgadzasz się na związanie
+zgodnie z warunkami tej umowy, możesz otrzymać zwrot pieniędzy od firmy
+osoba lub podmiot, na rzecz którego uiściłeś opłatę określoną w ust
+1.E.8.
+
+1.B. „Projekt Gutenberg” jest zarejestrowanym znakiem towarowym. Może być tylko
+wykorzystywane lub związane w jakikolwiek sposób z utworem elektronicznym przez osoby, które
+wyrazić zgodę na związanie się warunkami tej umowy. Jest parę
+rzeczy, które można zrobić z większością dzieł elektronicznych Projektu Gutenberg-tm
+nawet bez przestrzegania wszystkich warunków niniejszej umowy. Widzieć
+ustęp 1.C poniżej. W programie Project można zrobić wiele rzeczy
+Gutenberg-tm electronic działa, jeśli przestrzegasz warunków tego
+umowy i pomóc w zachowaniu swobodnego dostępu do Projektu Gutenberg-tm w przyszłości
+prace elektroniczne. Patrz paragraf 1.E poniżej.
+
+1.C. Fundacja Archiwum Literackie Projekt Gutenberg („the
+Foundation” lub PGLAF), posiada prawa autorskie do kompilacji w kolekcji
+dzieł elektronicznych Projektu Gutenberg-tm. Prawie wszystkie osoby
+prace w kolekcji znajdują się w domenie publicznej w Stanach Zjednoczonych
+Stany. Jeśli pojedyncza praca nie jest chroniona prawem autorskim w
+Stany Zjednoczone i znajdujesz się w Stanach Zjednoczonych, my nie
+rościć sobie prawo do uniemożliwienia kopiowania, rozpowszechniania, wykonywania,
+wyświetlanie lub tworzenie dzieł pochodnych na podstawie utworu, o ile
+wszystkie odniesienia do Projektu Gutenberg zostały usunięte. Oczywiście, mamy nadzieję
+że wesprzecie misję promowania Projektu Gutenberg-tm
+swobodny dostęp do utworów elektronicznych poprzez swobodne udostępnianie Projektu Gutenberg-tm
+działa zgodnie z warunkami niniejszej umowy w zakresie przechowywania
+Nazwa projektu Gutenberg-tm związana z pracą. Możesz łatwo
+przestrzegać warunków niniejszej umowy, przechowując tę ​​pracę w
+w tym samym formacie z załączoną pełną licencją Project Gutenberg-tm kiedy
+udostępniasz go bezpłatnie innym.
+
+1.D. Obowiązują również prawa autorskie miejsca, w którym się znajdujesz
+co możesz zrobić z tą pracą. Prawa autorskie w większości krajów są
+w ciągłym stanie zmian. Jeśli jesteś poza Stanami Zjednoczonymi,
+sprawdź przepisy obowiązujące w Twoim kraju oprócz warunków
+zgodę przed pobraniem, kopiowaniem, wyświetlaniem, wykonywaniem,
+dystrybucja lub tworzenie dzieł pochodnych opartych na tej lub jakiejkolwiek innej pracy
+inne prace związane z Projektem Gutenberg-tm. Fundacja sprawia, że ​​nie
+oświadczeń dotyczących statusu praw autorskich do jakiejkolwiek pracy w jakimkolwiek
+kraju innym niż Stany Zjednoczone.
+
+1.E. O ile nie usunąłeś wszystkich odniesień do Projektu Gutenberg:
+
+1.E.1. Poniższe zdanie, z aktywnymi linkami do, lub inne
+natychmiastowego dostępu, musi pojawić się pełna Licencja Projektu Gutenberg-tm
+w widocznym miejscu, gdy jakakolwiek kopia pracy Projektu Gutenberg-tm (dowolna praca
+na którym pojawia się fraza „Projekt Gutenberg” lub z którym
+fraza „Projekt Gutenberg” jest powiązana) jest otwierana, wyświetlana,
+wykonywane, oglądane, kopiowane lub rozpowszechniane:
+
+  Ten eBook jest przeznaczony do użytku każdego w Stanach Zjednoczonych i
+  większość innych części świata bez żadnych kosztów i prawie bez
+  jakiekolwiek ograniczenia. Możesz go skopiować, oddać lub ponownie wykorzystać
+  zgodnie z warunkami dołączonej do niej Licencji Projektu Gutenberg
+  eBook lub online na www.gutenberg.org. Jeśli nie znajdujesz się w
+  Stany Zjednoczone, będziesz musiał sprawdzić przepisy kraju, w którym się znajdujesz
+  znajdujesz się przed użyciem tego eBooka.
+
+1.E.2. Jeśli jest to indywidualna praca elektroniczna Projektu Gutenberg-tm
+pochodzą z tekstów niechronionych amerykańskim prawem autorskim (nie
+zawierać zawiadomienie wskazujące, że zostało zamieszczone za zgodą
+posiadacz praw autorskich), dzieło może być kopiowane i rozpowszechniane wśród wszystkich osób w
+Stanów Zjednoczonych bez uiszczania jakichkolwiek opłat. Jeśli jesteś
+redystrybucja lub udostępnianie utworu z frazą „Projekt
+Gutenberga” związanego z pracą lub pojawiającego się w pracy, musisz się do niej zastosować
+albo z wymogami pkt 1.E.1 do 1.E.7 albo
+uzyskać zgodę na korzystanie z utworu i Projektu Gutenberg-tm
+znak towarowy, jak określono w paragrafach 1.E.8 lub 1.E.9.
+
+1.E.3. Jeśli zostanie wysłana indywidualna praca elektroniczna Projektu Gutenberg-tm
+za zgodą właściciela praw autorskich, twoje użycie i dystrybucja
+muszą być zgodne z punktami od 1.E.1 do 1.E.7 i wszelkimi
+dodatkowe warunki nałożone przez właściciela praw autorskich. Dodatkowe warunki
+będzie powiązany z Licencją Projektu Gutenberg-tm dla wszystkich prac
+zamieszczone za zgodą właściciela praw autorskich, znajdującego się pod adresem
+początek tej pracy.
+
+1.E.4. Nie odłączaj, nie odłączaj ani nie usuwaj pełnego projektu Gutenberg-tm
+Postanowienia licencyjne zawarte w tej pracy lub jakiekolwiek pliki zawierające jej część
+pracy lub jakiejkolwiek innej pracy związanej z Projektem Gutenberg-tm.
+
+1.E.5. Nie kopiuj, nie wyświetlaj, nie wykonuj, nie rozpowszechniaj ani nie redystrybuuj tego
+pracy elektronicznej lub jakiejkolwiek części tej pracy elektronicznej bez
+wyraźnie wyświetlające zdanie określone w paragrafie 1.E.1 z
+aktywne linki lub natychmiastowy dostęp do pełnych warunków Projektu
+Licencja Gutenberg-tm.
+
+1.E.6. Możesz konwertować i rozpowszechniać tę pracę w dowolnym formacie binarnym,
+skompresowana, oznaczona, niezastrzeżona lub zastrzeżona forma, w tym
+dowolny edytor tekstu lub formularz hipertekstowy. Jeśli jednak zapewnisz dostęp
+rozpowszechniać lub rozpowszechniać kopie dzieła Projektu Gutenberg-tm w formacie
+inny niż „Plain Vanilla ASCII” lub inny format używany w oficjalnej wersji
+wersja zamieszczona na oficjalnej stronie Projektu Gutenberg-tm
+(www.gutenberg.org), musisz, bez dodatkowych kosztów, opłat lub wydatków
+użytkownikowi, dostarczyć kopię, sposób wyeksportowania kopii lub sposób
+uzyskania na żądanie kopii dzieła w oryginale „Plain
+Vanilla ASCII” lub w innej formie. Każdy format alternatywny musi zawierać rozszerzenie
+pełna Licencja Projektu Gutenberg-tm, jak określono w paragrafie 1.E.1.
+
+1.E.7. Nie pobieraj opłat za dostęp, przeglądanie, wyświetlanie,
+wykonywania, kopiowania lub rozpowszechniania jakichkolwiek prac Projektu Gutenberg-tm
+chyba że zastosujesz się do punktu 1.E.8 lub 1.E.9.
+
+1.E.8. Możesz pobrać rozsądną opłatę za kopie lub dostarczenie
+dostęp do lub rozpowszechnianie prac elektronicznych Projektu Gutenberg-tm
+pod warunkiem że:
+
+* Płacisz opłatę licencyjną w wysokości 20% zysków brutto, z których czerpiesz
+  wykorzystanie prac Projektu Gutenberg-tm obliczone metodą
+  którego już używasz do obliczania obowiązujących podatków. Opłata jest należna
+  właścicielowi znaku towarowego Project Gutenberg-tm, ale ma
+  zgodził się przekazać na rzecz Projektu tantiemy na mocy niniejszego paragrafu
+  Fundacja Archiwum Literackie Gutenberga. Opłaty licencyjne muszą być opłacone
+  w ciągu 60 dni od każdego dnia, w którym przygotowujesz (lub jesteś
+  prawnie zobowiązani do sporządzenia) okresowych zeznań podatkowych. Rodzina królewska
+  płatności powinny być wyraźnie oznaczone jako takie i przesłane do Projektu
+  Fundacji Archiwum Literackie Gutenberga pod adresem podanym w
+  Sekcja 4, „Informacje o darowiznach na rzecz Projektu Gutenberg
+  Fundacji Archiwum Literackie”.
+
+* Zapewniasz pełny zwrot wszelkich pieniędzy zapłaconych przez użytkownika, który powiadomi
+  pisemnie (lub e-mailem) w ciągu 30 dni od otrzymania tego
+  nie zgadza się na warunki pełnego Projektu Gutenberg-tm
+  Licencja. Musisz zażądać od takiego użytkownika zwrotu lub zniszczenia wszystkich
+  kopii utworów znajdujących się na nośniku fizycznym i zaprzestać ich używania
+  wszelkie użycie i dostęp do innych kopii Projektu Gutenberg-tm
+  Pracuje.
+
+* Zapewniasz, zgodnie z paragrafem 1.F.3, pełny zwrot kosztów
+  wszelkie pieniądze zapłacone za dzieło lub egzemplarz zastępczy, jeżeli wada
+  praca elektroniczna zostanie wykryta i zgłoszona w ciągu 90 dni od
+  odbiór pracy.
+
+* Przestrzegasz wszystkich innych warunków tej umowy za darmo
+  dystrybucja prac Projektu Gutenberg-tm.
+
+1.E.9. Jeśli chcesz pobrać opłatę lub rozpowszechniać Projekt
+Gutenberg-tm utwór elektroniczny lub zespół utworów na innych zasadach niż
+są określone w niniejszej umowie, należy uzyskać pisemną zgodę
+z Fundacji Archiwum Literackie Projekt Gutenberg, kierownik ds
+znak towarowy Projektu Gutenberg-tm. Skontaktuj się z Fundacją zgodnie z ustaleniami
+dalej w sekcji 3 poniżej.
+
+1. F.
+
+1.F.1. Wolontariusze i pracownicy Projektu Gutenberg wydają znaczne kwoty
+wysiłków w celu zidentyfikowania, zbadania praw autorskich, transkrypcji i korekty
+utwory niechronione amerykańskim prawem autorskim przy tworzeniu Projektu
+Kolekcja Gutenberg-tm. Pomimo tych wysiłków Projekt Gutenberg-tm
+utwory elektroniczne oraz nośnik, na którym mogą być przechowywane, mogą
+zawierają „wady”, takie jak między innymi niekompletne, niedokładne
+lub uszkodzone dane, błędy w transkrypcji, prawa autorskie lub inne
+naruszenie własności intelektualnej, wadliwy lub uszkodzony dysk lub
+innym nośniku, wirusem komputerowym lub kodami komputerowymi, które uszkadzają lub
+nie mogą być odczytane przez twój sprzęt.
+
+1.F.2. OGRANICZONA GWARANCJA, WYŁĄCZENIE ODPOWIEDZIALNOŚCI ZA SZKODY - Z wyjątkiem „Prawa
+Wymiany lub Refundacji” opisanej w paragrafie 1.F.3 Projektu
+Fundacja Archiwum Literackie Gutenberga, właściciel Projektu
+znaku towarowego Gutenberg-tm oraz wszelkich innych stron rozpowszechniających Projekt
+Elektroniczna praca Gutenberg-tm na mocy niniejszej umowy, zrzeka się wszystkich
+odpowiedzialności za szkody, koszty i wydatki, w tym prawne
+opłaty. ZGADZASZ SIĘ, ŻE NIE MASZ ŚRODKÓW ZARADCZYCH NA ZANIEDBANIE, ŚCIŚLE
+ODPOWIEDZIALNOŚĆ, NARUSZENIE GWARANCJI LUB NARUSZENIE UMOWY Z WYJĄTKIEM
+PRZEWIDZIANE W USTĘPIE 1.F.3. ZGADZASZ SIĘ, ŻE FUNDACJA, THE
+WŁAŚCICIEL ZNAKU TOWAROWEGO ANI DYSTRYBUTOR W RAMACH NINIEJSZEJ UMOWY NIE BĘDĄ
+ODPOWIEDZIALNOŚĆ WOBEC UŻYTKOWNIKA ZA RZECZYWISTĄ, BEZPOŚREDNIĄ, POŚREDNIĄ, WYNIKOWĄ, KARNĄ LUB
+PRZYPADKOWE SZKODY, NAWET W PRZYPADKU POWIADOMIENIA O MOŻLIWOŚCI TAKICH SZKÓD
+SZKODA.
+
+1.F.3. OGRANICZONE PRAWO DO WYMIANY LUB ZWROTU PIENIĘDZY — Jeśli odkryjesz a
+wady w tej pracy elektronicznej w ciągu 90 dni od jej otrzymania, możesz
+otrzymać zwrot pieniędzy (jeśli w ogóle) zapłaciłeś za to, wysyłając
+pisemne wyjaśnienie osobie, od której otrzymałeś pracę. Jeśli ty
+otrzymałeś pracę na nośniku fizycznym, musisz zwrócić nośnik
+wraz z pisemnym wyjaśnieniem. Osoba lub podmiot, który Ci dostarczył
+z wadliwym dziełem może postanowić o dostarczeniu kopii zastępczej
+zamiast zwrotu. Jeśli otrzymałeś pracę w formie elektronicznej, osoba
+lub podmiot, który ci je dostarcza, może zdecydować się na drugie
+możliwość otrzymania pracy w formie elektronicznej zamiast zwrotu pieniędzy. Jeśli
+drugi egzemplarz również jest wadliwy, możesz pisemnie zażądać zwrotu pieniędzy
+bez dalszych możliwości rozwiązania problemu.
+
+1.F.4. Z wyjątkiem określonego ograniczonego prawa do wymiany lub zwrotu pieniędzy
+w paragrafie 1.F.3 ta praca jest dostarczana „TAK JAK JEST”, BEZ NR
+INNE GWARANCJE JAKIEGOKOLWIEK RODZAJU, WYRAŹNE LUB DOROZUMIANE, W TYM MIĘDZY INNYMI
+OGRANICZONE DO GWARANCJI PRZYDATNOŚCI HANDLOWEJ LUB PRZYDATNOŚCI DO JAKIEGOKOLWIEK CELU.
+
+1.F.5. Niektóre stany nie zezwalają na zrzeczenie się pewnych dorozumianych
+gwarancji lub wyłączenia lub ograniczenia niektórych typów
+odszkodowanie. Jeśli jakiekolwiek zrzeczenie się odpowiedzialności lub ograniczenie określone w niniejszej umowie
+narusza prawo państwa, któremu podlega niniejsza umowa,
+umowa będzie interpretowana jako maksymalne zrzeczenie się odpowiedzialności lub
+ograniczenie dozwolone przez obowiązujące prawo stanowe. Inwalidztwo lub
+niewykonalność któregokolwiek z postanowień niniejszej umowy nie powoduje nieważności
+pozostałe postanowienia.
+
+1.F.6. ODPOWIEDZIALNOŚĆ — Zgadzasz się zabezpieczyć i zatrzymać Fundację,
+właściciel znaku towarowego, jakikolwiek agent lub pracownik Fundacji, ktokolwiek
+udostępnianie kopii utworów elektronicznych Projektu Gutenberg-tm w
+zgodnie z niniejszą umową, oraz wszelkich wolontariuszy związanych z
+produkcja, promocja i dystrybucja Projektu Gutenberg-tm
+utwory elektroniczne, wolne od wszelkiej odpowiedzialności, kosztów i wydatków,
+w tym opłaty prawne, które wynikają bezpośrednio lub pośrednio z któregokolwiek z nich
+następujące czynności, które wykonujesz lub powodujesz: (a) rozpowszechnianie tego
+lub jakąkolwiek pracę Projektu Gutenberg-tm, (b) zmianę, modyfikację lub
+uzupełnienia lub usunięcia w jakiejkolwiek pracy Projektu Gutenberg-tm oraz (c) wszelkie
+Wada, którą powodujesz.
+
+Sekcja 2. Informacje o misji Projektu Gutenberg-tm
+
+Projekt Gutenberg-tm jest synonimem darmowej dystrybucji
+utwory elektroniczne w formatach czytelnych dla najszerszej gamy użytkowników
+komputery, w tym komputery przestarzałe, stare, w średnim wieku i nowe. Ono
+istnieje dzięki staraniom setek wolontariuszy i darowizn
+od ludzi ze wszystkich środowisk.
+
+Wolontariuszy i wsparcia finansowego w celu zapewnienia wolontariuszy z
+pomoc, której potrzebują, ma kluczowe znaczenie dla dotarcia do Projektu Gutenberg-tm
+cele i zapewnienie, że kolekcja Projektu Gutenberg-tm będzie
+pozostaną swobodnie dostępne dla przyszłych pokoleń. W 2001 roku Projekt
+Fundacja Archiwum Literackie Gutenberga została utworzona w celu zapewnienia bezpieczeństwa
+i trwała przyszłość Projektu Gutenberg-tm i przyszłość
+pokolenia. Aby dowiedzieć się więcej o Projekcie Literackim Gutenberg
+Archive Foundation i jak Twoje wysiłki i darowizny mogą pomóc, zobacz
+Sekcje 3 i 4 oraz strona informacyjna Fundacji pod adresem
+www.gutenberg.org
+
+Sekcja 3. Informacje o Projekcie Literackim Gutenberg
+Fundacja Archiwum
+
+Fundacja Archiwum Literackie Projektu Gutenberg jest organizacją non-profit
+501(c)(3) korporacja edukacyjna zorganizowana zgodnie z prawem
+stan Mississippi i uzyskał status zwolnienia podatkowego od Internal
+Służba Skarbowa. EIN Fundacji lub federalna identyfikacja podatkowa
+numer to 64-6221541. Składki na Literacki Projekt Gutenberg
+Archive Foundation podlegają odliczeniu od podatku w pełnym zakresie dozwolonym przez
+prawa federalne USA i prawa twojego stanu.
+
+Biuro biznesowe Fundacji znajduje się pod adresem 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Łącza do kontaktów e-mail i więcej
+dotychczasowe dane kontaktowe można znaleźć na stronie internetowej Fundacji
+oraz oficjalna strona pod adresem www.gutenberg.org/contact
+
+Sekcja 4. Informacje o darowiznach na rzecz Projektu Gutenberg
+Fundacja Archiwum Literackie
+
+Projekt Gutenberg-tm zależy od i nie może bez niego przetrwać
+szerokie poparcie społeczne i darowizny na realizację swojej misji
+zwiększenie liczby dzieł należących do domeny publicznej i licencjonowanych, które mogą być
+swobodnie rozpowszechniane w formie nadającej się do odczytu maszynowego, dostępnej dla najszerszego grona odbiorców
+szereg urządzeń, w tym sprzęt przestarzały. Wiele drobnych darowizn
+(od 1 USD do 5000 USD) są szczególnie ważne dla utrzymania zwolnienia z podatku
+status z IRS.
+
+Fundacja zobowiązuje się do przestrzegania przepisów prawa regulujących
+organizacje charytatywne i darowizny na cele charytatywne we wszystkich 50 stanach Stanów Zjednoczonych
+Stany. Wymogi dotyczące zgodności nie są jednolite i zajmuje to ok
+znaczny wysiłek, dużo papierkowej roboty i wiele opłat do spełnienia i utrzymania
+z tymi wymaganiami. Nie zabiegamy o darowizny w lokalizacjach
+w przypadku gdy nie otrzymaliśmy pisemnego potwierdzenia zgodności. Wysyłać
+DAROWIZNY lub określić stan zgodności dla każdego konkretnego
+odwiedź stronę www.gutenberg.org/donate
+
+Chociaż nie możemy i nie zabiegamy o datki od państw, w których my
+nie spełnili wymagań dotyczących pozyskiwania, nie znamy żadnego zakazu
+przeciwko przyjmowaniu niezamawianych darowizn od darczyńców w takich stanach, którzy
+zwracaj się do nas z ofertami darowizn.
+
+Darowizny międzynarodowe są przyjmowane z wdzięcznością, ale nie możemy ich przekazywać
+wszelkie oświadczenia dotyczące opodatkowania darowizn otrzymanych od
+poza Stanami Zjednoczonymi. Samo prawo USA zalewa nasz mały personel.
+
+Aktualne darowizny można znaleźć na stronach internetowych Projektu Gutenberg
+metody i adresy. Darowizny są przyjmowane w wielu innych
+sposoby, w tym czeki, płatności online i darowizny z kart kredytowych. Do
+przekaż darowiznę, odwiedź stronę: www.gutenberg.org/donate
+
+Sekcja 5. Ogólne informacje o utworach elektronicznych Projektu Gutenberg-tm
+
+Pomysłodawcą Projektu był profesor Michael S. Hart
+Gutenberg-tm koncepcja biblioteki dzieł elektronicznych, które mogłyby być
+swobodnie udostępniane komukolwiek. Przez czterdzieści lat produkował i
+dystrybuowane eBooki Projektu Gutenberg-tm tylko z luźną siecią
+wsparcie wolontariuszy.
+
+EBooki Projektu Gutenberg-tm są często tworzone z kilku drukowanych
+wydaniach, z których wszystkie zostały potwierdzone jako niechronione prawem autorskim w
+USA, chyba że dołączona zostanie informacja o prawach autorskich. Tak więc nie
+koniecznie trzymaj eBooki w zgodzie z jakimkolwiek konkretnym papierem
+wydanie.
+
+Większość ludzi zaczyna od naszej strony internetowej, która ma główną wyszukiwarkę PG
+źródło: www.gutenberg.org
+
+Ta strona internetowa zawiera informacje o Projekcie Gutenberg-tm,
+w tym jak przekazywać darowizny na rzecz Literackiego Projektu Gutenberg
+Archive Foundation, jak i jak pomóc w tworzeniu naszych nowych eBooków
+zapisz się do naszego biuletynu e-mail, aby otrzymywać informacje o nowych e-bookach.

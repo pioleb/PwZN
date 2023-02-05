@@ -17,5 +17,5 @@ print(dane)
 
 plik = "kot_dane.json"
 
-with open('Lab3/'+plik, 'w') as f:
+with open('Lab4/'+plik, 'w') as f:
     json.dump(dane, f)
